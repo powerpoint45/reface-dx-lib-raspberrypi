@@ -1,0 +1,54 @@
+VOICE NAME     = Plijngo\  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       24
+ALGORITHM      =        1
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =        0
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       82
+PEG RATE 2     =        4
+PEG RATE 3     =      124
+PEG RATE 4     =       44
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =       36
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =        6 (Drive)
+FX1 PARAM 2    =       46 (Tone)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       33 (---)
+FX2 PARAM 2    =       48 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On      Off       On
+EG RATE 1      =      127      127      107       94
+EG RATE 2      =       17       33       52      104
+EG RATE 3      =        0       73       13       75
+EG RATE 4      =       63       69       30       51
+EG LEVEL 1     =      100       94       81      113
+EG LEVEL 2     =       92       69       87       52
+EG LEVEL 3     =       79       93       32       89
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       32       48       46        0
+SCALING LD     =       85      100       46       67
+SCALING RD     =       47       83      115      110
+SCALING LC     =     +EXP     +EXP     +EXP     -LIN
+SCALING RC     =     +LIN     +LIN     -EXP     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =       38       46       80       87
+OUT LEVEL      =      108       86       79       76
+FEEDBACK       =       38        3       70       40
+FB TYPE        = Sawtooth   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Fixed    Ratio    Ratio
+RATIO | FREQ   =    0.595    6.918     14.0     7.08
+   freq coarse =        0        4       14        7
+   freq fine   =       19       84        0        8
+FREQ DETUNE    =       21       26       35       -3

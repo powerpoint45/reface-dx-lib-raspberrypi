@@ -1,0 +1,54 @@
+VOICE NAME     = Baphomet  
+============================
+TRANSPOSE      =        0
+MONO/POLY      = Mono-Legato
+PORTA TIME     =       33
+PB RANGE       =        2
+ALGORITHM      =        1
+LFO WAVE       =     Sine
+LFO SPEED      =       55
+LFO DELAY      =       52
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =      127
+PEG RATE 3     =       76
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =      -12
+PEG LEVEL 4    =       -1
+FX1 TYPE       =        4 (Flanger)
+FX1 PARAM 1    =       23 (Depth)
+FX1 PARAM 2    =       81 (Rate)
+FX2 TYPE       =        5 (Phaser)
+FX2 PARAM 1    =        9 (Depth)
+FX2 PARAM 2    =       53 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127       83      127
+EG RATE 2      =      127      127       47      127
+EG RATE 3      =      127      127      127      127
+EG RATE 4      =      105      121       64       64
+EG LEVEL 1     =      127      127        0      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        1        0        0        0
+OUT LEVEL      =      127       86       82       42
+FEEDBACK       =       42       58       68       86
+FB TYPE        =   Square Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5     1.03      1.0     2.55
+   freq coarse =        0        1        1        2
+   freq fine   =        0        3        0       55
+FREQ DETUNE    =        0        6        6        6

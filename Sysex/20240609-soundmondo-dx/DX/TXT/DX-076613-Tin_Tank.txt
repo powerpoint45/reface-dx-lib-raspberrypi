@@ -1,0 +1,54 @@
+VOICE NAME     = Tin Tank  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =       18
+PB RANGE       =       12
+ALGORITHM      =        6
+LFO WAVE       = Triangle
+LFO SPEED      =       81
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =      117
+PEG RATE 2     =      127
+PEG RATE 3     =       87
+PEG RATE 4     =      127
+PEG LEVEL 1    =      -24
+PEG LEVEL 2    =       20
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       87 (Depth)
+FX1 PARAM 2    =       83 (Time)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       40 (Depth)
+FX2 PARAM 2    =       10 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      126       99
+EG RATE 2      =       88       60       57      102
+EG RATE 3      =       92       63       56       57
+EG RATE 4      =       72       72       59       65
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      106       23      115      106
+EG LEVEL 3     =        0        0        2       29
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On      Off
+PEG Off/On     =       On      Off       On       On
+VELO SENS      =        0        0        0       83
+OUT LEVEL      =      108      127       93      127
+FEEDBACK       =        0        0       81        0
+FB TYPE        = Sawtooth Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Fixed    Ratio
+RATIO | FREQ   =      0.5      1.0  257.036      0.5
+   freq coarse =        0        1       19        0
+   freq fine   =        0        0       41        0
+FREQ DETUNE    =        0        0        0        0

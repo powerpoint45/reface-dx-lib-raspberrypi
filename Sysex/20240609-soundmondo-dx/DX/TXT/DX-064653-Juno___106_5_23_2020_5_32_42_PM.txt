@@ -1,0 +1,54 @@
+VOICE NAME     = Juno   106
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        3
+LFO WAVE       =     Sine
+LFO SPEED      =       45
+LFO DELAY      =       26
+LFO PMD        =       13
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =      114 (Depth)
+FX1 PARAM 2    =       32 (Rate)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       27 (Depth)
+FX2 PARAM 2    =       99 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      113      116      127      127
+EG RATE 2      =       86      109       69      104
+EG RATE 3      =        0       40       60       63
+EG RATE 4      =       46       27       93       30
+EG LEVEL 1     =      127      127      109      101
+EG LEVEL 2     =      100      103       74       90
+EG LEVEL 3     =      104        4        0        0
+EG LEVEL 4     =       15        0      127        0
+RATE SCALING   =        4       13        4        4
+SCALING LD     =      108        0        0        0
+SCALING RD     =      119        0        0        0
+SCALING LC     =     +LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       62       43       90      102
+OUT LEVEL      =      127      120        7       95
+FEEDBACK       =       31        2       56        4
+FB TYPE        = Sawtooth   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5      0.5      5.0      3.5
+   freq coarse =        0        0        5        3
+   freq fine   =        0        0        0       50
+FREQ DETUNE    =        0        5        0       -5

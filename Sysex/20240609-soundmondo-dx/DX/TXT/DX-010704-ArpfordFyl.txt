@@ -1,0 +1,54 @@
+VOICE NAME     = ArpfordFyl
+============================
+TRANSPOSE      =        0
+MONO/POLY      = Mono-Full
+PORTA TIME     =        5
+PB RANGE       =        7
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       81
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =      127
+PEG RATE 2     =       77
+PEG RATE 3     =       40
+PEG RATE 4     =       47
+PEG LEVEL 1    =       -8
+PEG LEVEL 2    =       -1
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =      125 (---)
+FX1 PARAM 2    =       37 (---)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       41 (Depth)
+FX2 PARAM 2    =       55 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      103      110      102      110
+EG RATE 2      =       98       30       97       30
+EG RATE 3      =      127        8      127        8
+EG RATE 4      =       71       60       72       65
+EG LEVEL 1     =      100      127      100      127
+EG LEVEL 2     =      127      120      127      120
+EG LEVEL 3     =      127       90      116       90
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       12        0       12        0
+SCALING LD     =        9        3        9        1
+SCALING RD     =        7       13        5       22
+SCALING LC     =     +LIN     -LIN     +LIN     -LIN
+SCALING RC     =     -LIN     -EXP     -EXP     -EXP
+LFO AMD        =        0        5        0       10
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On      Off      Off       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      120       96      120       96
+FEEDBACK       =       71       66       76       55
+FB TYPE        =   Square Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      2.0      1.0      2.0      2.0
+   freq coarse =        2        1        2        2
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       -7       -9        7        7

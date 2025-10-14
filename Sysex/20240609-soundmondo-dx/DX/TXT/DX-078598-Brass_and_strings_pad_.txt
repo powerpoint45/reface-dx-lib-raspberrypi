@@ -1,0 +1,54 @@
+VOICE NAME     = Br&Str Pad
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       24
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       43
+LFO DELAY      =        0
+LFO PMD        =        8
+PEG RATE 1     =       36
+PEG RATE 2     =       39
+PEG RATE 3     =      113
+PEG RATE 4     =        0
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =      -40
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =        0 (Drive)
+FX1 PARAM 2    =      127 (Tone)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       27 (Depth)
+FX2 PARAM 2    =      101 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      117      127
+EG RATE 2      =       71        0       65       94
+EG RATE 3      =       89        0       77        0
+EG RATE 4      =       49       22       70       34
+EG LEVEL 1     =        0      127        1        0
+EG LEVEL 2     =       52      127       51      127
+EG LEVEL 3     =      114      127       40      127
+EG LEVEL 4     =       33        0        0        0
+RATE SCALING   =       79       37        0        0
+SCALING LD     =        2       20        1        5
+SCALING RD     =        0        0       18       17
+SCALING LC     =     +LIN     -LIN     +LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =       96       81       85       46
+FEEDBACK       =        2       55       16        7
+FB TYPE        =   Square   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      2.5      2.5      4.0      1.0
+   freq coarse =        2        2        4        1
+   freq fine   =       50       50        0        0
+FREQ DETUNE    =       -2        2      -24      -12

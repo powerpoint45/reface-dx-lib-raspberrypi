@@ -1,0 +1,54 @@
+VOICE NAME     = STINGSWIRL
+============================
+TRANSPOSE      =       -8
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        9
+LFO WAVE       =     Sine
+LFO SPEED      =       58
+LFO DELAY      =       71
+LFO PMD        =       10
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =       11
+PEG LEVEL 2    =        1
+PEG LEVEL 3    =       16
+PEG LEVEL 4    =      -13
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       22 (---)
+FX2 PARAM 2    =       65 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       45       58       65        5
+EG RATE 2      =       23       45       39       44
+EG RATE 3      =       36       45       42       53
+EG RATE 4      =       39       28       31       58
+EG LEVEL 1     =      120      127      119      122
+EG LEVEL 2     =      108      127      127      116
+EG LEVEL 3     =      118      127       93       49
+EG LEVEL 4     =       19        0       12        0
+RATE SCALING   =       56       13        0       15
+SCALING LD     =       19       12        7       17
+SCALING RD     =       32       46       26       85
+SCALING LC     =     -EXP     -LIN     +EXP     -EXP
+SCALING RC     =     +EXP     +LIN     -EXP     +EXP
+LFO AMD        =        7        0        1       24
+LFO PMD Off/On =      Off       On       On      Off
+PEG Off/On     =      Off      Off      Off       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      127       90      121       95
+FEEDBACK       =      127       28       64        9
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Fixed
+RATIO | FREQ   =      1.0      0.5      1.0    1.738
+   freq coarse =        1        0        1        1
+   freq fine   =        0        0        0       24
+FREQ DETUNE    =        4        3        0       -4

@@ -1,0 +1,54 @@
+VOICE NAME     = MusicBox  
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       = Triangle
+LFO SPEED      =       86
+LFO DELAY      =        8
+LFO PMD        =        0
+PEG RATE 1     =      127
+PEG RATE 2     =      127
+PEG RATE 3     =      127
+PEG RATE 4     =      127
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =      104 (---)
+FX1 PARAM 2    =       50 (---)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =      104 (Depth)
+FX2 PARAM 2    =       40 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       55      115      120      115
+EG RATE 3      =        6        0        0        0
+EG RATE 4      =       66       31       69       31
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =        0        0        0        0
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       43        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        5        0        0        0
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     -EXP     -EXP     -EXP     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       53       61       53       61
+OUT LEVEL      =      118       49      105       79
+FEEDBACK       =        0        0        0        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      8.0      2.0      4.0
+   freq coarse =        1        8        2        4
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

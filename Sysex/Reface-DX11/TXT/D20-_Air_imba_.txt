@@ -1,0 +1,54 @@
+VOICE NAME     = "Air"imba 
+============================
+TRANSPOSE      =      -10
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        7
+ALGORITHM      =        3
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =       91
+LFO DELAY      =        0
+LFO PMD        =       52
+PEG RATE 1     =      127
+PEG RATE 2     =      127
+PEG RATE 3     =      127
+PEG RATE 4     =      127
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       87       11       96       21
+EG RATE 3      =       68      127       59      127
+EG RATE 4      =       69       40       40      127
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127        0       69      127
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     -EXP     -EXP     -EXP     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0       37       37        0
+OUT LEVEL      =      113       73      107       69
+FEEDBACK       =        0        0       16       35
+FB TYPE        = Sawtooth Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =    14.13     1.41     13.0    23.55
+   freq coarse =       14        1       13       23
+   freq fine   =       13       41        0       55
+FREQ DETUNE    =        4       -4        4        3

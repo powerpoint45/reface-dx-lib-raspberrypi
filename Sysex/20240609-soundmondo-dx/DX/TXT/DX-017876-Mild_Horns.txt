@@ -1,0 +1,54 @@
+VOICE NAME     = Mild Horns
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       12
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       86
+LFO DELAY      =       57
+LFO PMD        =        7
+PEG RATE 1     =      113
+PEG RATE 2     =      108
+PEG RATE 3     =       45
+PEG RATE 4     =       99
+PEG LEVEL 1    =       -2
+PEG LEVEL 2    =       -3
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       70 (Depth)
+FX1 PARAM 2    =       59 (Time)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       54 (Depth)
+FX2 PARAM 2    =        7 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       98       88       87       74
+EG RATE 2      =       71       98      103       80
+EG RATE 3      =        3       10       19       51
+EG RATE 4      =       83       86       90       66
+EG LEVEL 1     =      106      127      127       96
+EG LEVEL 2     =      127       19      110      127
+EG LEVEL 3     =       55        0      122       27
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       14        3       10        8
+SCALING LD     =       12        2        2        4
+SCALING RD     =        2       23        1       14
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On      Off       On      Off
+PEG Off/On     =       On      Off      Off       On
+VELO SENS      =       32       36       32       28
+OUT LEVEL      =      127       98      127       97
+FEEDBACK       =       43       43       17       79
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0    0.995      1.0     1.01
+   freq coarse =        1        0        1        1
+   freq fine   =        0       99        0        1
+FREQ DETUNE    =        2        0       -6       -4

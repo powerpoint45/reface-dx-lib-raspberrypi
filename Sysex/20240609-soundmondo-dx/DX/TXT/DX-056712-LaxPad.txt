@@ -1,0 +1,54 @@
+VOICE NAME     = LaxPad    
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        2
+LFO WAVE       = Sample & Hold
+LFO SPEED      =       43
+LFO DELAY      =       42
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       51 (Depth)
+FX1 PARAM 2    =       79 (Time)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       25 (Depth)
+FX2 PARAM 2    =       62 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       21       39      127       39
+EG RATE 2      =      127      127       58      127
+EG RATE 3      =      127        8      100       10
+EG RATE 4      =       45       49        0       70
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      124      127
+EG LEVEL 3     =      108       95      127       95
+EG LEVEL 4     =        0      127      127      127
+RATE SCALING   =       47        1        0       59
+SCALING LD     =      127      109        0        0
+SCALING RD     =      127       74        0       24
+SCALING LC     =     +LIN     -LIN     -LIN     +LIN
+SCALING RC     =     +LIN     -LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        4        0        0        0
+OUT LEVEL      =      100       73       40       67
+FEEDBACK       =       14       75       61        9
+FB TYPE        = Sawtooth Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5      1.0      2.0      2.0
+   freq coarse =        0        1        2        2
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       -5        0        0      -23

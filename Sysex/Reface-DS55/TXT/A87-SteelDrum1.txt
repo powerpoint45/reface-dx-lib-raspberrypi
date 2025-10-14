@@ -1,0 +1,54 @@
+VOICE NAME     = SteelDrum1
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        2
+LFO WAVE       = Triangle
+LFO SPEED      =       88
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =      127
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =        0 (Depth)
+FX2 PARAM 2    =        0 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      111      105      116
+EG RATE 2      =       79       35       44       35
+EG RATE 3      =       55       11       40       44
+EG RATE 4      =       66       50       69       69
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       21       21       28       28
+EG LEVEL 3     =        0       21        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       43        0        0        0
+SCALING LD     =        0        6        0        5
+SCALING RD     =        0       22        0       20
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     -EXP     -EXP     -EXP     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       37       37       45       53
+OUT LEVEL      =      113       57       69       59
+FEEDBACK       =        0        0        0        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      3.5     9.42
+   freq coarse =        1        1        3        9
+   freq fine   =        0        0       50       42
+FREQ DETUNE    =        3       -3        0        0

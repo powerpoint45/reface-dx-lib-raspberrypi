@@ -1,0 +1,54 @@
+VOICE NAME     = No Tide L 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        0
+ALGORITHM      =       11
+LFO WAVE       = Triangle
+LFO SPEED      =       64
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =        0
+PEG RATE 2     =        0
+PEG RATE 3     =        0
+PEG RATE 4     =        0
+PEG LEVEL 1    =        1
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       75 (Depth)
+FX1 PARAM 2    =       36 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       74 (Depth)
+FX2 PARAM 2    =       70 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       76      127       41       69
+EG RATE 2      =       47       55       71      103
+EG RATE 3      =        0        7        1        0
+EG RATE 4      =       16        0        0        0
+EG LEVEL 1     =      105      127      114      127
+EG LEVEL 2     =      105       30      108       84
+EG LEVEL 3     =       50        1       67       58
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        6       12
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =      120      120      120      120
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       23       97       96       44
+OUT LEVEL      =      121      111      116      125
+FEEDBACK       =        4       20        9       73
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      2.0      1.0      1.0
+   freq coarse =        1        2        1        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

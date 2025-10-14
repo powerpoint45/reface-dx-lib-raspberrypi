@@ -1,0 +1,54 @@
+VOICE NAME     = Warped    
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        3
+LFO WAVE       =     Sine
+LFO SPEED      =       64
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       89 (Depth)
+FX1 PARAM 2    =       78 (Time)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      111       41      127      120
+EG RATE 2      =       38       29       95       23
+EG RATE 3      =       12       36      108       28
+EG RATE 4      =       31       34       36       52
+EG LEVEL 1     =       86      127      127       51
+EG LEVEL 2     =      104       79       45       86
+EG LEVEL 3     =       94       81       42       55
+EG LEVEL 4     =       20       22        0       14
+RATE SCALING   =       67       92       27       51
+SCALING LD     =       54       38       67       76
+SCALING RD     =        4       23       45       12
+SCALING LC     =     +LIN     +EXP     +LIN     +LIN
+SCALING RC     =     -LIN     -LIN     -LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       10       51       69        0
+OUT LEVEL      =      111       85      100      127
+FEEDBACK       =       11       16       57       40
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Fixed
+RATIO | FREQ   =      1.0      2.0      1.0    1.047
+   freq coarse =        1        2        1        1
+   freq fine   =        0        0        0        2
+FREQ DETUNE    =        0        8       20        2

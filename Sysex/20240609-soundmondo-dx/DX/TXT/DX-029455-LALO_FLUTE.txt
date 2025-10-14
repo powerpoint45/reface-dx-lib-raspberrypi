@@ -1,0 +1,54 @@
+VOICE NAME     = LALO FLUTE
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       -2
+ALGORITHM      =        4
+LFO WAVE       =     Sine
+LFO SPEED      =      117
+LFO DELAY      =       58
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =      111 (Depth)
+FX1 PARAM 2    =       41 (Time)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       70       58       90      116
+EG RATE 2      =       69      127      102      111
+EG RATE 3      =       31       60       28        0
+EG RATE 4      =       89        0       31       23
+EG LEVEL 1     =      126      127      127      122
+EG LEVEL 2     =       46      115       76       56
+EG LEVEL 3     =       20       40       37        0
+EG LEVEL 4     =        5        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0       30       13
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =       69       10       54       46
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On      Off       On      Off
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      127       25       34       45
+FEEDBACK       =       23       35       42       85
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     2.08    0.985      1.0     1.03
+   freq coarse =        2        0        1        1
+   freq fine   =        8       97        0        3
+FREQ DETUNE    =        7        0        0        0

@@ -1,0 +1,54 @@
+VOICE NAME     = Clav Talk 
+============================
+TRANSPOSE      =       -4
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        1
+LFO WAVE       =     Sine
+LFO SPEED      =       15
+LFO DELAY      =       56
+LFO PMD        =        4
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        2 (Touch Wah)
+FX1 PARAM 1    =       42 (Sensibility)
+FX1 PARAM 2    =       74 (Rez)
+FX2 TYPE       =        1 (Distortion)
+FX2 PARAM 1    =       98 (Drive)
+FX2 PARAM 2    =       25 (Tone)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =      127      127      127      127
+EG RATE 3      =       47      127      127      127
+EG RATE 4      =      100      100      114      100
+EG LEVEL 1     =      127      127        0      127
+EG LEVEL 2     =      127      127        0      127
+EG LEVEL 3     =        0      127        0      127
+EG LEVEL 4     =        0        0      127        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =      100        0        0        0
+SCALING LC     =     +LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       42       29        0        0
+OUT LEVEL      =      122       90       76        0
+FEEDBACK       =       58        0        0        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     3.15     0.63      6.0      1.0
+   freq coarse =        3        0        6        1
+   freq fine   =       15       26        0        0
+FREQ DETUNE    =        0        0        0        0

@@ -1,0 +1,54 @@
+VOICE NAME     = LayerThick
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       10
+LFO WAVE       =   Square
+LFO SPEED      =        0
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        4 (Flanger)
+FX1 PARAM 1    =       45 (Depth)
+FX1 PARAM 2    =       30 (Rate)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      105      110      127      127
+EG RATE 2      =      100       80       40       40
+EG RATE 3      =       35       45       45       50
+EG RATE 4      =       60       50       70       90
+EG LEVEL 1     =      127      127      127      100
+EG LEVEL 2     =       70       60      127       90
+EG LEVEL 3     =      120      110        0       40
+EG LEVEL 4     =       80       35        0       20
+RATE SCALING   =        0        0        0        0
+SCALING LD     =       30        0        0       90
+SCALING RD     =       22        0        0       10
+SCALING LC     =     -EXP     -LIN     -EXP     +EXP
+SCALING RC     =     -EXP     -LIN     -EXP     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       60        0       60       60
+OUT LEVEL      =      127      100      127       15
+FEEDBACK       =       30       40        0       30
+FB TYPE        = Sawtooth   Square Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     0.75      1.5     0.75      4.5
+   freq coarse =        0        1        0        4
+   freq fine   =       50       50       50       50
+FREQ DETUNE    =        0        0        0        0

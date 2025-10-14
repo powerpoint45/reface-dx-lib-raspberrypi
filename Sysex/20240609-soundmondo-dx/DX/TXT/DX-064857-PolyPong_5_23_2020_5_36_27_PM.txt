@@ -1,0 +1,54 @@
+VOICE NAME     = PolyPong  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       88
+LFO DELAY      =       51
+LFO PMD        =       20
+PEG RATE 1     =      127
+PEG RATE 2     =       23
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =       48
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       65 (Depth)
+FX1 PARAM 2    =       50 (Time)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       33 (Depth)
+FX2 PARAM 2    =       13 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127       55
+EG RATE 2      =       19       38       20       39
+EG RATE 3      =       11       30       11       20
+EG RATE 4      =      115       90       98       97
+EG LEVEL 1     =      127      100      127      100
+EG LEVEL 2     =       99      127      100      127
+EG LEVEL 3     =       90       70       90       70
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        4        4        4        4
+SCALING LD     =        0        0        0        0
+SCALING RD     =        6        0        6        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -EXP     -LIN     -EXP     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On      Off      Off       On
+PEG Off/On     =      Off       On      Off      Off
+VELO SENS      =       30       17       25       46
+OUT LEVEL      =      127        8       92      127
+FEEDBACK       =       31       40       28       96
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Fixed    Ratio    Ratio
+RATIO | FREQ   =      0.5  109.648      3.0      0.5
+   freq coarse =        0       16        3        0
+   freq fine   =        0        4        0        0
+FREQ DETUNE    =        0        0       -6        0

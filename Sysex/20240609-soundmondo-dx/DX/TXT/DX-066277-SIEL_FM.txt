@@ -1,0 +1,54 @@
+VOICE NAME     = SIEL FM   
+============================
+TRANSPOSE      =       12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       = Sawtooth Up
+LFO SPEED      =       80
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        5 (Phaser)
+FX1 PARAM 1    =       36 (Depth)
+FX1 PARAM 2    =       25 (Rate)
+FX2 TYPE       =        5 (Phaser)
+FX2 PARAM 1    =       20 (Depth)
+FX2 PARAM 2    =      108 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       70      127      127      127
+EG RATE 2      =      127      127      127      127
+EG RATE 3      =      127      127      127      127
+EG RATE 4      =       60        0       52      100
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0       60        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        5       20       10        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       30        0       40        0
+OUT LEVEL      =      127       82       85      100
+FEEDBACK       =      100       94       85        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5      0.5      1.0      1.0
+   freq coarse =        0        0        1        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

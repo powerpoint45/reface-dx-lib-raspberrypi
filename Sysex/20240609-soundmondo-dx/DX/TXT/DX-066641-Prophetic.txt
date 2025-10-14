@@ -1,0 +1,54 @@
+VOICE NAME     = Prophetic 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        7
+ALGORITHM      =        7
+LFO WAVE       =     Sine
+LFO SPEED      =       89
+LFO DELAY      =        0
+LFO PMD        =       10
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       16 (Depth)
+FX1 PARAM 2    =        0 (Time)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       11 (Depth)
+FX2 PARAM 2    =       23 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On      Off       On
+EG RATE 1      =       91       80      127      127
+EG RATE 2      =      127       45      127      127
+EG RATE 3      =      127       22       97      127
+EG RATE 4      =       64       63      127      105
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      100      127      127
+EG LEVEL 3     =      127       50        0      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On      Off      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       16       15       28        5
+OUT LEVEL      =      127      120      108       96
+FEEDBACK       =       55       67       78       68
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =    0.995     0.99     1.53    0.955
+   freq coarse =        0        0        1        0
+   freq fine   =       99       98       53       91
+FREQ DETUNE    =       -2      -14      -26       18

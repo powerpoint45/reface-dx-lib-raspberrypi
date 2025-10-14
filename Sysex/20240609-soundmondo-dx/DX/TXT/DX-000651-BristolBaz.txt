@@ -1,0 +1,54 @@
+VOICE NAME     = BristolBaz
+============================
+TRANSPOSE      =        0
+MONO/POLY      = Mono-Legato
+PORTA TIME     =       15
+PB RANGE       =        3
+ALGORITHM      =        4
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =       28
+LFO DELAY      =        0
+LFO PMD        =        2
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        9
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       13 (---)
+FX1 PARAM 2    =       18 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      124      127        0        0
+EG RATE 2      =      113      127        0        0
+EG RATE 3      =       28      127        0        0
+EG RATE 4      =       79      100        0        0
+EG LEVEL 1     =      123      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       36        0        0        0
+SCALING LD     =       20        0       16        0
+SCALING RD     =        0        0       66        0
+SCALING LC     =     +EXP     -LIN     +LIN     -LIN
+SCALING RC     =     +LIN     +LIN     -LIN     +LIN
+LFO AMD        =        0        0       29        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On      Off      Off      Off
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      125       58       15        0
+FEEDBACK       =       25       37       12       17
+FB TYPE        =   Square   Square   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     0.51      1.0     13.0      0.5
+   freq coarse =        0        1       13        0
+   freq fine   =        2        0        0        0
+FREQ DETUNE    =        0        0        0        0

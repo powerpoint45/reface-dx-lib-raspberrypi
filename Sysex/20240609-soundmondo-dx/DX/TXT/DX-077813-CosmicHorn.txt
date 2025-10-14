@@ -1,0 +1,54 @@
+VOICE NAME     = CosmicHorn
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       95
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =      127
+PEG RATE 2     =       54
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =      -12
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       61 (Depth)
+FX1 PARAM 2    =       12 (Rate)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       61 (Depth)
+FX2 PARAM 2    =       50 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       74       79      127      127
+EG RATE 2      =       93       16       98       55
+EG RATE 3      =       45       45       62      103
+EG RATE 4      =       76      100       39      100
+EG LEVEL 1     =      123       22      127       83
+EG LEVEL 2     =      127       65      106       14
+EG LEVEL 3     =       91       96       96        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0       41
+SCALING LD     =       68       19       70        3
+SCALING RD     =        0        0        0        0
+SCALING LC     =     +LIN     -EXP     +LIN     -EXP
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        4        0        0        0
+LFO PMD Off/On =      Off       On       On      Off
+PEG Off/On     =      Off      Off      Off       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      100       42      100       24
+FEEDBACK       =       65       82       31       75
+FB TYPE        = Sawtooth   Square Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      0.5      1.0    10.16
+   freq coarse =        1        0        1       10
+   freq fine   =        0        0        0       16
+FREQ DETUNE    =        0        3       -3        4

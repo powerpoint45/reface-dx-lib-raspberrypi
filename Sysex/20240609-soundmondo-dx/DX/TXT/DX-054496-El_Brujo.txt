@@ -1,0 +1,54 @@
+VOICE NAME     = El Brujo2 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       12
+LFO WAVE       = Sawtooth Up
+LFO SPEED      =       38
+LFO DELAY      =        0
+LFO PMD        =        3
+PEG RATE 1     =       94
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       14 (Drive)
+FX1 PARAM 2    =       83 (Tone)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       87 (---)
+FX2 PARAM 2    =       24 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      117      117      117      107
+EG RATE 2      =      127      127      127      127
+EG RATE 3      =      127      127      127      127
+EG RATE 4      =      104      104      104      104
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       76       76       76       76
+SCALING LD     =        7       11       13        6
+SCALING RD     =        5       27       38       25
+SCALING LC     =     -LIN     -LIN     -LIN     -EXP
+SCALING RC     =     +EXP     -LIN     -EXP     -LIN
+LFO AMD        =       10       22       24       11
+LFO PMD Off/On =      Off       On       On      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       21        0        0       60
+OUT LEVEL      =       85      103       92       82
+FEEDBACK       =       44       43       42       37
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      2.0      4.0      6.0
+   freq coarse =        1        2        4        6
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       -6      -12        0       -4

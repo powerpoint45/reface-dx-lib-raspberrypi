@@ -1,0 +1,54 @@
+VOICE NAME     = Rhd LEAD  
+============================
+TRANSPOSE      =        0
+MONO/POLY      = Mono-Legato
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       64
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        2 (Touch Wah)
+FX1 PARAM 1    =       64 (Sensibility)
+FX1 PARAM 2    =        0 (Rez)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       64 (Depth)
+FX2 PARAM 2    =       64 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      125      127      127      127
+EG RATE 2      =      127      127      127      127
+EG RATE 3      =       40       19       50       26
+EG RATE 4      =        0       19      113        0
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =      127        0        0      127
+RATE SCALING   =        0       49      127        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =      127       91      127      103
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     -LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       37       96      127        0
+OUT LEVEL      =      120      118      127      111
+FEEDBACK       =        0        0        1        9
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Fixed
+RATIO | FREQ   =      1.0      1.0      2.0    3.467
+   freq coarse =        1        1        2        4
+   freq fine   =        0        0        0       54
+FREQ DETUNE    =        0        0        0        3

@@ -1,0 +1,54 @@
+VOICE NAME     = 4thProtocl
+============================
+TRANSPOSE      =        0
+MONO/POLY      = Mono-Full
+PORTA TIME     =        6
+PB RANGE       =        2
+ALGORITHM      =       11
+LFO WAVE       =     Sine
+LFO SPEED      =       88
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =      127 (Depth)
+FX1 PARAM 2    =        0 (Rate)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       47 (Depth)
+FX2 PARAM 2    =       42 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On      Off
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =        0        0      127      102
+EG RATE 3      =        0        0        0       98
+EG RATE 4      =       86       86       77       70
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      112      127      127      100
+EG LEVEL 3     =        0       55        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        4        4        4        4
+SCALING LD     =       68        0        0        0
+SCALING RD     =        6        0        6        9
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     +LIN     -LIN     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       26       38       25       86
+OUT LEVEL      =      125      121      127       77
+FEEDBACK       =      108      127      114      127
+FB TYPE        =   Square   Square   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Fixed
+RATIO | FREQ   =      1.0     0.76    0.565    1.549
+   freq coarse =        1        0        0        6
+   freq fine   =        0       52       13       19
+FREQ DETUNE    =        2      -15       -2        0

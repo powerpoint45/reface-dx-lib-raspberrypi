@@ -1,0 +1,54 @@
+VOICE NAME     = Seq1      
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       10
+LFO WAVE       =     Sine
+LFO SPEED      =       64
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       43 (Depth)
+FX1 PARAM 2    =        2 (Time)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       40 (---)
+FX2 PARAM 2    =       54 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       85       85       85       85
+EG RATE 3      =       89       89       89       89
+EG RATE 4      =       85       85       85       85
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       92       92       92      127
+EG LEVEL 3     =        0        0        0      127
+EG LEVEL 4     =        0        0        0      127
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0       65
+OUT LEVEL      =      127      127      127       81
+FEEDBACK       =       58       58       58        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      1.0     2.99
+   freq coarse =        1        1        1        2
+   freq fine   =        0        0        0       99
+FREQ DETUNE    =       41        0      -38        0

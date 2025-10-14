@@ -1,0 +1,54 @@
+VOICE NAME     = Sweatpants
+============================
+TRANSPOSE      =       -7
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        9
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =       24
+LFO DELAY      =       70
+LFO PMD        =       80
+PEG RATE 1     =       58
+PEG RATE 2     =       83
+PEG RATE 3     =       61
+PEG RATE 4     =       64
+PEG LEVEL 1    =       -6
+PEG LEVEL 2    =        9
+PEG LEVEL 3    =        4
+PEG LEVEL 4    =       -4
+FX1 TYPE       =        4 (Flanger)
+FX1 PARAM 1    =       48 (Depth)
+FX1 PARAM 2    =        1 (Rate)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =        4 (Depth)
+FX2 PARAM 2    =       36 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       60       60       60       60
+EG RATE 2      =       73       73       73       73
+EG RATE 3      =       66       66       66       66
+EG RATE 4      =      104      104      104      104
+EG LEVEL 1     =      127        0      122       52
+EG LEVEL 2     =       91      118       70       77
+EG LEVEL 3     =       59       47       49       76
+EG LEVEL 4     =        0       57        0       51
+RATE SCALING   =       46       71       15      103
+SCALING LD     =      126      126       21       21
+SCALING RD     =      110      110       86       86
+SCALING LC     =     -EXP     +EXP     +LIN     +LIN
+SCALING RC     =     -LIN     +LIN     +LIN     +LIN
+LFO AMD        =      127      127       24       24
+LFO PMD Off/On =       On       On      Off      Off
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =        5       52       36       36
+OUT LEVEL      =      107      107       81       81
+FEEDBACK       =        0       94       94       94
+FB TYPE        =   Square Sawtooth   Square   Square
+FREQ MODE      =    Ratio    Ratio    Fixed    Fixed
+RATIO | FREQ   =      3.0      3.0     10.0     10.0
+   freq coarse =        3        3       13       13
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

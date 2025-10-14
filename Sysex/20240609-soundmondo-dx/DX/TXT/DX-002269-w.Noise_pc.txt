@@ -1,0 +1,54 @@
+VOICE NAME     = w.Noise pc
+============================
+TRANSPOSE      =      -24
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       24
+ALGORITHM      =        3
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =      127
+LFO DELAY      =        0
+LFO PMD        =      101
+PEG RATE 1     =      127
+PEG RATE 2     =       98
+PEG RATE 3     =       29
+PEG RATE 4     =       53
+PEG LEVEL 1    =      -48
+PEG LEVEL 2    =       48
+PEG LEVEL 3    =       -3
+PEG LEVEL 4    =      -30
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       80 (---)
+FX1 PARAM 2    =       40 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       61 (---)
+FX2 PARAM 2    =       89 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       95       90      127      127
+EG RATE 3      =       83      126      105      127
+EG RATE 4      =       96        0        0        0
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       89      127      127      127
+EG LEVEL 3     =       76      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0       38       63       54
+LFO PMD Off/On =       On      Off      Off       On
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      127      108       81      127
+FEEDBACK       =      115       92       97       86
+FB TYPE        =   Square   Square   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     4.14     3.08     8.08     0.96
+   freq coarse =        4        3        8        0
+   freq fine   =       14        8        8       92
+FREQ DETUNE    =        0        0        1        0

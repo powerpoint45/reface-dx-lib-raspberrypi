@@ -1,0 +1,54 @@
+VOICE NAME     = *PJ CP-70D
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        7
+LFO WAVE       =     Sine
+LFO SPEED      =       21
+LFO DELAY      =        0
+LFO PMD        =        2
+PEG RATE 1     =      127
+PEG RATE 2     =      127
+PEG RATE 3     =      127
+PEG RATE 4     =      127
+PEG LEVEL 1    =        2
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       52 (Depth)
+FX1 PARAM 2    =        1 (Time)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       52 (Depth)
+FX2 PARAM 2    =       61 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       45       68       66       94
+EG RATE 3      =       46       50       33       18
+EG RATE 4      =       78       87       21       41
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       89      101       71       78
+EG LEVEL 3     =        0        0       36        9
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       62        0        0        0
+SCALING LD     =        0        0       36        0
+SCALING RD     =        0       14        0        0
+SCALING LC     =     -LIN     +LIN     +LIN     -LIN
+SCALING RC     =     +LIN     -LIN     -LIN     -LIN
+LFO AMD        =       20        0        0        0
+LFO PMD Off/On =      Off      Off      Off       On
+PEG Off/On     =      Off      Off      Off       On
+VELO SENS      =       60       71       67       22
+OUT LEVEL      =      119      127       39      100
+FEEDBACK       =       66       72       32        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0    12.02     1.02
+   freq coarse =        1        1       12        1
+   freq fine   =        0        0        2        2
+FREQ DETUNE    =        2       -3        0        0

@@ -1,0 +1,54 @@
+VOICE NAME     = Whevzd    
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        5
+LFO WAVE       = Triangle
+LFO SPEED      =       60
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =      127
+PEG RATE 2     =      127
+PEG RATE 3     =      127
+PEG RATE 4     =       54
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       64 (Depth)
+FX1 PARAM 2    =       40 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =      120 (Depth)
+FX2 PARAM 2    =       60 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127       67      122        0
+EG RATE 2      =       70       70       80        0
+EG RATE 3      =       70       70       70        0
+EG RATE 4      =       75       75       75        0
+EG LEVEL 1     =      127      127      127        0
+EG LEVEL 2     =       30      127       30        0
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0       40       40       40
+SCALING LD     =      127      127       40       46
+SCALING RD     =       40       40       40       60
+SCALING LC     =     +EXP     -LIN     -LIN     -LIN
+SCALING RC     =     +EXP     +LIN     +LIN     +LIN
+LFO AMD        =        0      127        0      125
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =       80      127       80       39
+OUT LEVEL      =       97       70      100      127
+FEEDBACK       =       40       50       60       39
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Fixed    Ratio    Ratio
+RATIO | FREQ   =     1.01   25.704    0.645     25.0
+   freq coarse =        1        8        0       25
+   freq fine   =        1       41       29        0
+FREQ DETUNE    =        2        0        1        0

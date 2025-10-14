@@ -1,0 +1,54 @@
+VOICE NAME     = earthrise2
+============================
+TRANSPOSE      =       -4
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       46
+LFO DELAY      =       97
+LFO PMD        =        0
+PEG RATE 1     =      127
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =       -7
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       32 (Depth)
+FX1 PARAM 2    =       32 (Time)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       64 (Depth)
+FX2 PARAM 2    =       64 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127       32       32
+EG RATE 2      =       47       84       46       46
+EG RATE 3      =       47       64       47       47
+EG RATE 4      =       64       64       64       64
+EG LEVEL 1     =      127      127       42       42
+EG LEVEL 2     =       47       64      127      127
+EG LEVEL 3     =        0        0       42       42
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off       On       On
+PEG Off/On     =      Off      Off       On      Off
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      120       64      120       24
+FEEDBACK       =        0      111        0        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0     16.0      1.0     7.77
+   freq coarse =        1       16        1        7
+   freq fine   =        0        0        0       77
+FREQ DETUNE    =       32        0        0       63

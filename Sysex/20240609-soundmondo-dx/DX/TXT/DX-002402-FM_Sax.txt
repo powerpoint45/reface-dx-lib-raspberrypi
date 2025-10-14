@@ -1,0 +1,54 @@
+VOICE NAME     = FM Sax    
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        2
+LFO WAVE       = Triangle
+LFO SPEED      =       90
+LFO DELAY      =       65
+LFO PMD        =       20
+PEG RATE 1     =       90
+PEG RATE 2     =       90
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =       -9
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =        3 (---)
+FX1 PARAM 2    =       69 (---)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       37 (Depth)
+FX2 PARAM 2    =       46 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       85      127       96       80
+EG RATE 2      =      127      127      127      127
+EG RATE 3      =       64      127      127       93
+EG RATE 4      =      110      100       54        0
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =       85      127      127      103
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0       25        0        0
+SCALING RD     =        0       22       24        0
+SCALING LC     =     -LIN     +EXP     -LIN     -LIN
+SCALING RC     =     +LIN     -EXP     -LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       17        0        0       34
+OUT LEVEL      =      127      115       41       28
+FEEDBACK       =        0        0        0        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      0.5      2.0     4.75
+   freq coarse =        1        0        2        4
+   freq fine   =        0        0        0       75
+FREQ DETUNE    =        0        0        0        0

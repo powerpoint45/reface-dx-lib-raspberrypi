@@ -1,0 +1,54 @@
+VOICE NAME     = Flash-Ruse
+============================
+TRANSPOSE      =        0
+MONO/POLY      = Mono-Full
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        5
+LFO WAVE       = Sawtooth Down
+LFO SPEED      =       96
+LFO DELAY      =      102
+LFO PMD        =       24
+PEG RATE 1     =       57
+PEG RATE 2     =       64
+PEG RATE 3     =       32
+PEG RATE 4     =       34
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =       -5
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       64 (Drive)
+FX1 PARAM 2    =       64 (Tone)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       94 (Depth)
+FX2 PARAM 2    =       70 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       29       42      127      127
+EG RATE 2      =      127      127      127      127
+EG RATE 3      =      127      127      127      127
+EG RATE 4      =      100      100      100      100
+EG LEVEL 1     =      120      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -EXP     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      100       46      100       71
+FEEDBACK       =      104       85      127       12
+FB TYPE        =   Square Sawtooth   Square   Square
+FREQ MODE      =    Ratio    Fixed    Ratio    Ratio
+RATIO | FREQ   =      0.5    1.023     0.52     0.53
+   freq coarse =        0        0        0        0
+   freq fine   =        0        1        4        6
+FREQ DETUNE    =        0       18        0        0

@@ -1,0 +1,54 @@
+VOICE NAME     = GlyingKodo
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       12
+ALGORITHM      =        6
+LFO WAVE       = Sawtooth Up
+LFO SPEED      =      127
+LFO DELAY      =       69
+LFO PMD        =        0
+PEG RATE 1     =       50
+PEG RATE 2     =       64
+PEG RATE 3     =       45
+PEG RATE 4     =       22
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =       -5
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       61 (Depth)
+FX1 PARAM 2    =       49 (Rate)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       46 (Depth)
+FX2 PARAM 2    =       62 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127       15      127       22
+EG RATE 2      =      127       43      127      127
+EG RATE 3      =       40      127      127      127
+EG RATE 4      =       73       52       77        9
+EG LEVEL 1     =      127       57      127      127
+EG LEVEL 2     =      110      127      127      127
+EG LEVEL 3     =       80      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =      120        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0      127        0        0
+SCALING LC     =     -LIN     +LIN     -LIN     -LIN
+SCALING RC     =     -EXP     -LIN     -LIN     -LIN
+LFO AMD        =       14        6       18        0
+LFO PMD Off/On =      Off      Off      Off       On
+PEG Off/On     =      Off       On      Off       On
+VELO SENS      =       38        0       56        0
+OUT LEVEL      =      127      127      127      127
+FEEDBACK       =       74        0        0        0
+FB TYPE        = Sawtooth Sawtooth   Square   Square
+FREQ MODE      =    Ratio    Ratio    Fixed    Ratio
+RATIO | FREQ   =     2.08    11.15 2818.334     0.96
+   freq coarse =        2       11       24        0
+   freq fine   =        8       15       45       92
+FREQ DETUNE    =        0        0        0       -3

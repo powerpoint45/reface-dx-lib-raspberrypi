@@ -1,0 +1,54 @@
+VOICE NAME     = Stereo voi
+============================
+TRANSPOSE      =        0
+MONO/POLY      = Mono-Legato
+PORTA TIME     =      122
+PB RANGE       =        0
+ALGORITHM      =       11
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =       49
+LFO DELAY      =       31
+LFO PMD        =       69
+PEG RATE 1     =       13
+PEG RATE 2     =        9
+PEG RATE 3     =        6
+PEG RATE 4     =      104
+PEG LEVEL 1    =       26
+PEG LEVEL 2    =       41
+PEG LEVEL 3    =      -34
+PEG LEVEL 4    =      -23
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =      104 (Drive)
+FX1 PARAM 2    =       37 (Tone)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =      127 (Depth)
+FX2 PARAM 2    =       42 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       13       36        4       14
+EG RATE 2      =       38       61       63        1
+EG RATE 3      =       78      126        6      108
+EG RATE 4      =       95        5       73       14
+EG LEVEL 1     =       50       83        0      103
+EG LEVEL 2     =       39       80       32        5
+EG LEVEL 3     =      127       57       12        8
+EG LEVEL 4     =       13       20       11       19
+RATE SCALING   =       83       14       21       29
+SCALING LD     =      115       49       87      127
+SCALING RD     =       91       27       34      108
+SCALING LC     =     +LIN     +LIN     -EXP     +LIN
+SCALING RC     =     -EXP     -LIN     -LIN     +EXP
+LFO AMD        =       24       57       20       47
+LFO PMD Off/On =      Off       On       On      Off
+PEG Off/On     =      Off       On      Off       On
+VELO SENS      =       10      127       64       11
+OUT LEVEL      =       32        4       37      103
+FEEDBACK       =       10       36       13        2
+FB TYPE        = Sawtooth   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     4.64    11.25     8.42     15.7
+   freq coarse =        4       11        8       15
+   freq fine   =       64       25       42       70
+FREQ DETUNE    =      -10       58      -44       -4

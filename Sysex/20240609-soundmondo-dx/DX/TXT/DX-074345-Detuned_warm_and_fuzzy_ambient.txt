@@ -1,0 +1,54 @@
+VOICE NAME     = dtunedfuzz
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        2
+LFO WAVE       = Sawtooth Up
+LFO SPEED      =      122
+LFO DELAY      =       24
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       55 (Depth)
+FX1 PARAM 2    =       19 (Rate)
+FX2 TYPE       =        1 (Distortion)
+FX2 PARAM 1    =       45 (Drive)
+FX2 PARAM 2    =       20 (Tone)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      120      119      116      108
+EG RATE 2      =       55       94        0       15
+EG RATE 3      =       39       71        0        0
+EG RATE 4      =       18       65        0        0
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      112       73      105      114
+EG LEVEL 3     =       37      105       42       41
+EG LEVEL 4     =       16       21       15       18
+RATE SCALING   =       73       44       35        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0       87       58       59
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       73       60       50       86
+OUT LEVEL      =      120      100      116       80
+FEEDBACK       =       29        7       18       27
+FB TYPE        = Sawtooth Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.5     0.79      3.0
+   freq coarse =        1        1        0        3
+   freq fine   =        0       50       58        0
+FREQ DETUNE    =        2        0       -2        0

@@ -1,0 +1,54 @@
+VOICE NAME     = @124drum2 
+============================
+TRANSPOSE      =        0
+MONO/POLY      = Mono-Full
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =      127
+LFO DELAY      =        0
+LFO PMD        =      127
+PEG RATE 1     =      127
+PEG RATE 2     =       58
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =      -32
+PEG LEVEL 3    =      -32
+PEG LEVEL 4    =      -32
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       85       98       92      127
+EG RATE 3      =       66       66       72      127
+EG RATE 4      =      100      102       83        0
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =        0       20       66      127
+EG LEVEL 3     =        0        0        0      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off       On       On
+PEG Off/On     =       On       On      Off      Off
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      127      127      124      127
+FEEDBACK       =        0        0        0        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Fixed    Fixed
+RATIO | FREQ   =      0.5      2.0   9772.0 9549.566
+   freq coarse =        0        2       25       31
+   freq fine   =        0        0       99       98
+FREQ DETUNE    =        0        0        0       63

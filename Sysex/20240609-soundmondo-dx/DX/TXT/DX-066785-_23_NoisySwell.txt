@@ -1,0 +1,54 @@
+VOICE NAME     = #23 NoisyS
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        4
+LFO WAVE       =     Sine
+LFO SPEED      =       88
+LFO DELAY      =        0
+LFO PMD        =        9
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       92 (---)
+FX1 PARAM 2    =       43 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       74 (---)
+FX2 PARAM 2    =       54 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       75       33       32      127
+EG RATE 2      =      127      100      111      127
+EG RATE 3      =      127       23        0      127
+EG RATE 4      =       70        0        0       35
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      121      127      127
+EG LEVEL 3     =      127      101       92      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0       14       53       17
+SCALING RD     =        0        0        4       35
+SCALING LC     =     -LIN     +LIN     -LIN     +LIN
+SCALING RC     =     +LIN     +LIN     -EXP     -LIN
+LFO AMD        =        0        0       17        0
+LFO PMD Off/On =       On      Off      Off      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0       26        0        0
+OUT LEVEL      =      114       97       48       81
+FEEDBACK       =        0        0       41        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5      1.5     1.38      0.5
+   freq coarse =        0        1        1        0
+   freq fine   =        0       50       38        0
+FREQ DETUNE    =        0        0        0      -64

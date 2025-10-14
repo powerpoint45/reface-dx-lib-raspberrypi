@@ -1,0 +1,54 @@
+VOICE NAME     = WarmEns.  
+============================
+TRANSPOSE      =      -19
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       = Triangle
+LFO SPEED      =       82
+LFO DELAY      =       51
+LFO PMD        =        7
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =      127
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =        0 (Depth)
+FX2 PARAM 2    =        0 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       95       78       95      100
+EG RATE 2      =      127       40      127       26
+EG RATE 3      =       11       11       11       11
+EG RATE 4      =       60       40       60       50
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        4        0        4
+SCALING RD     =        0       17        0       17
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     -EXP     -EXP     -EXP     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       37       45       37       37
+OUT LEVEL      =      113      112      113       84
+FEEDBACK       =       16        0       32       42
+FB TYPE        =   Square Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.5      1.5     2.99     1.49
+   freq coarse =        1        1        2        1
+   freq fine   =       50       50       99       49
+FREQ DETUNE    =       -4       -4        4        4

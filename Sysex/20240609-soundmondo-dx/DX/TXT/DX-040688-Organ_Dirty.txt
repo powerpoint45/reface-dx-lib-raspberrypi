@@ -1,0 +1,54 @@
+VOICE NAME     = CultOrgan 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       12
+LFO WAVE       =     Sine
+LFO SPEED      =       89
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       94
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       21 (Depth)
+FX1 PARAM 2    =       68 (Rate)
+FX2 TYPE       =        1 (Distortion)
+FX2 PARAM 1    =       82 (Drive)
+FX2 PARAM 2    =       51 (Tone)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =      127      127      127      127
+EG RATE 3      =      127      127      127      127
+EG RATE 4      =      127      127      127      127
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =       23        0        0       60
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =        0      120       39       99
+FEEDBACK       =       93       34       17        0
+FB TYPE        =   Square Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      2.2    0.995     1.09     2.99
+   freq coarse =        2        0        1        2
+   freq fine   =       20       99        9       99
+FREQ DETUNE    =        0        0        0        0

@@ -1,0 +1,54 @@
+VOICE NAME     = Oscuro ice
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        1
+LFO WAVE       = Sample & Hold
+LFO SPEED      =       81
+LFO DELAY      =       63
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       75 (Depth)
+FX1 PARAM 2    =       45 (Time)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =        6 (Depth)
+FX2 PARAM 2    =       15 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127       32       51       13
+EG RATE 2      =       57       40       34       18
+EG RATE 3      =       75       79      127       24
+EG RATE 4      =       32       26       10       35
+EG LEVEL 1     =      127      127      127        0
+EG LEVEL 2     =      101      126      127       92
+EG LEVEL 3     =      112       57       62       70
+EG LEVEL 4     =       29        7       46       26
+RATE SCALING   =       86       71       33      103
+SCALING LD     =       49       43       14       82
+SCALING RD     =       30       10        9       70
+SCALING LC     =     +LIN     +LIN     +EXP     +LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +EXP
+LFO AMD        =       40       39       50       32
+LFO PMD Off/On =      Off      Off      Off       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       22        5        0       27
+OUT LEVEL      =      106       78      122       91
+FEEDBACK       =        4       67       11        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Fixed    Fixed
+RATIO | FREQ   =      4.0      2.0     1.82     10.0
+   freq coarse =        4        2        1       10
+   freq fine   =        0        0       26        0
+FREQ DETUNE    =        0       -1       -2        7

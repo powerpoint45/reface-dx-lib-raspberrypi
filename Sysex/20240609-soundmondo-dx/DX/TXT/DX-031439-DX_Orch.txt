@@ -1,0 +1,54 @@
+VOICE NAME     = DX Orch   
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        9
+LFO WAVE       = Triangle
+LFO SPEED      =       75
+LFO DELAY      =       26
+LFO PMD        =        9
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       64 (Depth)
+FX1 PARAM 2    =       38 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =      119 (Depth)
+FX2 PARAM 2    =       74 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       65       65       85       40
+EG RATE 2      =      127      127      127       11
+EG RATE 3      =      127      127       92      127
+EG RATE 4      =       69       60       68       64
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      107
+EG LEVEL 3     =      123      127      127       90
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0       52      107       57
+SCALING LD     =        0        0        2       23
+SCALING RD     =        0        0       81       46
+SCALING LC     =     -LIN     -LIN     -EXP     +LIN
+SCALING RC     =     +LIN     +LIN     +LIN     -EXP
+LFO AMD        =        0        0        0        2
+LFO PMD Off/On =       On      Off       On       On
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =       50       29       36       63
+OUT LEVEL      =      125      127      127      100
+FEEDBACK       =       78       63       61       78
+FB TYPE        = Sawtooth Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =    0.995    0.505    0.995      0.5
+   freq coarse =        0        0        0        0
+   freq fine   =       99        1       99        0
+FREQ DETUNE    =        7      -13        7       -8

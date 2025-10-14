@@ -1,0 +1,54 @@
+VOICE NAME     = RealFolkG1
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       12
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =      127
+LFO DELAY      =       80
+LFO PMD        =        0
+PEG RATE 1     =        0
+PEG RATE 2     =        0
+PEG RATE 3     =        0
+PEG RATE 4     =        0
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       40 (Depth)
+FX1 PARAM 2    =       80 (Time)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       58 (Depth)
+FX2 PARAM 2    =       10 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      120      127      127
+EG RATE 2      =       80       80       80       80
+EG RATE 3      =       40       70       70       40
+EG RATE 4      =       80       60       60       80
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =        0      127      127        0
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       60        0        0        0
+SCALING LD     =      100      127      120      100
+SCALING RD     =        0      127       20        0
+SCALING LC     =     -EXP     +LIN     +EXP     -EXP
+SCALING RC     =     +EXP     -LIN     -EXP     +EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =       40       40       40       40
+OUT LEVEL      =      107      127      127      117
+FEEDBACK       =      100       40       40      127
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5      1.0      1.0      2.0
+   freq coarse =        0        1        1        2
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        5        3       -3       -5

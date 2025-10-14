@@ -1,0 +1,54 @@
+VOICE NAME     = galaxy snt
+============================
+TRANSPOSE      =       -6
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       12
+LFO WAVE       =     Sine
+LFO SPEED      =       75
+LFO DELAY      =        0
+LFO PMD        =        8
+PEG RATE 1     =      127
+PEG RATE 2     =       60
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =       -5
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       60 (Depth)
+FX1 PARAM 2    =       90 (Time)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       52 (Depth)
+FX2 PARAM 2    =       25 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      113      105      109
+EG RATE 2      =      127      127      127      127
+EG RATE 3      =      127      127      127      127
+EG RATE 4      =       46       44       48       50
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off       On       On
+PEG Off/On     =      Off      Off       On       On
+VELO SENS      =       25       25       25       25
+OUT LEVEL      =      125      125      125      125
+FEEDBACK       =       74      100       93       68
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      1.0     1.01
+   freq coarse =        1        1        1        1
+   freq fine   =        0        0        0        1
+FREQ DETUNE    =        9       -8        8       -3

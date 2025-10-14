@@ -1,0 +1,54 @@
+VOICE NAME     = BeepBass  
+============================
+TRANSPOSE      =      -12
+MONO/POLY      = Mono-Full
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        1
+LFO WAVE       = Triangle
+LFO SPEED      =       90
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       85 (Drive)
+FX1 PARAM 2    =       64 (Tone)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       64 (Depth)
+FX2 PARAM 2    =       64 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      111       97      127
+EG RATE 2      =       85       87       72       30
+EG RATE 3      =       40       20       40       33
+EG RATE 4      =       88      118       78       78
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       77       97       78      127
+EG LEVEL 3     =       80       50       23      120
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     +LIN     -LIN     +LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0       57       35        0
+OUT LEVEL      =      127       81       64       66
+FEEDBACK       =       43       35        0        0
+FB TYPE        = Sawtooth   Square   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5      4.0      1.0      2.0
+   freq coarse =        0        4        1        2
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

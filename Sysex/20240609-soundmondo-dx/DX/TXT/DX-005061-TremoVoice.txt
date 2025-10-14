@@ -1,0 +1,54 @@
+VOICE NAME     = TremoVoice
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        9
+LFO WAVE       =     Sine
+LFO SPEED      =       56
+LFO DELAY      =       53
+LFO PMD        =        7
+PEG RATE 1     =       61
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        1
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       38 (Depth)
+FX1 PARAM 2    =       31 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       72 (Depth)
+FX2 PARAM 2    =       84 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      103      103       53      127
+EG RATE 2      =       58       58       58      127
+EG RATE 3      =        2        2        1      127
+EG RATE 4      =       55       55       54      100
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =       56       56       45      127
+EG LEVEL 4     =        0        0        0      127
+RATE SCALING   =       61       42       36       27
+SCALING LD     =       43        0        0        0
+SCALING RD     =      125        0        0        0
+SCALING LC     =     +EXP     -LIN     -LIN     -LIN
+SCALING RC     =     +EXP     +LIN     +LIN     +LIN
+LFO AMD        =       62       45       67        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       98       75       64       61
+OUT LEVEL      =      117       78       55       38
+FEEDBACK       =       67       72       56       12
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5      2.0      1.0      1.0
+   freq coarse =        0        2        1        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

@@ -1,0 +1,54 @@
+VOICE NAME     = SoftLead  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       12
+LFO WAVE       =     Sine
+LFO SPEED      =       88
+LFO DELAY      =       47
+LFO PMD        =       15
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       35 (Drive)
+FX1 PARAM 2    =       42 (Tone)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       57 (Depth)
+FX2 PARAM 2    =       27 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      104      127      105      127
+EG RATE 2      =       62       87       73       76
+EG RATE 3      =       29        0       31       22
+EG RATE 4      =      114       95      115      117
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      126      127      125
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        4        4        4        4
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On      Off      Off      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       27       47       50       34
+OUT LEVEL      =      127      114      101       73
+FEEDBACK       =       37        6       16       21
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      1.0      1.0
+   freq coarse =        1        1        1        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       -3        5        0       -5

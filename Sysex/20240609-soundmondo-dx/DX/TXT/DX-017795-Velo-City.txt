@@ -1,0 +1,54 @@
+VOICE NAME     = Velo-City 
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        5
+ALGORITHM      =        5
+LFO WAVE       = Sawtooth Down
+LFO SPEED      =       58
+LFO DELAY      =      126
+LFO PMD        =       80
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       11 (Depth)
+FX1 PARAM 2    =       74 (Time)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =        4 (Depth)
+FX2 PARAM 2    =       49 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      126      127      127
+EG RATE 2      =       67       12       82       98
+EG RATE 3      =       67       33       40       26
+EG RATE 4      =       75       73       72       51
+EG LEVEL 1     =      127      127      127      106
+EG LEVEL 2     =       23       46       54       28
+EG LEVEL 3     =       11       22       27       10
+EG LEVEL 4     =       11        0        2        0
+RATE SCALING   =        0      127        0        0
+SCALING LD     =        0        0       90      112
+SCALING RD     =       25       24       19       13
+SCALING LC     =     -LIN     +LIN     +LIN     +EXP
+SCALING RC     =     +LIN     +LIN     -LIN     -EXP
+LFO AMD        =        0      113        0      116
+LFO PMD Off/On =      Off       On      Off       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       34       63       74       41
+OUT LEVEL      =      127       75      107       72
+FEEDBACK       =       42       24       16       72
+FB TYPE        = Sawtooth Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      0.5      1.0      2.0
+   freq coarse =        1        0        1        2
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0       24       41        0

@@ -1,0 +1,54 @@
+VOICE NAME     = BadssPulsd
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =       40
+PB RANGE       =       24
+ALGORITHM      =        8
+LFO WAVE       = Sawtooth Down
+LFO SPEED      =       90
+LFO DELAY      =       32
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        4 (Flanger)
+FX1 PARAM 1    =       72 (Depth)
+FX1 PARAM 2    =       50 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       90 (Depth)
+FX2 PARAM 2    =       50 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       86       86       86       57
+EG RATE 2      =       30       30       64       30
+EG RATE 3      =       60       80       80       30
+EG RATE 4      =       64       64       64       64
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       80       80       50       64
+EG LEVEL 3     =      100       70      100      127
+EG LEVEL 4     =        0        0        0      127
+RATE SCALING   =        0        0        0        0
+SCALING LD     =       10       26       10      100
+SCALING RD     =       30       70       10       40
+SCALING LC     =     -LIN     +LIN     -LIN     +LIN
+SCALING RC     =     -LIN     +LIN     -LIN     +LIN
+LFO AMD        =        0       40       60        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       50       40       50       15
+OUT LEVEL      =      127      110      110      120
+FEEDBACK       =       40       50       30       50
+FB TYPE        = Sawtooth   Square   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0     1.01      0.5      1.0
+   freq coarse =        1        1        0        1
+   freq fine   =        0        1        0        0
+FREQ DETUNE    =      -10       10      -10       -8

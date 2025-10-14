@@ -1,0 +1,54 @@
+VOICE NAME     = India Quie
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        7
+LFO WAVE       =     Sine
+LFO SPEED      =       64
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        4 (Flanger)
+FX1 PARAM 1    =       31 (Depth)
+FX1 PARAM 2    =       54 (Rate)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       21 (Depth)
+FX2 PARAM 2    =      124 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127       63       68      112
+EG RATE 2      =       77       66       79       87
+EG RATE 3      =       52      120       18        0
+EG RATE 4      =       52       51        0        8
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       72        0       88        0
+EG LEVEL 3     =        0        0       45        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       16       39       23       64
+OUT LEVEL      =       99       53       59       41
+FEEDBACK       =       60      127       32        1
+FB TYPE        = Sawtooth Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     0.81     1.63     7.24      1.0
+   freq coarse =        0        1        7        1
+   freq fine   =       62       63       24        0
+FREQ DETUNE    =        0        0        0        0

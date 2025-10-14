@@ -1,0 +1,54 @@
+VOICE NAME     = #34 Fantas
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        9
+LFO WAVE       =     Sine
+LFO SPEED      =       54
+LFO DELAY      =       32
+LFO PMD        =        5
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       74 (Depth)
+FX1 PARAM 2    =       49 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       50 (Depth)
+FX2 PARAM 2    =       62 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =      127       46       76      100
+EG RATE 3      =       92       39      101       92
+EG RATE 4      =       86       65      110      127
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      107      101      107       73
+EG LEVEL 3     =        0       99        0       11
+EG LEVEL 4     =        0        1        0        0
+RATE SCALING   =        0        6        0        0
+SCALING LD     =        0       13        0        4
+SCALING RD     =        5        5        0        0
+SCALING LC     =     -LIN     +LIN     -LIN     -LIN
+SCALING RC     =     -LIN     +LIN     +LIN     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =        0        4        0        0
+OUT LEVEL      =       65      127       65       49
+FEEDBACK       =        0       31        0        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Fixed    Ratio    Fixed    Ratio
+RATIO | FREQ   = 4168.594      1.0 3235.873      2.0
+   freq coarse =       28        1       25        2
+   freq fine   =       62        0       51        0
+FREQ DETUNE    =        0        0        0        0

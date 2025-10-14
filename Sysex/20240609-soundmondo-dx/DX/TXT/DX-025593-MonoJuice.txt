@@ -1,0 +1,54 @@
+VOICE NAME     = MonoJuice 
+============================
+TRANSPOSE      =        0
+MONO/POLY      = Mono-Full
+PORTA TIME     =        4
+PB RANGE       =        5
+ALGORITHM      =        3
+LFO WAVE       = Sample & Hold
+LFO SPEED      =       20
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       75
+PEG RATE 2     =       75
+PEG RATE 3     =       75
+PEG RATE 4     =       75
+PEG LEVEL 1    =        5
+PEG LEVEL 2    =       -5
+PEG LEVEL 3    =        5
+PEG LEVEL 4    =       -5
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       47 (Depth)
+FX1 PARAM 2    =       50 (Time)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =      127      127      127      127
+EG RATE 3      =      127      127      127      127
+EG RATE 4      =      127      127      127        0
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        5        0        0       50
+LFO PMD Off/On =       On      Off      Off       On
+PEG Off/On     =      Off      Off      Off       On
+VELO SENS      =        0       40       40       40
+OUT LEVEL      =      110       60       80       60
+FEEDBACK       =       15        0        0       30
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0     1.02    0.985      0.5
+   freq coarse =        1        1        0        0
+   freq fine   =        0        2       97        0
+FREQ DETUNE    =        0        0        0        0

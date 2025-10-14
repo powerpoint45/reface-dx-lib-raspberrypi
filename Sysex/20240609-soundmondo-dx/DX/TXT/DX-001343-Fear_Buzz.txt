@@ -1,0 +1,54 @@
+VOICE NAME     = Fear Buzz 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        7
+LFO WAVE       =   Square
+LFO SPEED      =       88
+LFO DELAY      =        0
+LFO PMD        =       12
+PEG RATE 1     =       71
+PEG RATE 2     =       30
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =      -13
+PEG LEVEL 2    =      -13
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       60       60       60       60
+EG RATE 2      =       63       63       44       30
+EG RATE 3      =       61       61       34       25
+EG RATE 4      =       80       80       80       80
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       64       64       64       64
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0       53
+SCALING RD     =       20        0       20       30
+SCALING LC     =     +LIN     +LIN     +LIN     +EXP
+SCALING RC     =     -LIN     +LIN     -EXP     -LIN
+LFO AMD        =        0        0        5        5
+LFO PMD Off/On =      Off       On      Off      Off
+PEG Off/On     =      Off      Off      Off       On
+VELO SENS      =       20        0        0       20
+OUT LEVEL      =      127      127       60      127
+FEEDBACK       =       60        0        0       50
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      4.0      2.0      3.5      1.5
+   freq coarse =        4        2        3        1
+   freq fine   =        0        0       50       50
+FREQ DETUNE    =        0        0        0        0

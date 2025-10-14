@@ -1,0 +1,54 @@
+VOICE NAME     = CRZPerc 2 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =      122
+LFO DELAY      =        0
+LFO PMD        =       97
+PEG RATE 1     =       78
+PEG RATE 2     =       91
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =       12
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        4 (Flanger)
+FX1 PARAM 1    =      127 (Depth)
+FX1 PARAM 2    =       14 (Rate)
+FX2 TYPE       =        1 (Distortion)
+FX2 PARAM 1    =        5 (Drive)
+FX2 PARAM 2    =      127 (Tone)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127       80      127      127
+EG RATE 2      =       86       53      127      127
+EG RATE 3      =      119      115      127      127
+EG RATE 4      =      126      100      100      100
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       42       51      127      127
+EG LEVEL 3     =        0        0      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On      Off      Off      Off
+VELO SENS      =       47       36        0        0
+OUT LEVEL      =      127        0        0        0
+FEEDBACK       =       12       59       76        0
+FB TYPE        = Sawtooth   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      5.0     2.63     10.0     5.08
+   freq coarse =        5        2       10        5
+   freq fine   =        0       63        0        8
+FREQ DETUNE    =        0       63        0        0

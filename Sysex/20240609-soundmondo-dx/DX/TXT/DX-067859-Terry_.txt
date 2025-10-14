@@ -1,0 +1,54 @@
+VOICE NAME     = Terry!    
+============================
+TRANSPOSE      =      -12
+MONO/POLY      = Mono-Legato
+PORTA TIME     =        4
+PB RANGE       =        2
+ALGORITHM      =        5
+LFO WAVE       = Triangle
+LFO SPEED      =       90
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       74 (Drive)
+FX1 PARAM 2    =       44 (Tone)
+FX2 TYPE       =        1 (Distortion)
+FX2 PARAM 1    =       24 (Drive)
+FX2 PARAM 2    =       30 (Tone)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      122      111       99      111
+EG RATE 2      =       85       87       72       51
+EG RATE 3      =       40       20       40       33
+EG RATE 4      =      102      118      104       78
+EG LEVEL 1     =      125      117      126       95
+EG LEVEL 2     =       77       97       92       47
+EG LEVEL 3     =       49       38       27       37
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     +LIN     -LIN     +LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       80       80       89       88
+OUT LEVEL      =      127       84       83       54
+FEEDBACK       =       60       11       40       13
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      2.0      1.0      2.0
+   freq coarse =        1        2        1        2
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

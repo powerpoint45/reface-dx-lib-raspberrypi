@@ -1,0 +1,54 @@
+VOICE NAME     = Morph Kick
+============================
+TRANSPOSE      =        0
+MONO/POLY      = Mono-Full
+PORTA TIME     =        0
+PB RANGE       =        0
+ALGORITHM      =        5
+LFO WAVE       = Sawtooth Down
+LFO SPEED      =      127
+LFO DELAY      =      101
+LFO PMD        =       53
+PEG RATE 1     =       64
+PEG RATE 2     =       32
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =      -48
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        5 (Phaser)
+FX1 PARAM 1    =       52 (Depth)
+FX1 PARAM 2    =       34 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       40 (Depth)
+FX2 PARAM 2    =      127 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127       18      121      127
+EG RATE 2      =       70       48       48       83
+EG RATE 3      =       90       33       84       92
+EG RATE 4      =       95       80       47       64
+EG LEVEL 1     =      127       78       85      127
+EG LEVEL 2     =       98      114       66       73
+EG LEVEL 3     =       96       71       59       11
+EG LEVEL 4     =        2       19        0        0
+RATE SCALING   =        0        0        0       18
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     +EXP     -LIN     -EXP     -LIN
+SCALING RC     =     -EXP     +LIN     -EXP     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off       On       On      Off
+PEG Off/On     =       On       On      Off       On
+VELO SENS      =        0        0        0       58
+OUT LEVEL      =      127       90       67        0
+FEEDBACK       =       18       51        0        0
+FB TYPE        =   Square Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Fixed    Fixed    Fixed    Ratio
+RATIO | FREQ   =  181.968  223.869 2137.935      0.5
+   freq coarse =       16       16       24        0
+   freq fine   =       26       35       33        0
+FREQ DETUNE    =        0        0        0        0

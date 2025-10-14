@@ -1,0 +1,54 @@
+VOICE NAME     = Vibra   01
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       10
+LFO WAVE       = Triangle
+LFO SPEED      =       42
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       48 (Depth)
+FX1 PARAM 2    =       78 (Time)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      126      100      100      126
+EG RATE 2      =       50      108      108       70
+EG RATE 3      =      126       46       46      126
+EG RATE 4      =       70       64       64       70
+EG LEVEL 1     =      126      126      126      126
+EG LEVEL 2     =       46      114      112       60
+EG LEVEL 3     =        0        0       70        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0       48       48        0
+SCALING LD     =       16        0        0       24
+SCALING RD     =       16        0        0       24
+SCALING LC     =     -LIN     -EXP     -LIN     -LIN
+SCALING RC     =     +LIN     -EXP     +LIN     +LIN
+LFO AMD        =        6        0       54        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       28       12       24       36
+OUT LEVEL      =       98      106       60       86
+FEEDBACK       =        0        0        0        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      4.0      1.0      1.0     14.0
+   freq coarse =        4        1        1       14
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0      -48       48        0

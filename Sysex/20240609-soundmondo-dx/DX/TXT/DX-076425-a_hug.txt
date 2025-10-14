@@ -1,0 +1,54 @@
+VOICE NAME     = a hug     
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        3
+LFO WAVE       =     Sine
+LFO SPEED      =       25
+LFO DELAY      =        0
+LFO PMD        =        5
+PEG RATE 1     =        0
+PEG RATE 2     =      127
+PEG RATE 3     =        0
+PEG RATE 4     =       78
+PEG LEVEL 1    =       13
+PEG LEVEL 2    =        9
+PEG LEVEL 3    =      -29
+PEG LEVEL 4    =       10
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =        0 (Drive)
+FX1 PARAM 2    =       87 (Tone)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       69 (Depth)
+FX2 PARAM 2    =       64 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      124      127      127      127
+EG RATE 2      =      127      127      127      127
+EG RATE 3      =      127      127      127      127
+EG RATE 4      =      100      100      100      100
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0       16       10        3
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      100       34       73       65
+FEEDBACK       =        0        0        0       42
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5    0.515      0.5    0.505
+   freq coarse =        0        0        0        0
+   freq fine   =        0        3        0        1
+FREQ DETUNE    =        0        5        2        0

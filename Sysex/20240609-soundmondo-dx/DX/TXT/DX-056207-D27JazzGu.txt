@@ -1,0 +1,54 @@
+VOICE NAME     = D27JazzGu 
+============================
+TRANSPOSE      =        0
+MONO/POLY      = Mono-Legato
+PORTA TIME     =        4
+PB RANGE       =        2
+ALGORITHM      =        3
+LFO WAVE       =     Sine
+LFO SPEED      =       58
+LFO DELAY      =       30
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =      -12
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       58 (Depth)
+FX1 PARAM 2    =       64 (Rate)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       20 (Depth)
+FX2 PARAM 2    =       64 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      125      125      125      127
+EG RATE 2      =       48       88       48       48
+EG RATE 3      =       61      127       61      127
+EG RATE 4      =      103      127      100      100
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       80       80       80       49
+EG LEVEL 3     =       10        0        0        0
+EG LEVEL 4     =       12        0        0        0
+RATE SCALING   =       82       75        0        0
+SCALING LD     =       12       36       12       40
+SCALING RD     =       46      127       30       20
+SCALING LC     =     -EXP     -LIN     +EXP     +EXP
+SCALING RC     =     -EXP     +LIN     +LIN     -EXP
+LFO AMD        =       10        0       10       10
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off       On      Off      Off
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      127       15      127       72
+FEEDBACK       =       10       40        0        0
+FB TYPE        =   Square   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0    0.505      2.0      3.0
+   freq coarse =        1        0        2        3
+   freq fine   =        0        1        0        0
+FREQ DETUNE    =        0        0        0        0

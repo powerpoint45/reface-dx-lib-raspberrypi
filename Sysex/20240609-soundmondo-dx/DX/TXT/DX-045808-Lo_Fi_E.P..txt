@@ -1,0 +1,54 @@
+VOICE NAME     = LoFi E.P  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        1
+LFO WAVE       =     Sine
+LFO SPEED      =       82
+LFO DELAY      =       21
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =        5 (Drive)
+FX1 PARAM 2    =       12 (Tone)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       20 (Depth)
+FX2 PARAM 2    =       20 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       19       47       38       84
+EG RATE 3      =       47        6       19       95
+EG RATE 4      =       78        0       46        0
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       10       68      127       14
+EG LEVEL 3     =       10       68      127       33
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        4        4        4        4
+SCALING LD     =        0        0        0        0
+SCALING RD     =       10        0       30        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -EXP     -LIN
+LFO AMD        =        0       28        0       30
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =       40       68       23       45
+OUT LEVEL      =      110       80       60       60
+FEEDBACK       =       45       58       38       52
+FB TYPE        = Sawtooth   Square   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      1.0      4.0
+   freq coarse =        1        1        1        4
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        7        2        0

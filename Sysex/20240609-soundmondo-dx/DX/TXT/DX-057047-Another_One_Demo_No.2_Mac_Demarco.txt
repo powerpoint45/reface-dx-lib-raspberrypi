@@ -1,0 +1,54 @@
+VOICE NAME     = AnoDemo2  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        5
+LFO WAVE       = Triangle
+LFO SPEED      =       25
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =      127
+PEG RATE 2     =       82
+PEG RATE 3     =        0
+PEG RATE 4     =        0
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       68 (Depth)
+FX1 PARAM 2    =       65 (Time)
+FX2 TYPE       =        2 (Touch Wah)
+FX2 PARAM 1    =       54 (Sensibility)
+FX2 PARAM 2    =       88 (Rez)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      105      104
+EG RATE 2      =       56       77        3       44
+EG RATE 3      =      127      127      127      127
+EG RATE 4      =       60       60       60       50
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       94        0        0       55
+EG LEVEL 3     =       94        0        0       55
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =       30        3        6       26
+SCALING RD     =       44        7       17       28
+SCALING LC     =     +LIN     -LIN     +LIN     -LIN
+SCALING RC     =     +LIN     -LIN     +LIN     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       46        0        0       20
+OUT LEVEL      =      117       36       43       64
+FEEDBACK       =       29       52       61       44
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      2.0      1.0      1.0
+   freq coarse =        1        2        1        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

@@ -1,0 +1,54 @@
+VOICE NAME     = WindyPdS&H
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        6
+LFO WAVE       = Sample & Hold
+LFO SPEED      =       81
+LFO DELAY      =       60
+LFO PMD        =        7
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        2 (Touch Wah)
+FX1 PARAM 1    =      127 (Sensibility)
+FX1 PARAM 2    =       75 (Rez)
+FX2 TYPE       =        1 (Distortion)
+FX2 PARAM 1    =       51 (Drive)
+FX2 PARAM 2    =       47 (Tone)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      105       28      127      127
+EG RATE 2      =       25       44      127      127
+EG RATE 3      =      127        0      127      127
+EG RATE 4      =       59       41      100      100
+EG LEVEL 1     =       90       86      127      127
+EG LEVEL 2     =      127       18      127      127
+EG LEVEL 3     =      127       80      127      127
+EG LEVEL 4     =        0        0      127      127
+RATE SCALING   =        0       47        0        0
+SCALING LD     =        7       27        0        0
+SCALING RD     =       35       27        0        0
+SCALING LC     =     +LIN     +LIN     -LIN     -LIN
+SCALING RC     =     -LIN     +LIN     +LIN     +LIN
+LFO AMD        =       63        0        0        0
+LFO PMD Off/On =       On      Off      Off      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =        0       78      127      127
+FEEDBACK       =       50      127      127      127
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Fixed    Ratio    Fixed
+RATIO | FREQ   =      1.0 8317.343      1.0   9772.0
+   freq coarse =        1       25        1       25
+   freq fine   =        0       92        0       99
+FREQ DETUNE    =        0        0        0        0

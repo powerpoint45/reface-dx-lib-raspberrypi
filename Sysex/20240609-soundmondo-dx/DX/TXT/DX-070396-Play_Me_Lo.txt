@@ -1,0 +1,54 @@
+VOICE NAME     = Play Me Lo
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        1
+ALGORITHM      =        3
+LFO WAVE       = Sample & Hold
+LFO SPEED      =      104
+LFO DELAY      =       67
+LFO PMD        =       12
+PEG RATE 1     =       79
+PEG RATE 2     =       56
+PEG RATE 3     =       75
+PEG RATE 4     =       39
+PEG LEVEL 1    =       -4
+PEG LEVEL 2    =      -10
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =       -5
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       40 (Depth)
+FX1 PARAM 2    =       50 (Rate)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       26 (Depth)
+FX2 PARAM 2    =       75 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       68      127       37      127
+EG RATE 2      =      127      124       62       16
+EG RATE 3      =      127       57       44       25
+EG RATE 4      =       35       39       15      127
+EG LEVEL 1     =      127       90        0       87
+EG LEVEL 2     =      118      117       55       38
+EG LEVEL 3     =      112       86      116       62
+EG LEVEL 4     =        4        8        4        0
+RATE SCALING   =       35       17       84        0
+SCALING LD     =        1        9        3        1
+SCALING RD     =       22       13       28       11
+SCALING LC     =     +LIN     -EXP     +LIN     +EXP
+SCALING RC     =     +EXP     +LIN     -LIN     +LIN
+LFO AMD        =       17      120       88       46
+LFO PMD Off/On =       On       On       On      Off
+PEG Off/On     =      Off       On       On       On
+VELO SENS      =       41       87       15        0
+OUT LEVEL      =      100       95       36      106
+FEEDBACK       =       53       46       27       65
+FB TYPE        = Sawtooth   Square Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     1.08     1.06     0.89     1.08
+   freq coarse =        1        1        0        1
+   freq fine   =        8        6       78        8
+FREQ DETUNE    =        0        3       -5        0

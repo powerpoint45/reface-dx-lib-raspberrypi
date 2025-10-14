@@ -1,0 +1,54 @@
+VOICE NAME     = Deckard's 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       12
+ALGORITHM      =        9
+LFO WAVE       =     Sine
+LFO SPEED      =        6
+LFO DELAY      =        6
+LFO PMD        =        3
+PEG RATE 1     =       80
+PEG RATE 2     =       80
+PEG RATE 3     =       80
+PEG RATE 4     =       12
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =       -1
+PEG LEVEL 3    =       12
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =      127 (Depth)
+FX1 PARAM 2    =        2 (Rate)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       61 (Depth)
+FX2 PARAM 2    =       56 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       58       19        7       24
+EG RATE 2      =        0       56        0       45
+EG RATE 3      =        0        0        6       78
+EG RATE 4      =       45       28       38       16
+EG LEVEL 1     =      127       41       98      100
+EG LEVEL 2     =      117      126       61       84
+EG LEVEL 3     =       95       73      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        8       11        0        0
+SCALING RD     =       11        0       32       32
+SCALING LC     =     +LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     +LIN     -EXP     -EXP
+LFO AMD        =        0        0       81       45
+LFO PMD Off/On =      Off      Off       On       On
+PEG Off/On     =      Off      Off       On       On
+VELO SENS      =       30       10        6        0
+OUT LEVEL      =      110       62       76       86
+FEEDBACK       =       20        0       38       18
+FB TYPE        = Sawtooth Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      1.0      0.5
+   freq coarse =        1        1        1        0
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0       -2       -5        3

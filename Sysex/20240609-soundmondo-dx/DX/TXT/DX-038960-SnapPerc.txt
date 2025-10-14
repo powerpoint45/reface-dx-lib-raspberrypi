@@ -1,0 +1,54 @@
+VOICE NAME     = SnapPerc  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        5
+LFO WAVE       =     Sine
+LFO SPEED      =       64
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =      127
+PEG RATE 2     =       95
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =       12
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       68 (---)
+FX1 PARAM 2    =       28 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127       40      127
+EG RATE 2      =       85       75       65       65
+EG RATE 3      =      127      127      127      127
+EG RATE 4      =      100      100      100      100
+EG LEVEL 1     =      127      127       65      127
+EG LEVEL 2     =        0        0        0        0
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      100      110      110      127
+FEEDBACK       =       20       60       20       35
+FB TYPE        =   Square   Square Sawtooth   Square
+FREQ MODE      =    Fixed    Fixed    Fixed    Fixed
+RATIO | FREQ   = 2570.355   64.563  323.587   93.322
+   freq coarse =       25        8       17        9
+   freq fine   =       41       81       51       97
+FREQ DETUNE    =        0        0        0        0

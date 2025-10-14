@@ -1,0 +1,54 @@
+VOICE NAME     = Rupture   
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       12
+LFO WAVE       =     Sine
+LFO SPEED      =       85
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =      121 (Drive)
+FX1 PARAM 2    =       64 (Tone)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =      127 (Depth)
+FX2 PARAM 2    =       27 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       35       79       80       82
+EG RATE 2      =        0        0        0        9
+EG RATE 3      =        0        0        0        0
+EG RATE 4      =       44       32       60       22
+EG LEVEL 1     =      127      127      113      116
+EG LEVEL 2     =       79       79       81       93
+EG LEVEL 3     =       64       69       61       81
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =       34       15       18       16
+SCALING RD     =       52       10        1        4
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     +LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       40       40       57       65
+OUT LEVEL      =       57      105      100      127
+FEEDBACK       =       90       25       23       22
+FB TYPE        =   Square   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     1.01     1.99      7.0     13.0
+   freq coarse =        1        1        7       13
+   freq fine   =        1       99        0        0
+FREQ DETUNE    =        0        0        0        0

@@ -1,0 +1,54 @@
+VOICE NAME     = Teleporter
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       12
+ALGORITHM      =        7
+LFO WAVE       = Sawtooth Up
+LFO SPEED      =      120
+LFO DELAY      =        7
+LFO PMD        =        8
+PEG RATE 1     =      107
+PEG RATE 2     =        9
+PEG RATE 3     =       57
+PEG RATE 4     =       40
+PEG LEVEL 1    =       27
+PEG LEVEL 2    =       45
+PEG LEVEL 3    =       28
+PEG LEVEL 4    =      -20
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =      106 (Depth)
+FX1 PARAM 2    =       32 (Time)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =      106 (Depth)
+FX2 PARAM 2    =       10 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      102       61       88        7
+EG RATE 2      =       52      112       63      108
+EG RATE 3      =       97       12       36        8
+EG RATE 4      =       16       76       74      109
+EG LEVEL 1     =      101       60      127        9
+EG LEVEL 2     =        1      111      110      106
+EG LEVEL 3     =       50       11        0       93
+EG LEVEL 4     =       51       45       89      107
+RATE SCALING   =        0        0        0       53
+SCALING LD     =       19        0        0       19
+SCALING RD     =        0       58       40       50
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     -LIN     -LIN     -LIN
+LFO AMD        =       40      111       60       11
+LFO PMD Off/On =      Off      Off      Off       On
+PEG Off/On     =      Off       On      Off      Off
+VELO SENS      =       20        0       20        0
+OUT LEVEL      =       60      116      111       89
+FEEDBACK       =       26       25       50       74
+FB TYPE        = Sawtooth   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Fixed    Ratio
+RATIO | FREQ   =     1.43     2.44    2.818    0.535
+   freq coarse =        1        2        0        0
+   freq fine   =       43       44       45        7
+FREQ DETUNE    =        0      -28      -27       50

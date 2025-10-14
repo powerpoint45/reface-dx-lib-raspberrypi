@@ -1,0 +1,54 @@
+VOICE NAME     = Kemenche  
+============================
+TRANSPOSE      =        0
+MONO/POLY      = Mono-Legato
+PORTA TIME     =        5
+PB RANGE       =        4
+ALGORITHM      =        8
+LFO WAVE       = Triangle
+LFO SPEED      =       49
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       48
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       32 (Drive)
+FX1 PARAM 2    =       22 (Tone)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =      127 (Depth)
+FX2 PARAM 2    =       22 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       86      127      127       91
+EG RATE 2      =       48      127       56      117
+EG RATE 3      =       33       79      108      127
+EG RATE 4      =       79       37      113      100
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      112      127       60      127
+EG LEVEL 3     =       56       62        0      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        9        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     +EXP     -LIN     -LIN
+SCALING RC     =     +LIN     +EXP     +LIN     +LIN
+LFO AMD        =        0        0       82        0
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =       37       35        0       37
+OUT LEVEL      =      122       89      103       59
+FEEDBACK       =       72      107       32        2
+FB TYPE        = Sawtooth   Square   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0     1.66    0.945      1.0
+   freq coarse =        1        1        0        1
+   freq fine   =        0       66       89        0
+FREQ DETUNE    =        0        0        0        0

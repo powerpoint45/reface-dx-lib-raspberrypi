@@ -1,0 +1,54 @@
+VOICE NAME     = Harp     1
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       54
+LFO DELAY      =       50
+LFO PMD        =        0
+PEG RATE 1     =      120
+PEG RATE 2     =       82
+PEG RATE 3     =      120
+PEG RATE 4     =       72
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       60 (Depth)
+FX1 PARAM 2    =       76 (Time)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      118      122      120      122
+EG RATE 2      =       48       60       48       54
+EG RATE 3      =       56       64       62       46
+EG RATE 4      =       56       52       56       40
+EG LEVEL 1     =      126      126      126      118
+EG LEVEL 2     =       94       94       96       98
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       40       40       40       40
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0       54        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0       24        0       24
+OUT LEVEL      =      104       96      104       92
+FEEDBACK       =        0        0        0       64
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      1.0      2.0
+   freq coarse =        1        1        1        2
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

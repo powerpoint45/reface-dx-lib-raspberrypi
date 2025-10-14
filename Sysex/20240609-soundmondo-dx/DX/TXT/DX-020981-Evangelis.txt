@@ -1,0 +1,54 @@
+VOICE NAME     = Evangelis 
+============================
+TRANSPOSE      =      -24
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        6
+LFO WAVE       = Sawtooth Down
+LFO SPEED      =       29
+LFO DELAY      =       57
+LFO PMD        =        0
+PEG RATE 1     =       46
+PEG RATE 2     =       63
+PEG RATE 3     =       64
+PEG RATE 4     =       20
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =      -27
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =      -43
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       63 (Depth)
+FX1 PARAM 2    =       59 (Time)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       24 (---)
+FX2 PARAM 2    =       17 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       71       87       67      127
+EG RATE 2      =       71      127      103       98
+EG RATE 3      =       32       16       28       88
+EG RATE 4      =       32       39       46      127
+EG LEVEL 1     =       98      127      106      127
+EG LEVEL 2     =       12      127       71      102
+EG LEVEL 3     =       63       56       50        0
+EG LEVEL 4     =        0        0       15        0
+RATE SCALING   =       78       84       49       81
+SCALING LD     =      127       17       36       60
+SCALING RD     =      127       15       59       22
+SCALING LC     =     +LIN     +EXP     +LIN     +EXP
+SCALING RC     =     +LIN     -EXP     -LIN     +EXP
+LFO AMD        =        0       65      106      127
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On      Off       On       On
+VELO SENS      =       63       56       84      119
+OUT LEVEL      =      126       81       72      105
+FEEDBACK       =       82       72       74       31
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Fixed
+RATIO | FREQ   =      4.0      0.5      4.0      1.0
+   freq coarse =        4        0        4        7
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0       -2        0

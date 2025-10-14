@@ -1,0 +1,54 @@
+VOICE NAME     = Not Drums 
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       12
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       30
+LFO DELAY      =       54
+LFO PMD        =        0
+PEG RATE 1     =      127
+PEG RATE 2     =      102
+PEG RATE 3     =       57
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        4 (Flanger)
+FX2 PARAM 1    =       54 (Depth)
+FX2 PARAM 2    =       73 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       44       69       40       80
+EG RATE 2      =      124       62       76       45
+EG RATE 3      =       66      127       25      127
+EG RATE 4      =       37       42       57       23
+EG LEVEL 1     =      127       51      127       61
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      111      127       90      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =       54        0       39       85
+SCALING RD     =      110       10       37       12
+SCALING LC     =     +LIN     -LIN     +LIN     +LIN
+SCALING RC     =     -LIN     -LIN     +LIN     -LIN
+LFO AMD        =        0        0        0       38
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =       43       49       56       64
+OUT LEVEL      =      127       94       99       90
+FEEDBACK       =        3       57       44        0
+FB TYPE        =   Square   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     3.99      1.0     1.01      4.0
+   freq coarse =        3        1        1        4
+   freq fine   =       99        0        1        0
+FREQ DETUNE    =        0        0        0        0

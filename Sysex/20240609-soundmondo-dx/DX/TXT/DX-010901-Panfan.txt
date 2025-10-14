@@ -1,0 +1,54 @@
+VOICE NAME     = Panfan    
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        9
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =      127
+LFO DELAY      =       29
+LFO PMD        =       34
+PEG RATE 1     =      103
+PEG RATE 2     =      109
+PEG RATE 3     =       99
+PEG RATE 4     =       64
+PEG LEVEL 1    =       -6
+PEG LEVEL 2    =        3
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       39 (Depth)
+FX1 PARAM 2    =       17 (Time)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       84 (Depth)
+FX2 PARAM 2    =       27 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      102      107      102       90
+EG RATE 2      =       51       55       77       66
+EG RATE 3      =       39       39       39       19
+EG RATE 4      =       90       92      100       98
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       61       53       34       29
+EG LEVEL 3     =        0       19        6       66
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0       13        0       14
+SCALING RD     =        5       10        0       30
+SCALING LC     =     -LIN     +LIN     -LIN     +LIN
+SCALING RC     =     -LIN     -LIN     +LIN     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On      Off      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       37       36       16       65
+OUT LEVEL      =      127      127      127       78
+FEEDBACK       =       41       25       42      106
+FB TYPE        =   Square   Square   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0    0.985      3.0      4.0
+   freq coarse =        1        0        3        4
+   freq fine   =        0       97        0        0
+FREQ DETUNE    =        8        8       -8       -8

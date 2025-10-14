@@ -1,0 +1,54 @@
+VOICE NAME     = Frontiers*
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       = Sawtooth Down
+LFO SPEED      =       90
+LFO DELAY      =       44
+LFO PMD        =       11
+PEG RATE 1     =       65
+PEG RATE 2     =       69
+PEG RATE 3     =       12
+PEG RATE 4     =       45
+PEG LEVEL 1    =        1
+PEG LEVEL 2    =       -1
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        5 (Phaser)
+FX1 PARAM 1    =        0 (Depth)
+FX1 PARAM 2    =        6 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       86 (Depth)
+FX2 PARAM 2    =       56 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      100      108      100      107
+EG RATE 2      =       73        5       73        4
+EG RATE 3      =       40       13       40       14
+EG RATE 4      =       77       44       77       44
+EG LEVEL 1     =       90       10       97       10
+EG LEVEL 2     =      127       75      120       67
+EG LEVEL 3     =       88       92       80       87
+EG LEVEL 4     =        0        0        1        0
+RATE SCALING   =       85        0       85        0
+SCALING LD     =        6      127        6      127
+SCALING RD     =       36      127       32      127
+SCALING LC     =     -LIN     +EXP     -LIN     +EXP
+SCALING RC     =     -LIN     -LIN     -EXP     -LIN
+LFO AMD        =        0       47        0       43
+LFO PMD Off/On =      Off      Off       On       On
+PEG Off/On     =      Off      Off       On       On
+VELO SENS      =       30      112       30      109
+OUT LEVEL      =      127       65      127       67
+FEEDBACK       =       23       74       23       77
+FB TYPE        =   Square Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      4.0      1.0      4.0      2.0
+   freq coarse =        4        1        4        2
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       -4       -3        4        5

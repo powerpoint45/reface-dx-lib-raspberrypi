@@ -1,0 +1,54 @@
+VOICE NAME     = Dyna Choir
+============================
+TRANSPOSE      =      -24
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        4
+LFO WAVE       = Triangle
+LFO SPEED      =       81
+LFO DELAY      =       18
+LFO PMD        =       15
+PEG RATE 1     =       82
+PEG RATE 2     =       85
+PEG RATE 3     =       16
+PEG RATE 4     =       18
+PEG LEVEL 1    =        2
+PEG LEVEL 2    =       -1
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =        5 (Drive)
+FX1 PARAM 2    =      113 (Tone)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       97 (Depth)
+FX2 PARAM 2    =       67 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       82       87      127       84
+EG RATE 2      =       89       65      127      127
+EG RATE 3      =      124      127      127      127
+EG RATE 4      =       90       61       60       60
+EG LEVEL 1     =      100      100       28      127
+EG LEVEL 2     =      127      127       28      127
+EG LEVEL 3     =      127      127       28      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       11       12       12       12
+SCALING LD     =        0       36      127       47
+SCALING RD     =       33       31       70      127
+SCALING LC     =     +LIN     +LIN     -LIN     -LIN
+SCALING RC     =     -EXP     -LIN     +LIN     -LIN
+LFO AMD        =        8        3       14       20
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       29       38        0        0
+OUT LEVEL      =      127       81       26       19
+FEEDBACK       =        2       14       52       43
+FB TYPE        =   Square Sawtooth   Square   Square
+FREQ MODE      =    Ratio    Ratio    Fixed    Fixed
+RATIO | FREQ   =      2.0      2.0 6918.086 2041.714
+   freq coarse =        2        2       25       26
+   freq fine   =        0        0       84       31
+FREQ DETUNE    =        0        0      -22       62

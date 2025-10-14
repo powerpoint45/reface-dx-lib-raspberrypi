@@ -1,0 +1,54 @@
+VOICE NAME     = S<x N`8_n 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        6
+LFO WAVE       = Sawtooth Up
+LFO SPEED      =       88
+LFO DELAY      =       81
+LFO PMD        =        0
+PEG RATE 1     =       12
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =      -48
+PEG LEVEL 3    =      -20
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       44 (Depth)
+FX1 PARAM 2    =       72 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       52 (Depth)
+FX2 PARAM 2    =       68 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On      Off
+EG RATE 1      =      115       31        0       98
+EG RATE 2      =       61       90       74       86
+EG RATE 3      =      127        0       40      127
+EG RATE 4      =       92       87      127       76
+EG LEVEL 1     =      110       85        0       89
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =        0       70       46       30
+EG LEVEL 4     =      127        0        0       93
+RATE SCALING   =        0       50       78        0
+SCALING LD     =       16        0        0        0
+SCALING RD     =       24       42       73       64
+SCALING LC     =     -EXP     -LIN     -LIN     +LIN
+SCALING RC     =     +EXP     -LIN     -LIN     +EXP
+LFO AMD        =      127      104       61       56
+LFO PMD Off/On =      Off      Off       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0       63        0        0
+OUT LEVEL      =      127      127       95       65
+FEEDBACK       =       93       45       43      127
+FB TYPE        =   Square   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0     0.77    12.24     6.99
+   freq coarse =        1        0       12        6
+   freq fine   =        0       54       24       99
+FREQ DETUNE    =        8        0        0        0

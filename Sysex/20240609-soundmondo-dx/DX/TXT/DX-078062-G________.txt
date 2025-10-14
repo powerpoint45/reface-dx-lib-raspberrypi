@@ -1,0 +1,54 @@
+VOICE NAME     = G|||||||| 
+============================
+TRANSPOSE      =       10
+MONO/POLY      =     Poly
+PORTA TIME     =       53
+PB RANGE       =       24
+ALGORITHM      =        8
+LFO WAVE       = Sawtooth Up
+LFO SPEED      =       20
+LFO DELAY      =       40
+LFO PMD        =       27
+PEG RATE 1     =      113
+PEG RATE 2     =        1
+PEG RATE 3     =       19
+PEG RATE 4     =       44
+PEG LEVEL 1    =       24
+PEG LEVEL 2    =       25
+PEG LEVEL 3    =        9
+PEG LEVEL 4    =       12
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       25 (Depth)
+FX1 PARAM 2    =       10 (Time)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       95 (Depth)
+FX2 PARAM 2    =       48 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      124      127      127      125
+EG RATE 2      =       24       26       65       32
+EG RATE 3      =        2        0       31        7
+EG RATE 4      =       73        0       88        0
+EG LEVEL 1     =       79       97       52       58
+EG LEVEL 2     =       88       56      109      122
+EG LEVEL 3     =       82       74       91       99
+EG LEVEL 4     =       47       37      126       60
+RATE SCALING   =       32       57       41       66
+SCALING LD     =       51       38       49       37
+SCALING RD     =       71       52       49       53
+SCALING LC     =     +EXP     +EXP     +EXP     +LIN
+SCALING RC     =     +EXP     +EXP     +EXP     -LIN
+LFO AMD        =       41       70        0       47
+LFO PMD Off/On =      Off       On      Off      Off
+PEG Off/On     =      Off       On      Off      Off
+VELO SENS      =       73       87        8       76
+OUT LEVEL      =      112      117      127      109
+FEEDBACK       =       59       20       29       23
+FB TYPE        = Sawtooth   Square Sawtooth   Square
+FREQ MODE      =    Fixed    Ratio    Ratio    Fixed
+RATIO | FREQ   =  141.253    31.03     0.68   95.496
+   freq coarse =       16       31        0        9
+   freq fine   =       15        3       36       98
+FREQ DETUNE    =       25      -28       13      -13

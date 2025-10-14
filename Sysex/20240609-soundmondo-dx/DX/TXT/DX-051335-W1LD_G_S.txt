@@ -1,0 +1,54 @@
+VOICE NAME     = W1LD G'S  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =       29
+LFO DELAY      =        7
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       46 (Depth)
+FX2 PARAM 2    =       70 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =        0       44       34      109
+EG RATE 2      =       97       45      127      119
+EG RATE 3      =      127      120      127      107
+EG RATE 4      =       53       45      110      107
+EG LEVEL 1     =       35       49        0        0
+EG LEVEL 2     =       40       52        0        1
+EG LEVEL 3     =       40       63        0        0
+EG LEVEL 4     =       21        8        0        0
+RATE SCALING   =        0       61        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -EXP     -EXP     -LIN     -LIN
+SCALING RC     =     +EXP     +EXP     +LIN     +LIN
+LFO AMD        =       13       33       49       56
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        2        0        0
+OUT LEVEL      =      104       24        0        0
+FEEDBACK       =        0        0       13       22
+FB TYPE        = Sawtooth Sawtooth   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0     0.55      7.0      9.0
+   freq coarse =        1        0        7        9
+   freq fine   =        0       10        0        0
+FREQ DETUNE    =        0        0        0        0

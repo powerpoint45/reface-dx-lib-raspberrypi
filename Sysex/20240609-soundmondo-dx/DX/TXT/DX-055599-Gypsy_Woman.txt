@@ -1,0 +1,54 @@
+VOICE NAME     = GypsyWoman
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       12
+LFO WAVE       =     Sine
+LFO SPEED      =        7
+LFO DELAY      =        0
+LFO PMD        =        6
+PEG RATE 1     =       94
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =        0 (Drive)
+FX1 PARAM 2    =       28 (Tone)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       37 (Depth)
+FX2 PARAM 2    =        0 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On      Off       On
+EG RATE 1      =      125      125      125      125
+EG RATE 2      =       57       57       57       55
+EG RATE 3      =       57       57       57       54
+EG RATE 4      =       96       86       96       86
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      122      106      106      114
+EG LEVEL 3     =      122      106      106      114
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =      127      127      127       96
+SCALING LD     =       13       16        0       28
+SCALING RD     =       19        0        0       28
+SCALING LC     =     +LIN     -EXP     +LIN     -EXP
+SCALING RC     =     -LIN     +LIN     +LIN     -EXP
+LFO AMD        =       32       34       33       33
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0       23
+OUT LEVEL      =      118      105       69       83
+FEEDBACK       =        0        0        0        4
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      2.0      1.0      1.0      4.0
+   freq coarse =        2        1        1        4
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

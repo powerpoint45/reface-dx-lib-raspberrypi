@@ -1,0 +1,54 @@
+VOICE NAME     = MixedChoir
+============================
+TRANSPOSE      =      -24
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       12
+ALGORITHM      =        4
+LFO WAVE       = Triangle
+LFO SPEED      =       81
+LFO DELAY      =       18
+LFO PMD        =       15
+PEG RATE 1     =      127
+PEG RATE 2     =      110
+PEG RATE 3     =       16
+PEG RATE 4     =       18
+PEG LEVEL 1    =        1
+PEG LEVEL 2    =       -1
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =        0 (---)
+FX1 PARAM 2    =      113 (---)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       97 (Depth)
+FX2 PARAM 2    =       67 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       87       96      127       84
+EG RATE 2      =       92       65      127      127
+EG RATE 3      =      124      127      127      127
+EG RATE 4      =       90       61       60       60
+EG LEVEL 1     =      100      100       28      127
+EG LEVEL 2     =      127      127       28      127
+EG LEVEL 3     =      127      127       28      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       11       60       12       12
+SCALING LD     =        0       36      127       47
+SCALING RD     =       33       21       70      127
+SCALING LC     =     +LIN     +EXP     -LIN     -LIN
+SCALING RC     =     -EXP     +LIN     +LIN     -LIN
+LFO AMD        =        8        3       14       20
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       26       44       42       15
+OUT LEVEL      =      127       70       38       30
+FEEDBACK       =        0        0       26       48
+FB TYPE        = Sawtooth Sawtooth   Square   Square
+FREQ MODE      =    Ratio    Ratio    Fixed    Fixed
+RATIO | FREQ   =      2.0      2.0 7585.519 2951.156
+   freq coarse =        2        2       25       26
+   freq fine   =        0        0       88       47
+FREQ DETUNE    =        0      -14      -22       62

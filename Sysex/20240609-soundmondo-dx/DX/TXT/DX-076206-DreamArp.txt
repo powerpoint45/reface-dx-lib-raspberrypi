@@ -1,0 +1,54 @@
+VOICE NAME     = DynaLead  
+============================
+TRANSPOSE      =       11
+MONO/POLY      =     Poly
+PORTA TIME     =       66
+PB RANGE       =        8
+ALGORITHM      =        3
+LFO WAVE       = Triangle
+LFO SPEED      =       83
+LFO DELAY      =       34
+LFO PMD        =        0
+PEG RATE 1     =       37
+PEG RATE 2     =       20
+PEG RATE 3     =       47
+PEG RATE 4     =       15
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =       -5
+PEG LEVEL 3    =       -6
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       29 (Depth)
+FX1 PARAM 2    =       63 (Time)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       73 (Depth)
+FX2 PARAM 2    =       64 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      109      127
+EG RATE 2      =       62       83        1        0
+EG RATE 3      =       28        0        0        0
+EG RATE 4      =       40      124        0        0
+EG LEVEL 1     =      114      127      127      127
+EG LEVEL 2     =      116       78      114      113
+EG LEVEL 3     =       68       76       54       27
+EG LEVEL 4     =        9       45        5        0
+RATE SCALING   =        4        4        4        4
+SCALING LD     =       19       37        0        0
+SCALING RD     =        0        5        0        0
+SCALING LC     =     +LIN     +LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =       30       13       26       26
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off      Off       On      Off
+VELO SENS      =       65       56       50       34
+OUT LEVEL      =      102      108       88      103
+FEEDBACK       =       57       34       61       43
+FB TYPE        =   Square   Square Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.5      4.0      0.5      2.0
+   freq coarse =        1        4        0        2
+   freq fine   =       50        0        0        0
+FREQ DETUNE    =       -3        5        0       -5

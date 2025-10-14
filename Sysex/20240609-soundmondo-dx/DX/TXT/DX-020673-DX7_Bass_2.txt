@@ -1,0 +1,54 @@
+VOICE NAME     = DX7 Bass 2
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        1
+PB RANGE       =        2
+ALGORITHM      =        1
+LFO WAVE       =     Sine
+LFO SPEED      =       83
+LFO DELAY      =       39
+LFO PMD        =       11
+PEG RATE 1     =      117
+PEG RATE 2     =      110
+PEG RATE 3     =      110
+PEG RATE 4     =       65
+PEG LEVEL 1    =        6
+PEG LEVEL 2    =       -2
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        5 (Phaser)
+FX1 PARAM 1    =       38 (Depth)
+FX1 PARAM 2    =       42 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       49 (Depth)
+FX2 PARAM 2    =       19 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      121      115      118      118
+EG RATE 2      =      114       61       62       81
+EG RATE 3      =       32       45       57       71
+EG RATE 4      =       88       70       90       90
+EG LEVEL 1     =      114      127      127      127
+EG LEVEL 2     =      127       98       68       76
+EG LEVEL 3     =       50       81       32        7
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       15       26       49       58
+SCALING LD     =       14        4        2        1
+SCALING RD     =       10        8       13        9
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     -LIN     -EXP     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off      Off       On       On
+VELO SENS      =       17       13       80       90
+OUT LEVEL      =      121      103       20       21
+FEEDBACK       =       10       30       10       29
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      0.5      3.5      6.5
+   freq coarse =        1        0        3        6
+   freq fine   =        0        0       50       50
+FREQ DETUNE    =        0        2        0        0

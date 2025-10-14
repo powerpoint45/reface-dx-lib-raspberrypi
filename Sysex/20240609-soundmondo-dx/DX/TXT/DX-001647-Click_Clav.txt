@@ -1,0 +1,54 @@
+VOICE NAME     = Click Clav
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       = Sample & Hold
+LFO SPEED      =       61
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       42 (Drive)
+FX1 PARAM 2    =       82 (Tone)
+FX2 TYPE       =        2 (Touch Wah)
+FX2 PARAM 1    =      127 (Sensibility)
+FX2 PARAM 2    =      127 (Rez)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =      127       66      108      127
+EG RATE 3      =      101      127        4      127
+EG RATE 4      =       67       86      100      100
+EG LEVEL 1     =      123      125      127      123
+EG LEVEL 2     =       83       86      127       90
+EG LEVEL 3     =       74       84        0       89
+EG LEVEL 4     =        0        0        0        8
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =       29        0       19       49
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       14       30       45       53
+OUT LEVEL      =      127      108      127       86
+FEEDBACK       =        7        5        4       13
+FB TYPE        = Sawtooth Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      2.0     1.99      0.5      0.5
+   freq coarse =        2        1        0        0
+   freq fine   =        0       99        0        0
+FREQ DETUNE    =        0        0        0        0

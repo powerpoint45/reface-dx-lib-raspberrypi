@@ -1,0 +1,54 @@
+VOICE NAME     = Baroque   
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        1
+LFO WAVE       =     Sine
+LFO SPEED      =       64
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       67 (Depth)
+FX1 PARAM 2    =       54 (Time)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =        9 (---)
+FX2 PARAM 2    =       18 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       59       73       15       14
+EG RATE 3      =       42       30       40       31
+EG RATE 4      =       72      110      127      127
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       95      100       95       85
+EG LEVEL 3     =        0        0        1        0
+EG LEVEL 4     =        0      127      127      127
+RATE SCALING   =      109       90       88       99
+SCALING LD     =        0        0        0        0
+SCALING RD     =        8       10       21       13
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -EXP     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       40       10        0        0
+OUT LEVEL      =      124       89       90       85
+FEEDBACK       =       20       38       80       71
+FB TYPE        = Sawtooth Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      3.0      1.5     5.01
+   freq coarse =        1        3        1        5
+   freq fine   =        0        0       50        1
+FREQ DETUNE    =        1       -1        0       -6

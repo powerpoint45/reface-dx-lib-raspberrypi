@@ -1,0 +1,54 @@
+VOICE NAME     = StarVoyag 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        0
+ALGORITHM      =       12
+LFO WAVE       = Sawtooth Down
+LFO SPEED      =       67
+LFO DELAY      =       56
+LFO PMD        =        0
+PEG RATE 1     =        0
+PEG RATE 2     =        0
+PEG RATE 3     =        0
+PEG RATE 4     =        0
+PEG LEVEL 1    =       25
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =       39
+PEG LEVEL 4    =       18
+FX1 TYPE       =        5 (Phaser)
+FX1 PARAM 1    =      123 (Depth)
+FX1 PARAM 2    =        1 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =      127 (Depth)
+FX2 PARAM 2    =       29 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127       80      127
+EG RATE 2      =       47       43       71      100
+EG RATE 3      =        0        0        0        0
+EG RATE 4      =        0        0        0        0
+EG LEVEL 1     =      105      127      114      127
+EG LEVEL 2     =      105       30      108      120
+EG LEVEL 3     =       50        1       67       83
+EG LEVEL 4     =        0        0        0       35
+RATE SCALING   =        0        0        6       12
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     +LIN     -LIN     +LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =       86       90       71       98
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =       65       97       96       44
+OUT LEVEL      =      127      117      122      115
+FEEDBACK       =       43       72       78       46
+FB TYPE        = Sawtooth   Square   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      2.0      1.0      2.0
+   freq coarse =        1        2        1        2
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

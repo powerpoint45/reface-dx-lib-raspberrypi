@@ -1,0 +1,54 @@
+VOICE NAME     = Alpha 7ice
+============================
+TRANSPOSE      =      -24
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        9
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =       22
+LFO DELAY      =       33
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       54 (Depth)
+FX1 PARAM 2    =       13 (Rate)
+FX2 TYPE       =        5 (Phaser)
+FX2 PARAM 1    =       41 (Depth)
+FX2 PARAM 2    =       14 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       73       53      127       46
+EG RATE 2      =       38      125        0       91
+EG RATE 3      =       47        0      127      127
+EG RATE 4      =       51       37       48       91
+EG LEVEL 1     =      114      127      108      127
+EG LEVEL 2     =      127       17        0       79
+EG LEVEL 3     =      127       88      127      127
+EG LEVEL 4     =       13        0        0       20
+RATE SCALING   =       78        0       85      103
+SCALING LD     =       84       36       80        5
+SCALING RD     =      103       13       79       26
+SCALING LC     =     +LIN     +LIN     +EXP     -LIN
+SCALING RC     =     +LIN     +EXP     +LIN     +LIN
+LFO AMD        =       38        0       20       14
+LFO PMD Off/On =      Off      Off      Off       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =       75      105      123       62
+FEEDBACK       =       57       65       69       71
+FB TYPE        = Sawtooth Sawtooth   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     1.99      6.0     12.0     9.06
+   freq coarse =        1        6       12        9
+   freq fine   =       99        0        0        6
+FREQ DETUNE    =        0        0        0       -2

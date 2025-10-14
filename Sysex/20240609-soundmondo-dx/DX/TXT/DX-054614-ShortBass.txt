@@ -1,0 +1,54 @@
+VOICE NAME     = ShortBass 
+============================
+TRANSPOSE      =      -12
+MONO/POLY      = Mono-Full
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        3
+LFO WAVE       =     Sine
+LFO SPEED      =       64
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       25 (Depth)
+FX1 PARAM 2    =       35 (Rate)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       20 (Depth)
+FX2 PARAM 2    =       18 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       64       68       35       55
+EG RATE 3      =       80      127      127       45
+EG RATE 4      =      100      100      100      100
+EG LEVEL 1     =      126      127      127      127
+EG LEVEL 2     =       93        0        0       62
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       60       60       60       60
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0       10       15        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      100       75       97       92
+FEEDBACK       =       39       30       47       60
+FB TYPE        =   Square Sawtooth   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5     2.05     1.01    0.505
+   freq coarse =        0        2        1        0
+   freq fine   =        0        5        1        1
+FREQ DETUNE    =        0      -60       15      -25

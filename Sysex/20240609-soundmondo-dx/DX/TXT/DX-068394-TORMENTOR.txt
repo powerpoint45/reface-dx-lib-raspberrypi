@@ -1,0 +1,54 @@
+VOICE NAME     = TORMENTOR 
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       12
+ALGORITHM      =        1
+LFO WAVE       = Triangle
+LFO SPEED      =        5
+LFO DELAY      =        8
+LFO PMD        =        0
+PEG RATE 1     =      122
+PEG RATE 2     =       97
+PEG RATE 3     =       54
+PEG RATE 4     =       45
+PEG LEVEL 1    =        9
+PEG LEVEL 2    =       -9
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      126      126      120
+EG RATE 2      =        0        0        0        0
+EG RATE 3      =        0        0        0        0
+EG RATE 4      =       97       96       94       91
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127        0
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       35       45       55       83
+SCALING LD     =        0       17       17       17
+SCALING RD     =       19       19       19        0
+SCALING LC     =     -LIN     +LIN     +LIN     +LIN
+SCALING RC     =     -LIN     -LIN     -LIN     +LIN
+LFO AMD        =       63       83        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      100       83       83       93
+FEEDBACK       =        0      119      107       95
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     8.33    0.995    0.505    0.795
+   freq coarse =        8        0        0        0
+   freq fine   =       33       99        1       59
+FREQ DETUNE    =       -9       -2       -3       -4

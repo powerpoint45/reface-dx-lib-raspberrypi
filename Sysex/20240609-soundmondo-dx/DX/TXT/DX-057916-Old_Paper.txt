@@ -1,0 +1,54 @@
+VOICE NAME     = Old Paper 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =       19
+PB RANGE       =        5
+ALGORITHM      =        3
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =       25
+LFO DELAY      =       55
+LFO PMD        =       47
+PEG RATE 1     =       77
+PEG RATE 2     =       11
+PEG RATE 3     =       18
+PEG RATE 4     =        0
+PEG LEVEL 1    =      -48
+PEG LEVEL 2    =       30
+PEG LEVEL 3    =        9
+PEG LEVEL 4    =      -40
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       76 (Depth)
+FX1 PARAM 2    =       65 (Time)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       13 (Depth)
+FX2 PARAM 2    =       24 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       30      127       47        6
+EG RATE 2      =       16      127      122       82
+EG RATE 3      =       34       50        0       14
+EG RATE 4      =       42       50        0        0
+EG LEVEL 1     =       67      127       55      119
+EG LEVEL 2     =       80      127       53      100
+EG LEVEL 3     =       48      127       14       85
+EG LEVEL 4     =        7        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0       60        0
+SCALING RD     =      127       50      127      127
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0       58      127        0
+LFO PMD Off/On =      Off      Off      Off       On
+PEG Off/On     =      Off       On       On      Off
+VELO SENS      =       30        0       20       16
+OUT LEVEL      =       58      115      127      101
+FEEDBACK       =       51       94      121       86
+FB TYPE        = Sawtooth   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Fixed    Ratio    Fixed
+RATIO | FREQ   =      1.0    1.549      3.0    4.898
+   freq coarse =        1        0        3        4
+   freq fine   =        0       19        0       69
+FREQ DETUNE    =        0       27        0       18

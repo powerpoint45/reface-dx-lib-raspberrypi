@@ -1,0 +1,54 @@
+VOICE NAME     = Syntguitar
+============================
+TRANSPOSE      =      -12
+MONO/POLY      = Mono-Full
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       10
+LFO WAVE       =     Sine
+LFO SPEED      =       88
+LFO DELAY      =       53
+LFO PMD        =       11
+PEG RATE 1     =      127
+PEG RATE 2     =       77
+PEG RATE 3     =       40
+PEG RATE 4     =       47
+PEG LEVEL 1    =       -1
+PEG LEVEL 2    =        1
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       70 (Depth)
+FX1 PARAM 2    =       54 (Time)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       67 (Depth)
+FX2 PARAM 2    =       76 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       97      104      110       89
+EG RATE 2      =       98       98      127       47
+EG RATE 3      =      127      127      126        8
+EG RATE 4      =       97       87      109       92
+EG LEVEL 1     =      127      125      127      127
+EG LEVEL 2     =      127      127      122      120
+EG LEVEL 3     =      127      127      122       99
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       12        0       12        0
+SCALING LD     =        4        0        9        3
+SCALING RD     =        5        7        5       18
+SCALING LC     =     +LIN     -LIN     +LIN     -LIN
+SCALING RC     =     -LIN     -EXP     -EXP     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off       On       On       On
+VELO SENS      =       18       18       18       11
+OUT LEVEL      =        0      127      127      127
+FEEDBACK       =      103      104       21       90
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     2.01      2.0      2.0      2.0
+   freq coarse =        2        2        2        2
+   freq fine   =        1        0        0        0
+FREQ DETUNE    =      -20       -4        3        3

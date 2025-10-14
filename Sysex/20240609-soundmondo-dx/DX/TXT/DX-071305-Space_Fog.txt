@@ -1,0 +1,54 @@
+VOICE NAME     = Space Fog 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       10
+LFO WAVE       = Triangle
+LFO SPEED      =        5
+LFO DELAY      =       20
+LFO PMD        =        0
+PEG RATE 1     =      127
+PEG RATE 2     =      127
+PEG RATE 3     =       60
+PEG RATE 4     =       64
+PEG LEVEL 1    =        5
+PEG LEVEL 2    =        5
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       13        4       52       18
+EG RATE 2      =       55       39       25       15
+EG RATE 3      =       45        2       11       30
+EG RATE 4      =       59       47       40       26
+EG LEVEL 1     =      108       25       53       52
+EG LEVEL 2     =       28      104      103       88
+EG LEVEL 3     =        0      127       34       10
+EG LEVEL 4     =        0        0        0       87
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        3        6       25        0
+LFO PMD Off/On =       On      Off      Off       On
+PEG Off/On     =      Off      Off      Off       On
+VELO SENS      =       23       49       37       33
+OUT LEVEL      =       89      106      104       88
+FEEDBACK       =       80       54       70       92
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      2.0      1.0      1.0     2.02
+   freq coarse =        2        1        1        2
+   freq fine   =        0        0        0        2
+FREQ DETUNE    =       10       -4        2      -64

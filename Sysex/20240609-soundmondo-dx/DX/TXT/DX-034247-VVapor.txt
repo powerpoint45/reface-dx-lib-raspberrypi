@@ -1,0 +1,54 @@
+VOICE NAME     = VVapor    
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =       71
+LFO DELAY      =        0
+LFO PMD        =        6
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       78 (Depth)
+FX1 PARAM 2    =       81 (Time)
+FX2 TYPE       =        4 (Flanger)
+FX2 PARAM 1    =       50 (Depth)
+FX2 PARAM 2    =       66 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       98       60       73       13
+EG RATE 2      =        0       38       20        0
+EG RATE 3      =       84       30       11        0
+EG RATE 4      =       38       27       70        0
+EG LEVEL 1     =      127      100       64      100
+EG LEVEL 2     =       20       85      100      127
+EG LEVEL 3     =       59       70       44       32
+EG LEVEL 4     =       74        0       76      122
+RATE SCALING   =       55        4        4        4
+SCALING LD     =       47       58      124       76
+SCALING RD     =       76       77       66        0
+SCALING LC     =     +EXP     +EXP     -LIN     +EXP
+SCALING RC     =     -EXP     +EXP     +LIN     -LIN
+LFO AMD        =       29       38       19       54
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        8       17       25       46
+OUT LEVEL      =       96       59       25       59
+FEEDBACK       =       67       70       10       80
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     1.16      0.5      0.5      0.5
+   freq coarse =        1        0        0        0
+   freq fine   =       16        0        0        0
+FREQ DETUNE    =        0        0        0        0

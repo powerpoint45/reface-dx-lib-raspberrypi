@@ -1,0 +1,54 @@
+VOICE NAME     = MicroGrav 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        5
+LFO WAVE       =   Square
+LFO SPEED      =      105
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =        0
+PEG RATE 4     =        0
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =      -25
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      100      105       75       50
+EG RATE 2      =       55      127      127      127
+EG RATE 3      =       65      105       75      127
+EG RATE 4      =       70      100      100       60
+EG LEVEL 1     =      124      127      127      127
+EG LEVEL 2     =       80      127      127      127
+EG LEVEL 3     =        0        0        0      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0       25       25       10
+SCALING RD     =        0       15       15       20
+SCALING LC     =     -LIN     +LIN     -EXP     +LIN
+SCALING RC     =     +LIN     +LIN     -EXP     +LIN
+LFO AMD        =        0        0       40       75
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       15       10        0       10
+OUT LEVEL      =      127       57       85       70
+FEEDBACK       =       13       50       75       50
+FB TYPE        = Sawtooth Sawtooth   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      2.0      2.5     1.75      1.0
+   freq coarse =        2        2        1        1
+   freq fine   =        0       50       75        0
+FREQ DETUNE    =        0        0        0        0

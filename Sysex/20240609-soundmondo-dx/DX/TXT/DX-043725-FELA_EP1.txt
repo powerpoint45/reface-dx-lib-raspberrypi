@@ -1,0 +1,54 @@
+VOICE NAME     = Fela EP1  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       12
+LFO WAVE       =     Sine
+LFO SPEED      =        6
+LFO DELAY      =        0
+LFO PMD        =        4
+PEG RATE 1     =      127
+PEG RATE 2     =      127
+PEG RATE 3     =      127
+PEG RATE 4     =        0
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       16 (Drive)
+FX1 PARAM 2    =       26 (Tone)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       50 (---)
+FX2 PARAM 2    =       62 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On      Off      Off      Off
+EG RATE 1      =      117      117      117      117
+EG RATE 2      =       66      127      127      127
+EG RATE 3      =       43       39       39       39
+EG RATE 4      =       74       74       74       74
+EG LEVEL 1     =      106      106      106      106
+EG LEVEL 2     =       97       97       97       97
+EG LEVEL 3     =       12       12       12       12
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       45       42       57       27
+SCALING LD     =       23       23       32       43
+SCALING RD     =        5        3       34       22
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     -LIN     -LIN     +EXP     +EXP
+LFO AMD        =        0        0       17       10
+LFO PMD Off/On =      Off      Off       On       On
+PEG Off/On     =      Off      Off      Off       On
+VELO SENS      =       18       66       33       62
+OUT LEVEL      =      121      110      115       54
+FEEDBACK       =       43       36       14       26
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      2.0      4.0
+   freq coarse =        1        1        2        4
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       16       -2        0        6

@@ -1,0 +1,54 @@
+VOICE NAME     = Pleased As
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        5
+LFO WAVE       =     Sine
+LFO SPEED      =       26
+LFO DELAY      =        0
+LFO PMD        =        9
+PEG RATE 1     =      127
+PEG RATE 2     =       66
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =       -1
+PEG LEVEL 2    =       -1
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      120      127      127      120
+EG RATE 2      =      127      127      127      127
+EG RATE 3      =       69      127       65       41
+EG RATE 4      =       80      100       88       67
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0       20       10       10
+SCALING RD     =        0        0       20        0
+SCALING LC     =     -LIN     +LIN     +LIN     +LIN
+SCALING RC     =     +LIN     +LIN     -EXP     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On      Off
+PEG Off/On     =      Off       On      Off      Off
+VELO SENS      =       20       20       25       35
+OUT LEVEL      =      127       55       86       85
+FEEDBACK       =        0       37       32       38
+FB TYPE        = Sawtooth   Square   Square   Square
+FREQ MODE      =    Fixed    Ratio    Ratio    Ratio
+RATIO | FREQ   =    2.754      4.0      3.0      1.0
+   freq coarse =        1        4        3        1
+   freq fine   =       44        0        0        0
+FREQ DETUNE    =        0        0        0        0

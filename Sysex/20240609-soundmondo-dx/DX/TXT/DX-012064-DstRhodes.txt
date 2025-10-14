@@ -1,0 +1,54 @@
+VOICE NAME     = DstRhodes 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       76
+LFO DELAY      =       31
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =      114
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =       16
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       15 (Drive)
+FX1 PARAM 2    =       27 (Tone)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       69 (---)
+FX2 PARAM 2    =       29 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       55       46      100       86
+EG RATE 3      =       39       24       81       92
+EG RATE 4      =      118      100      109       64
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      102      111       11       64
+EG LEVEL 3     =        0       96        0       32
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0       86        4        4
+SCALING LD     =        0       15       74        0
+SCALING RD     =        0       38       35       24
+SCALING LC     =     -LIN     +EXP     -LIN     -LIN
+SCALING RC     =     +LIN     -EXP     +EXP     -EXP
+LFO AMD        =       39        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off       On      Off      Off
+VELO SENS      =       17      120       65       55
+OUT LEVEL      =      127       95       81      105
+FEEDBACK       =        7       39        1        1
+FB TYPE        =   Square Sawtooth   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      6.0     11.0
+   freq coarse =        1        1        6       11
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        3       -1       -6        0

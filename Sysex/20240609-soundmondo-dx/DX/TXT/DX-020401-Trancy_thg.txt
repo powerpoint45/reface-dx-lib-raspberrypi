@@ -1,0 +1,54 @@
+VOICE NAME     = Trancy thg
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       94
+LFO DELAY      =      127
+LFO PMD        =       31
+PEG RATE 1     =        0
+PEG RATE 2     =        0
+PEG RATE 3     =        0
+PEG RATE 4     =        0
+PEG LEVEL 1    =       48
+PEG LEVEL 2    =      -48
+PEG LEVEL 3    =       48
+PEG LEVEL 4    =      -48
+FX1 TYPE       =        5 (Phaser)
+FX1 PARAM 1    =       21 (Depth)
+FX1 PARAM 2    =       19 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       70 (Depth)
+FX2 PARAM 2    =       74 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       99       88      105       91
+EG RATE 2      =       60       48       94      105
+EG RATE 3      =      103       59       27       61
+EG RATE 4      =       44       84       58       66
+EG LEVEL 1     =       47       31       76       26
+EG LEVEL 2     =       73       66       97       90
+EG LEVEL 3     =       41       42      109       39
+EG LEVEL 4     =       18        0        0        0
+RATE SCALING   =        0      102        0       70
+SCALING LD     =        0      117        0      104
+SCALING RD     =        0        0        0       60
+SCALING LC     =     -LIN     -EXP     -LIN     +EXP
+SCALING RC     =     +LIN     +EXP     +LIN     -EXP
+LFO AMD        =       30       80       12        5
+LFO PMD Off/On =      Off       On      Off      Off
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =        0       39        0        0
+OUT LEVEL      =      124      101      113      100
+FEEDBACK       =        8       70       39       61
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      0.5    0.985      1.0
+   freq coarse =        1        0        0        1
+   freq fine   =        0        0       97        0
+FREQ DETUNE    =        0        0        0        3

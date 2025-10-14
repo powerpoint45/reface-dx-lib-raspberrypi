@@ -1,0 +1,54 @@
+VOICE NAME     = Steelt    
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        2
+LFO WAVE       =     Sine
+LFO SPEED      =       91
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =       13
+PEG LEVEL 3    =       28
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       12 (Depth)
+FX1 PARAM 2    =       30 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       32 (Depth)
+FX2 PARAM 2    =        1 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127        0      127
+EG RATE 2      =       74        0        1       59
+EG RATE 3      =       36       35        0       77
+EG RATE 4      =       60       58        0       62
+EG LEVEL 1     =      127       87       64      127
+EG LEVEL 2     =      105      127        0      127
+EG LEVEL 3     =       56       67       48       47
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        4        4        8
+SCALING LD     =        0       15        0        0
+SCALING RD     =        0        6       11        7
+SCALING LC     =     +LIN     +LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =        0        0        0      120
+OUT LEVEL      =      127      112       82       96
+FEEDBACK       =        0        0        0       50
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Fixed    Ratio
+RATIO | FREQ   =      0.5    0.675  645.634      2.7
+   freq coarse =        0        0       23        2
+   freq fine   =        0       35       81       70
+FREQ DETUNE    =        0        0        0        0

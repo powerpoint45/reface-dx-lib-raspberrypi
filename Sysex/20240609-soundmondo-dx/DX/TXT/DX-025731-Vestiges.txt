@@ -1,0 +1,54 @@
+VOICE NAME     = Vestiges  
+============================
+TRANSPOSE      =       -2
+MONO/POLY      =     Poly
+PORTA TIME     =        5
+PB RANGE       =        2
+ALGORITHM      =        5
+LFO WAVE       = Triangle
+LFO SPEED      =       48
+LFO DELAY      =       18
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        5 (Phaser)
+FX1 PARAM 1    =       87 (Depth)
+FX1 PARAM 2    =        3 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       51 (Depth)
+FX2 PARAM 2    =       73 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       24       40       34       34
+EG RATE 2      =       76       80       33       71
+EG RATE 3      =       66       64       89       56
+EG RATE 4      =       31       32       33       32
+EG LEVEL 1     =       88       92       96       75
+EG LEVEL 2     =       70       64       73       66
+EG LEVEL 3     =       92       80       87       75
+EG LEVEL 4     =       42       35       39       30
+RATE SCALING   =       21        8       48       12
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0       17
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        9       14       13       20
+OUT LEVEL      =      103       94       90      103
+FEEDBACK       =       34       20        9       41
+FB TYPE        =   Square Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      1.0      1.0
+   freq coarse =        1        1        1        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       -3      -11        6       -3

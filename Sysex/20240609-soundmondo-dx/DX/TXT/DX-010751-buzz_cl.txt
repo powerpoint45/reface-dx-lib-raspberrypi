@@ -1,0 +1,54 @@
+VOICE NAME     = buzz cl   
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        7
+LFO WAVE       = Triangle
+LFO SPEED      =       88
+LFO DELAY      =       20
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       64 (Depth)
+FX1 PARAM 2    =       20 (Rate)
+FX2 TYPE       =        1 (Distortion)
+FX2 PARAM 1    =        0 (Drive)
+FX2 PARAM 2    =       54 (Tone)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On      Off
+EG RATE 1      =      127      124      127      124
+EG RATE 2      =       37       97      103       86
+EG RATE 3      =       36       40       65       73
+EG RATE 4      =       80       70       70       70
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       86       60       96       86
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        6       16       41       16
+SCALING LD     =       14       15        0        9
+SCALING RD     =       15       10       11        5
+SCALING LC     =     +LIN     +LIN     -LIN     +LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        5       37       80       50
+OUT LEVEL      =      114      112       98       84
+FEEDBACK       =       16       37      127       72
+FB TYPE        =   Square   Square   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5      0.5      1.5      1.0
+   freq coarse =        0        0        1        1
+   freq fine   =        0        0       50        0
+FREQ DETUNE    =        0        0        0        0

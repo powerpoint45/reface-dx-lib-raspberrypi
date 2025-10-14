@@ -1,0 +1,54 @@
+VOICE NAME     = COOLOclav 
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        6
+LFO WAVE       =     Sine
+LFO SPEED      =       85
+LFO DELAY      =       20
+LFO PMD        =        9
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       59 (Depth)
+FX1 PARAM 2    =       15 (Time)
+FX2 TYPE       =        5 (Phaser)
+FX2 PARAM 1    =       64 (Depth)
+FX2 PARAM 2    =       28 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      125
+EG RATE 2      =       44       28       40       68
+EG RATE 3      =       70       79      120      111
+EG RATE 4      =      127      127      120      102
+EG LEVEL 1     =      127      127      127      118
+EG LEVEL 2     =       60        0        0       54
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0       10        0        0
+RATE SCALING   =        0       73       74       93
+SCALING LD     =       34        0        0       13
+SCALING RD     =       66        0        0        6
+SCALING LC     =     +LIN     -LIN     -LIN     +LIN
+SCALING RC     =     +EXP     -EXP     -LIN     +LIN
+LFO AMD        =        8        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       17        6       14       34
+OUT LEVEL      =      127      110       84       96
+FEEDBACK       =      120       52      115       53
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      2.0      8.0      3.0
+   freq coarse =        1        2        8        3
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       -2        3        4        0

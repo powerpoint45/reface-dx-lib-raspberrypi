@@ -1,0 +1,54 @@
+VOICE NAME     = PaddyThing
+============================
+TRANSPOSE      =       12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       12
+ALGORITHM      =        1
+LFO WAVE       = Triangle
+LFO SPEED      =        3
+LFO DELAY      =       25
+LFO PMD        =        3
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =       -1
+PEG LEVEL 2    =        1
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       83 (Depth)
+FX1 PARAM 2    =       42 (Rate)
+FX2 TYPE       =        2 (Touch Wah)
+FX2 PARAM 1    =       56 (Sensibility)
+FX2 PARAM 2    =       89 (Rez)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       45      127       62       62
+EG RATE 3      =       48       37       41       44
+EG RATE 4      =       51       39       85       64
+EG LEVEL 1     =       51      100       73      127
+EG LEVEL 2     =      119      125      125       94
+EG LEVEL 3     =       94      106       66       27
+EG LEVEL 4     =       17       36        6        0
+RATE SCALING   =       60       73        0       13
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =       88       84       38       11
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       37       35       70       75
+OUT LEVEL      =      127       90       78       66
+FEEDBACK       =       46       19        0        0
+FB TYPE        = Sawtooth   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      2.0      0.5      0.5
+   freq coarse =        1        2        0        0
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        2       -2

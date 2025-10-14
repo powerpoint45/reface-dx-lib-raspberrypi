@@ -1,0 +1,54 @@
+VOICE NAME     = Diit      
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        5
+LFO WAVE       =     Sine
+LFO SPEED      =        9
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       71 (Depth)
+FX1 PARAM 2    =       46 (Time)
+FX2 TYPE       =        1 (Distortion)
+FX2 PARAM 1    =       35 (Drive)
+FX2 PARAM 2    =       42 (Tone)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       70       36       47       53
+EG RATE 2      =       60      127       57      127
+EG RATE 3      =        7       19       24      127
+EG RATE 4      =       55      100       54      127
+EG LEVEL 1     =      127      127      127      121
+EG LEVEL 2     =      100      127       79      127
+EG LEVEL 3     =      116      127      115      127
+EG LEVEL 4     =       47        0        0       67
+RATE SCALING   =       76        0       76       69
+SCALING LD     =       71       42       74        0
+SCALING RD     =       12       47        2        0
+SCALING LC     =     +EXP     +EXP     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     +LIN     +LIN
+LFO AMD        =        0       28       10       44
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      100       43       70      116
+FEEDBACK       =       55       69       95       76
+FB TYPE        =   Square Sawtooth   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      2.0     2.52     3.02      0.5
+   freq coarse =        2        2        3        0
+   freq fine   =        0       52        2        0
+FREQ DETUNE    =        0        0        0       -3

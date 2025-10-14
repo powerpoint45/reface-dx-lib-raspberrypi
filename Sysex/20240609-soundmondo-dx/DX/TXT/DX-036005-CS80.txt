@@ -1,0 +1,54 @@
+VOICE NAME     = CS80      
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       75
+LFO DELAY      =       14
+LFO PMD        =       11
+PEG RATE 1     =       56
+PEG RATE 2     =       61
+PEG RATE 3     =       17
+PEG RATE 4     =       16
+PEG LEVEL 1    =        2
+PEG LEVEL 2    =       -1
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        4 (Flanger)
+FX1 PARAM 1    =        0 (Depth)
+FX1 PARAM 2    =      102 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       58 (Depth)
+FX2 PARAM 2    =       66 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       82       48       83       47
+EG RATE 2      =       19       37       28       39
+EG RATE 3      =       11       18       11       32
+EG RATE 4      =       84       61       90       62
+EG LEVEL 1     =      127      116      127      105
+EG LEVEL 2     =       99      109      100      104
+EG LEVEL 3     =       90       97       90       89
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        4       15        4       15
+SCALING LD     =        7        5        7        0
+SCALING RD     =       10        7       11        4
+SCALING LC     =     +LIN     +LIN     +LIN     -LIN
+SCALING RC     =     -EXP     -LIN     -EXP     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off       On       On
+PEG Off/On     =       On       On      Off      Off
+VELO SENS      =       42       27       31       46
+OUT LEVEL      =      119       98      119       90
+FEEDBACK       =       28       59       22       73
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      1.0      1.0
+   freq coarse =        1        1        1        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       -5       -5        5        5

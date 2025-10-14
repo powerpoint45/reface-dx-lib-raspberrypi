@@ -1,0 +1,54 @@
+VOICE NAME     = AngelsEGG 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        3
+LFO WAVE       = Triangle
+LFO SPEED      =       15
+LFO DELAY      =       65
+LFO PMD        =       16
+PEG RATE 1     =      126
+PEG RATE 2     =        0
+PEG RATE 3     =        0
+PEG RATE 4     =        0
+PEG LEVEL 1    =       48
+PEG LEVEL 2    =       -8
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =      -36
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       40       91      127      127
+EG RATE 2      =       72       48       66       72
+EG RATE 3      =       79      107       64      115
+EG RATE 4      =       27        3       13       10
+EG LEVEL 1     =      118       97      127       82
+EG LEVEL 2     =      118      114      110       85
+EG LEVEL 3     =       85      119       96      109
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =       98       56       75        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -EXP     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        1        0       57        4
+LFO PMD Off/On =      Off      Off       On      Off
+PEG Off/On     =      Off      Off       On      Off
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      110       85       58       97
+FEEDBACK       =       63        0        0        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Fixed    Ratio
+RATIO | FREQ   =      1.0      1.0  134.896      1.0
+   freq coarse =        1        1       17        1
+   freq fine   =        0        0       13        0
+FREQ DETUNE    =        0        9        0        0

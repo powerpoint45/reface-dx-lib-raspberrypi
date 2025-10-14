@@ -1,0 +1,54 @@
+VOICE NAME     = Classic fm
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        7
+LFO WAVE       = Sample & Hold
+LFO SPEED      =       80
+LFO DELAY      =        0
+LFO PMD        =        6
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       65 (Depth)
+FX1 PARAM 2    =       65 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       65 (Depth)
+FX2 PARAM 2    =       95 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127       70      120      127
+EG RATE 2      =       60       50       60       90
+EG RATE 3      =       60      127      127      127
+EG RATE 4      =       80       80       75       75
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       70        0        0        0
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0       10        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0       25        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       30       10       10       20
+OUT LEVEL      =      100       70       65       55
+FEEDBACK       =       20       10       20       40
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0    0.995      1.0      2.0
+   freq coarse =        1        0        1        2
+   freq fine   =        0       99        0        0
+FREQ DETUNE    =        0        0        0        0

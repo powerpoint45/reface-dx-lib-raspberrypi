@@ -1,0 +1,54 @@
+VOICE NAME     = C    organ
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       12
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =       60
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =      100 (Depth)
+FX1 PARAM 2    =       48 (Time)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       60 (Depth)
+FX2 PARAM 2    =       24 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      100       60       60
+EG RATE 2      =      127      127      127      127
+EG RATE 3      =      127      127      127      127
+EG RATE 4      =       86      100      100      100
+EG LEVEL 1     =      115      115      110      110
+EG LEVEL 2     =      115      115      110      110
+EG LEVEL 3     =      115      115      110      110
+EG LEVEL 4     =        0        0       45       45
+RATE SCALING   =        0        0        0        0
+SCALING LD     =       13       15       17       11
+SCALING RD     =        0        0       10       15
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     +LIN     +LIN     -LIN     -LIN
+LFO AMD        =        0       24        0        0
+LFO PMD Off/On =      Off       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       10       10       30       30
+OUT LEVEL      =       99      100       75       75
+FEEDBACK       =        0       10       23       30
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Fixed    Fixed
+RATIO | FREQ   =      1.0      4.0  194.982  263.023
+   freq coarse =        1        4       22       16
+   freq fine   =        0        0       29       42
+FREQ DETUNE    =        0        0        0       -1

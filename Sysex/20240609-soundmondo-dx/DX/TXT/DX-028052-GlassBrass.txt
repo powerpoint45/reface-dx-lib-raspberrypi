@@ -1,0 +1,54 @@
+VOICE NAME     = GlassBrass
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        4
+LFO WAVE       = Sample & Hold
+LFO SPEED      =       85
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        4 (Flanger)
+FX1 PARAM 1    =       64 (Depth)
+FX1 PARAM 2    =       64 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       59 (Depth)
+FX2 PARAM 2    =       20 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       44       81       44      105
+EG RATE 3      =       46       80       68       54
+EG RATE 4      =      127       64       72       64
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      121      127       81      118
+EG LEVEL 3     =       74        0        0        0
+EG LEVEL 4     =       52        0        0        0
+RATE SCALING   =        8       77      103       68
+SCALING LD     =       17       57      110       97
+SCALING RD     =       65       77       94       40
+SCALING LC     =     -LIN     -EXP     +EXP     -EXP
+SCALING RC     =     +EXP     +LIN     -EXP     +LIN
+LFO AMD        =       38       79       22       76
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       67       86       83       49
+OUT LEVEL      =      127       81      127        0
+FEEDBACK       =       16       96      121       65
+FB TYPE        =   Square   Square   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5     6.01      0.5     4.08
+   freq coarse =        0        6        0        4
+   freq fine   =        0        1        0        8
+FREQ DETUNE    =        0        0        0        0

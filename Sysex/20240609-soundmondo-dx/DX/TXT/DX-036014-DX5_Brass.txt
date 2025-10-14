@@ -1,0 +1,54 @@
+VOICE NAME     =  DX5 Brass
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       75
+LFO DELAY      =       14
+LFO PMD        =        9
+PEG RATE 1     =       56
+PEG RATE 2     =       61
+PEG RATE 3     =       17
+PEG RATE 4     =       16
+PEG LEVEL 1    =        1
+PEG LEVEL 2    =       -1
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =        0 (---)
+FX1 PARAM 2    =      102 (---)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       58 (Depth)
+FX2 PARAM 2    =       66 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      119      104      100      101
+EG RATE 2      =        0        0       28       39
+EG RATE 3      =       54        0       11       32
+EG RATE 4      =      107       89      104       94
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      122
+EG LEVEL 3     =      108       97      127      101
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        4       15        4       15
+SCALING LD     =        7        5        7        0
+SCALING RD     =       10        7       11        4
+SCALING LC     =     +LIN     +LIN     +LIN     -LIN
+SCALING RC     =     -EXP     -LIN     -EXP     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off       On       On
+PEG Off/On     =       On       On      Off      Off
+VELO SENS      =       42       56       31       61
+OUT LEVEL      =      127       78      127       79
+FEEDBACK       =        7       76       24       72
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      1.0      1.0
+   freq coarse =        1        1        1        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       -5       -5        5        5

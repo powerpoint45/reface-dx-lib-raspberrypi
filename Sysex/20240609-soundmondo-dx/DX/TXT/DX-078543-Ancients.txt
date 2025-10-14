@@ -1,0 +1,54 @@
+VOICE NAME     = Ancients  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       24
+ALGORITHM      =        1
+LFO WAVE       =     Sine
+LFO SPEED      =       89
+LFO DELAY      =       30
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       54 (Depth)
+FX1 PARAM 2    =       22 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       91 (Depth)
+FX2 PARAM 2    =      101 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       95      127      127      127
+EG RATE 2      =       84       38       99       14
+EG RATE 3      =       95       71      127      127
+EG RATE 4      =       67       73      100       48
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      109      113      100       86
+EG LEVEL 3     =       93       95       55       68
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off       On      Off      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =       80       38       66      110
+FEEDBACK       =        0        0        0        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      2.0      3.0     2.16      4.0
+   freq coarse =        2        3        2        4
+   freq fine   =        0        0       16        0
+FREQ DETUNE    =        0        0       -3       -5

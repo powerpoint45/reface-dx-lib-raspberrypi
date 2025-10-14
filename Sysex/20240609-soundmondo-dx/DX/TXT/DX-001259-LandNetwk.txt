@@ -1,0 +1,54 @@
+VOICE NAME     = LandNetwk 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        9
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =       20
+LFO DELAY      =       83
+LFO PMD        =      127
+PEG RATE 1     =      127
+PEG RATE 2     =        0
+PEG RATE 3     =        1
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        5 (Phaser)
+FX1 PARAM 1    =       28 (Depth)
+FX1 PARAM 2    =       29 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       74 (Depth)
+FX2 PARAM 2    =       58 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       87       87       87      127
+EG RATE 2      =      127      127      127       47
+EG RATE 3      =      127      127      127      127
+EG RATE 4      =       72       72       72       95
+EG LEVEL 1     =      127      127      127       45
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0       23
+SCALING RD     =        0       22        0       22
+SCALING LC     =     -LIN     -LIN     -LIN     +LIN
+SCALING RC     =     +LIN     -LIN     +LIN     -LIN
+LFO AMD        =        0        0        0       29
+LFO PMD Off/On =      Off       On      Off      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       10       10       10       30
+OUT LEVEL      =       99       88       99       70
+FEEDBACK       =       50       86       50       64
+FB TYPE        = Sawtooth   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Fixed    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      1.0      1.5
+   freq coarse =        1        0        1        1
+   freq fine   =        0        0        0       50
+FREQ DETUNE    =        7        0       -7        0

@@ -1,0 +1,54 @@
+VOICE NAME     = FuzzyBass 
+============================
+TRANSPOSE      =        0
+MONO/POLY      = Mono-Full
+PORTA TIME     =       15
+PB RANGE       =       14
+ALGORITHM      =        4
+LFO WAVE       =   Square
+LFO SPEED      =       27
+LFO DELAY      =      100
+LFO PMD        =       14
+PEG RATE 1     =        0
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       92 (Depth)
+FX1 PARAM 2    =       32 (Time)
+FX2 TYPE       =        1 (Distortion)
+FX2 PARAM 1    =       30 (Drive)
+FX2 PARAM 2    =       18 (Tone)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      114      127      110
+EG RATE 2      =       59       91       92       83
+EG RATE 3      =       48       19       75       55
+EG RATE 4      =      127      127      127       21
+EG LEVEL 1     =      119      127      127      126
+EG LEVEL 2     =      107      101       75       97
+EG LEVEL 3     =      127       81       67        0
+EG LEVEL 4     =       94        0       78       48
+RATE SCALING   =       62       32       32       42
+SCALING LD     =        0        0        5        0
+SCALING RD     =        0        0       33       64
+SCALING LC     =     -LIN     +LIN     +LIN     +LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =       On      Off      Off      Off
+VELO SENS      =       29       22       37       42
+OUT LEVEL      =      117       85      101       55
+FEEDBACK       =      127      106        0       93
+FB TYPE        =   Square   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      0.5      8.0
+   freq coarse =        1        1        0        8
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        8       16        0

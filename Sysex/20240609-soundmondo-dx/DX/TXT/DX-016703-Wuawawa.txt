@@ -1,0 +1,54 @@
+VOICE NAME     = Wuawawa   
+============================
+TRANSPOSE      =      -12
+MONO/POLY      = Mono-Full
+PORTA TIME     =        0
+PB RANGE       =       12
+ALGORITHM      =        3
+LFO WAVE       =     Sine
+LFO SPEED      =       90
+LFO DELAY      =       69
+LFO PMD        =        0
+PEG RATE 1     =       55
+PEG RATE 2     =       88
+PEG RATE 3     =       18
+PEG RATE 4     =       64
+PEG LEVEL 1    =       10
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       80 (---)
+FX1 PARAM 2    =       18 (---)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       47 (Depth)
+FX2 PARAM 2    =       60 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      100       45       85       19
+EG RATE 2      =       18       66        2       63
+EG RATE 3      =       57       13        0       24
+EG RATE 4      =       66       65       78       78
+EG LEVEL 1     =      107       92        0       40
+EG LEVEL 2     =      120      121       94      104
+EG LEVEL 3     =       65       90        0       62
+EG LEVEL 4     =        4        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        8       50       72
+SCALING LC     =     -LIN     +LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -EXP     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On      Off       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      127      113       66       68
+FEEDBACK       =        0       27       41        0
+FB TYPE        = Sawtooth Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0    0.665     21.0     1.36
+   freq coarse =        1        0       21        1
+   freq fine   =        0       33        0       36
+FREQ DETUNE    =        0        1        0        3

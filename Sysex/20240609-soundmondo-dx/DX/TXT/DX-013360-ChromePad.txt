@@ -1,0 +1,54 @@
+VOICE NAME     = ChromePad 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       57
+LFO DELAY      =       50
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       83
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =       12
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       15 (Drive)
+FX1 PARAM 2    =       27 (Tone)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       43 (Depth)
+FX2 PARAM 2    =       51 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       60      127       99      127
+EG RATE 2      =       55       46       60       86
+EG RATE 3      =       39       24       81       92
+EG RATE 4      =       66      100       74       64
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      102      111       11       64
+EG LEVEL 3     =        0       96        0       32
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0       87        4        4
+SCALING LD     =        0       15       74        0
+SCALING RD     =        0       38       35       24
+SCALING LC     =     -LIN     +EXP     -LIN     -LIN
+SCALING RC     =     +LIN     -EXP     +EXP     -EXP
+LFO AMD        =       33       41        0       41
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off       On      Off       On
+VELO SENS      =       17       50       65       55
+OUT LEVEL      =      127       79      127       76
+FEEDBACK       =        6       18        0        0
+FB TYPE        =   Square Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      2.5      3.0      4.0
+   freq coarse =        1        2        3        4
+   freq fine   =        0       50        0        0
+FREQ DETUNE    =        3       -1       -6        0

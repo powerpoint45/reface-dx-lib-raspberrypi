@@ -1,0 +1,54 @@
+VOICE NAME     = Ambi-PAD  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        7
+PB RANGE       =        2
+ALGORITHM      =        3
+LFO WAVE       = Sawtooth Up
+LFO SPEED      =       36
+LFO DELAY      =       35
+LFO PMD        =       22
+PEG RATE 1     =      127
+PEG RATE 2     =      127
+PEG RATE 3     =      124
+PEG RATE 4     =       26
+PEG LEVEL 1    =      -37
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        9
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       53 (Depth)
+FX1 PARAM 2    =       35 (Time)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       53 (Depth)
+FX2 PARAM 2    =       22 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      101      124      127       29
+EG RATE 2      =      122       24      127      123
+EG RATE 3      =       69      127      125       23
+EG RATE 4      =       20       74      111       73
+EG LEVEL 1     =       31      125      127       24
+EG LEVEL 2     =       70       48      127       27
+EG LEVEL 3     =       79       28       23       26
+EG LEVEL 4     =       21       73       24      127
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =       23       76       73      124
+LFO PMD Off/On =      Off       On      Off      Off
+PEG Off/On     =      Off      Off       On      Off
+VELO SENS      =       36       36       36       36
+OUT LEVEL      =      112       23       74       73
+FEEDBACK       =       88       39       62       12
+FB TYPE        = Sawtooth Sawtooth   Square   Square
+FREQ MODE      =    Ratio    Fixed    Fixed    Ratio
+RATIO | FREQ   =     1.23   58.883 1737.785     0.61
+   freq coarse =        1        9       26        0
+   freq fine   =       23       77       24       22
+FREQ DETUNE    =       14      -35      -38       58

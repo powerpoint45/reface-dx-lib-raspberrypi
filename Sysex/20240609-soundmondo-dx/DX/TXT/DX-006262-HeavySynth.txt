@@ -1,0 +1,54 @@
+VOICE NAME     = HeavySynth
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        6
+LFO WAVE       =     Sine
+LFO SPEED      =       75
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =      113 (Depth)
+FX1 PARAM 2    =       69 (Rate)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =      118 (---)
+FX2 PARAM 2    =       83 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      100      100       99      110
+EG RATE 2      =       55       46       55       83
+EG RATE 3      =       67      127       61       14
+EG RATE 4      =      123       63      100       18
+EG LEVEL 1     =      127       46      127      127
+EG LEVEL 2     =       80      127      127      127
+EG LEVEL 3     =       67       69      119       71
+EG LEVEL 4     =       67       79       47        0
+RATE SCALING   =       60      127        8       18
+SCALING LD     =        0       13        0       14
+SCALING RD     =        5       10        0       30
+SCALING LC     =     -EXP     +EXP     -LIN     +LIN
+SCALING RC     =     -EXP     -EXP     +LIN     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0      102       83      108
+OUT LEVEL      =      127      121      127       82
+FEEDBACK       =      110        0        0        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5      0.5      0.5      0.5
+   freq coarse =        0        0        0        0
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        8        8       -8       -8

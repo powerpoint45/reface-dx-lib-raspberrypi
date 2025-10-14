@@ -1,0 +1,54 @@
+VOICE NAME     = Cosmicvibe
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       12
+LFO WAVE       = Triangle
+LFO SPEED      =       90
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =      127
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       46 (Depth)
+FX1 PARAM 2    =       41 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       56 (Depth)
+FX2 PARAM 2    =       37 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      113      100      127       18
+EG RATE 2      =       13       18       69      115
+EG RATE 3      =       57       20        6       84
+EG RATE 4      =       63       33       82      116
+EG LEVEL 1     =      114       81       81       16
+EG LEVEL 2     =       56       67       86       78
+EG LEVEL 3     =       24       19       29       17
+EG LEVEL 4     =       12       69        0       78
+RATE SCALING   =       43       85       43       43
+SCALING LD     =        0        0       19        0
+SCALING RD     =       20       19       28       44
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     -EXP     -EXP     -EXP     -EXP
+LFO AMD        =       38       38        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       17       37       37       53
+OUT LEVEL      =      121      112       95       64
+FEEDBACK       =       17       93       63       45
+FB TYPE        =   Square   Square Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      4.0     13.0
+   freq coarse =        1        1        4       13
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        3        0        3

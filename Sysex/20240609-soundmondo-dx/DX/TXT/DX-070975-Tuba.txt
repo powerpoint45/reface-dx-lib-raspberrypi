@@ -1,0 +1,54 @@
+VOICE NAME     = Tuba      
+============================
+TRANSPOSE      =      -24
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        1
+LFO WAVE       = Triangle
+LFO SPEED      =       50
+LFO DELAY      =        0
+LFO PMD        =       11
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       27 (Drive)
+FX1 PARAM 2    =       76 (Tone)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       94 (Depth)
+FX2 PARAM 2    =       68 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       79       72       42      127
+EG RATE 2      =       64       73       81       53
+EG RATE 3      =       65       62       64       67
+EG RATE 4      =       86       60       55       55
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       87       86       93       85
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       75       58       20       31
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0       22       18        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On      Off      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       20       10       10       10
+OUT LEVEL      =      100       90      100      100
+FEEDBACK       =       20       26        0        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Fixed    Ratio
+RATIO | FREQ   =      2.0     1.01      1.0      0.5
+   freq coarse =        2        1        1        0
+   freq fine   =        0        1        0        0
+FREQ DETUNE    =        0        0        0      -25

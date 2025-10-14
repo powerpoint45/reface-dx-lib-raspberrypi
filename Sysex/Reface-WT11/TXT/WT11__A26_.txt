@@ -1,0 +1,54 @@
+VOICE NAME     = WT11  A26 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        2
+LFO WAVE       = Triangle
+LFO SPEED      =       85
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =      127
+PEG RATE 2     =       50
+PEG RATE 3     =      127
+PEG RATE 4     =      127
+PEG LEVEL 1    =       -1
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      105      101      101       80
+EG RATE 2      =       11       22       22       18
+EG RATE 3      =       11       17       17       15
+EG RATE 4      =      107       46       94       60
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =        0        0        0       28
+RATE SCALING   =        0       43       43       43
+SCALING LD     =        0        2       10       11
+SCALING RD     =        0        9       38       43
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     -EXP     -EXP     -EXP     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      127       95       46       59
+FEEDBACK       =       16       80       64       62
+FB TYPE        =   Square   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      2.0      2.0
+   freq coarse =        1        1        2        2
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

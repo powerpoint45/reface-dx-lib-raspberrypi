@@ -1,0 +1,54 @@
+VOICE NAME     = DublFxPadC
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        6
+PB RANGE       =        7
+ALGORITHM      =        1
+LFO WAVE       = Triangle
+LFO SPEED      =       78
+LFO DELAY      =       30
+LFO PMD        =        6
+PEG RATE 1     =      127
+PEG RATE 2     =       79
+PEG RATE 3     =       28
+PEG RATE 4     =      127
+PEG LEVEL 1    =       24
+PEG LEVEL 2    =       -8
+PEG LEVEL 3    =      -12
+PEG LEVEL 4    =       12
+FX1 TYPE       =        4 (Flanger)
+FX1 PARAM 1    =        0 (Depth)
+FX1 PARAM 2    =      106 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       82 (Depth)
+FX2 PARAM 2    =       62 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       95      120       44      127
+EG RATE 2      =       60       58       68       30
+EG RATE 3      =      127       18      127       19
+EG RATE 4      =       59       39       38       38
+EG LEVEL 1     =       92      100      100       50
+EG LEVEL 2     =      127       98      100       35
+EG LEVEL 3     =      127      110      100      127
+EG LEVEL 4     =        0      127      127      127
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        2        3        4        5
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off       On      Off       On
+PEG Off/On     =       On      Off       On      Off
+VELO SENS      =       25       30       30       30
+OUT LEVEL      =      120       70       77       81
+FEEDBACK       =       56       20       44       88
+FB TYPE        =   Square   Square Sawtooth Sawtooth
+FREQ MODE      =    Fixed    Ratio    Fixed    Ratio
+RATIO | FREQ   =      1.0      1.0  524.793      2.0
+   freq coarse =        1        1       16        2
+   freq fine   =        0        0       72        0
+FREQ DETUNE    =        0        0       -2        0

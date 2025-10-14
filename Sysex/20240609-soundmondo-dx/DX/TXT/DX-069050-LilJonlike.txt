@@ -1,0 +1,54 @@
+VOICE NAME     = LilJonlike
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =      101
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       74
+PEG RATE 2     =       82
+PEG RATE 3     =       44
+PEG RATE 4     =       33
+PEG LEVEL 1    =        8
+PEG LEVEL 2    =       -1
+PEG LEVEL 3    =        1
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =        0 (Depth)
+FX1 PARAM 2    =       65 (Time)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       71 (Depth)
+FX2 PARAM 2    =      112 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      125      127        0      127
+EG RATE 2      =      127      127      127      127
+EG RATE 3      =      127      127      127      127
+EG RATE 4      =       95       92      100      100
+EG LEVEL 1     =      127      120      127      127
+EG LEVEL 2     =      127       30      127      127
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =        0      119        0        0
+RATE SCALING   =      115        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -EXP     -LIN     -EXP     -LIN
+SCALING RC     =     +EXP     +LIN     +EXP     +LIN
+LFO AMD        =       20       28        0      123
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       34        0       85        0
+OUT LEVEL      =      127       70       59      127
+FEEDBACK       =       95       62       84       62
+FB TYPE        = Sawtooth Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     4.16     2.08      0.5     3.16
+   freq coarse =        4        2        0        3
+   freq fine   =       16        8        0       16
+FREQ DETUNE    =        0        0      -64        0

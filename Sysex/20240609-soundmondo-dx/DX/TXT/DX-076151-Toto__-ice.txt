@@ -1,0 +1,54 @@
+VOICE NAME     = Toto  -ice
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        1
+LFO WAVE       =     Sine
+LFO SPEED      =       64
+LFO DELAY      =       14
+LFO PMD        =       27
+PEG RATE 1     =        2
+PEG RATE 2     =        7
+PEG RATE 3     =       12
+PEG RATE 4     =        5
+PEG LEVEL 1    =      -48
+PEG LEVEL 2    =      -18
+PEG LEVEL 3    =      -12
+PEG LEVEL 4    =      -11
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      102       86      127      127
+EG RATE 2      =       39        0       85       28
+EG RATE 3      =       35        0       86       84
+EG RATE 4      =       41       26       45       47
+EG LEVEL 1     =      112       57      117       81
+EG LEVEL 2     =       69       76        5      117
+EG LEVEL 3     =       94      117        0       81
+EG LEVEL 4     =       38       34        0       26
+RATE SCALING   =        0        0        0        0
+SCALING LD     =       36       16       63        0
+SCALING RD     =        9        6       46        0
+SCALING LC     =     -EXP     +LIN     -LIN     -LIN
+SCALING RC     =     +LIN     -LIN     +LIN     +LIN
+LFO AMD        =        2        0        2       12
+LFO PMD Off/On =      Off       On      Off       On
+PEG Off/On     =      Off       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      127       71       72      120
+FEEDBACK       =       24       40       13       22
+FB TYPE        = Sawtooth   Square   Square   Square
+FREQ MODE      =    Ratio    Fixed    Ratio    Ratio
+RATIO | FREQ   =      2.0  275.418     8.71      2.0
+   freq coarse =        2       17        8        2
+   freq fine   =        0       44       71        0
+FREQ DETUNE    =        9        0       -5        1

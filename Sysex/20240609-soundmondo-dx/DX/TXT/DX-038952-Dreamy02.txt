@@ -1,0 +1,54 @@
+VOICE NAME     = Dreamy02  
+============================
+TRANSPOSE      =       12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        5
+LFO WAVE       = Sample & Hold
+LFO SPEED      =       90
+LFO DELAY      =        0
+LFO PMD        =       10
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       35 (Drive)
+FX1 PARAM 2    =       50 (Tone)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       90 (Depth)
+FX2 PARAM 2    =       75 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      105       80      105      105
+EG RATE 2      =      127       55       50       55
+EG RATE 3      =       62      127      127       85
+EG RATE 4      =       65       55       50       60
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127        0        0        0
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0       10       10        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     -LIN     -LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       30       15       25       30
+OUT LEVEL      =      100       40       75       80
+FEEDBACK       =       20        0       22       30
+FB TYPE        = Sawtooth Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5     1.25      1.5      0.5
+   freq coarse =        0        1        1        0
+   freq fine   =        0       25       50        0
+FREQ DETUNE    =        0        0        2        0

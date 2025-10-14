@@ -1,0 +1,54 @@
+VOICE NAME     = TEMPLE    
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        6
+LFO WAVE       =     Sine
+LFO SPEED      =       64
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      117      127      113      127
+EG RATE 2      =       66       65       36       30
+EG RATE 3      =      127      122       34        8
+EG RATE 4      =       47       47       48       16
+EG LEVEL 1     =      127      127       90      110
+EG LEVEL 2     =        2       36      127      118
+EG LEVEL 3     =        0        0       68       59
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       41        0       69       69
+SCALING LD     =       70        0       13       81
+SCALING RD     =       44        0       29       68
+SCALING LC     =     -EXP     -LIN     -EXP     -EXP
+SCALING RC     =     +EXP     +LIN     +EXP     +EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        8
+OUT LEVEL      =      127      124       67       92
+FEEDBACK       =        0        0        0        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Fixed    Fixed
+RATIO | FREQ   =      3.0     2.92  123.026 5754.231
+   freq coarse =        3        2       18       25
+   freq fine   =        0       92        9       76
+FREQ DETUNE    =        0        0        0       -1

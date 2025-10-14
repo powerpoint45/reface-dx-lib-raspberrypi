@@ -1,0 +1,54 @@
+VOICE NAME     = Frosen Bel
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =       33
+PB RANGE       =        2
+ALGORITHM      =        4
+LFO WAVE       = Sawtooth Down
+LFO SPEED      =       92
+LFO DELAY      =       96
+LFO PMD        =       15
+PEG RATE 1     =       94
+PEG RATE 2     =      127
+PEG RATE 3     =      100
+PEG RATE 4     =       64
+PEG LEVEL 1    =       39
+PEG LEVEL 2    =       48
+PEG LEVEL 3    =       -5
+PEG LEVEL 4    =       22
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =      116 (Depth)
+FX1 PARAM 2    =       65 (Time)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       94 (Depth)
+FX2 PARAM 2    =       24 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      103       37       83       94
+EG RATE 2      =       71       23      104      105
+EG RATE 3      =      103       86       93       86
+EG RATE 4      =       96      113      106       32
+EG LEVEL 1     =       66      116       84       96
+EG LEVEL 2     =      102      127      102       85
+EG LEVEL 3     =      106        5      127      110
+EG LEVEL 4     =        0        5      109      109
+RATE SCALING   =      101        0      107       85
+SCALING LD     =       76       19      101      104
+SCALING RD     =       73        0       74      106
+SCALING LC     =     +LIN     +EXP     +LIN     +EXP
+SCALING RC     =     +EXP     -EXP     +EXP     +EXP
+LFO AMD        =       78        0       71       75
+LFO PMD Off/On =      Off      Off       On      Off
+PEG Off/On     =       On      Off      Off       On
+VELO SENS      =       77       87       71      115
+OUT LEVEL      =       79       71       86       77
+FEEDBACK       =       54       27       84      106
+FB TYPE        =   Square Sawtooth   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     5.74    25.65     1.16     26.0
+   freq coarse =        5       25        1       26
+   freq fine   =       74       65       16        0
+FREQ DETUNE    =       13        0        0       63

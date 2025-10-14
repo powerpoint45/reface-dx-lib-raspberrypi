@@ -1,0 +1,54 @@
+VOICE NAME     = Zorn      
+============================
+TRANSPOSE      =       -9
+MONO/POLY      =     Poly
+PORTA TIME     =       19
+PB RANGE       =       11
+ALGORITHM      =        9
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =      122
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =      127
+PEG RATE 2     =       34
+PEG RATE 3     =       24
+PEG RATE 4     =       64
+PEG LEVEL 1    =       -2
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =      127 (Drive)
+FX1 PARAM 2    =       77 (Tone)
+FX2 TYPE       =        4 (Flanger)
+FX2 PARAM 1    =       42 (Depth)
+FX2 PARAM 2    =       28 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       87      127       77       82
+EG RATE 3      =        0       50       87       40
+EG RATE 4      =       88       50      127      127
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      100       95
+EG LEVEL 3     =      114      127      100      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =      127        0        0        0
+SCALING LD     =      108        0        0        0
+SCALING RD     =      121        0      121        0
+SCALING LC     =     -EXP     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =      127       75       92       47
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On      Off      Off      Off
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      127      127       57      108
+FEEDBACK       =       51        0       62       25
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Fixed    Ratio    Ratio    Fixed
+RATIO | FREQ   =  213.793      0.5      5.0   60.254
+   freq coarse =       16        0        5        8
+   freq fine   =       33        0        0       78
+FREQ DETUNE    =        0        0        0        0

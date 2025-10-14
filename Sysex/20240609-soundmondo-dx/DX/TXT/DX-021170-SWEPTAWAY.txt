@@ -1,0 +1,54 @@
+VOICE NAME     = SWEPTAWAY 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       12
+ALGORITHM      =        9
+LFO WAVE       = Sawtooth Down
+LFO SPEED      =       13
+LFO DELAY      =        3
+LFO PMD        =        2
+PEG RATE 1     =       80
+PEG RATE 2     =       90
+PEG RATE 3     =       64
+PEG RATE 4     =       47
+PEG LEVEL 1    =      -12
+PEG LEVEL 2    =       12
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        5 (Phaser)
+FX1 PARAM 1    =       98 (Depth)
+FX1 PARAM 2    =       10 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       90 (Depth)
+FX2 PARAM 2    =       56 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       30       60       54       41
+EG RATE 2      =       75        0       31       31
+EG RATE 3      =       70       33       20       20
+EG RATE 4      =       67       56       60       40
+EG LEVEL 1     =       61      103       84      127
+EG LEVEL 2     =      127      127      127       90
+EG LEVEL 3     =      100       46       78       80
+EG LEVEL 4     =       34        0        0        0
+RATE SCALING   =       45       54        4      116
+SCALING LD     =       40        0        0       11
+SCALING RD     =        0       18        0        0
+SCALING LC     =     -LIN     -EXP     -LIN     +EXP
+SCALING RC     =     -LIN     +EXP     -LIN     -LIN
+LFO AMD        =        0       20        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       50       10       13        7
+OUT LEVEL      =      100      120      110      120
+FEEDBACK       =       64       80       52       58
+FB TYPE        =   Square Sawtooth   Square   Square
+FREQ MODE      =    Fixed    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      2.0      1.0
+   freq coarse =        2        1        2        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        9       -5      -12       -4

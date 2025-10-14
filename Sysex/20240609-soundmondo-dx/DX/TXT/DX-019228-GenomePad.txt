@@ -1,0 +1,54 @@
+VOICE NAME     = GenomePad 
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        6
+PB RANGE       =        7
+ALGORITHM      =        1
+LFO WAVE       =     Sine
+LFO SPEED      =       58
+LFO DELAY      =       38
+LFO PMD        =       26
+PEG RATE 1     =      127
+PEG RATE 2     =       79
+PEG RATE 3     =       28
+PEG RATE 4     =      127
+PEG LEVEL 1    =       24
+PEG LEVEL 2    =       -8
+PEG LEVEL 3    =      -12
+PEG LEVEL 4    =       12
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =        0 (---)
+FX1 PARAM 2    =      106 (---)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       70 (Depth)
+FX2 PARAM 2    =       48 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       95      120       44      127
+EG RATE 2      =       60       58       68       30
+EG RATE 3      =      127       18      127       19
+EG RATE 4      =       59       39       38       38
+EG LEVEL 1     =       92      100      100       50
+EG LEVEL 2     =      127       98      100       35
+EG LEVEL 3     =      127      110      100      127
+EG LEVEL 4     =        0      127      127      127
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        7        6        4       32
+SCALING RD     =       55       35        4       95
+SCALING LC     =     -LIN     -LIN     -LIN     +LIN
+SCALING RC     =     -LIN     -LIN     +LIN     -LIN
+LFO AMD        =        0        0       84        0
+LFO PMD Off/On =      Off       On      Off      Off
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =        0       79       74        0
+OUT LEVEL      =      127       96      116       64
+FEEDBACK       =       52       66       83        7
+FB TYPE        =   Square   Square Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0     1.01     2.01      2.0
+   freq coarse =        1        1        2        2
+   freq fine   =        0        1        1        0
+FREQ DETUNE    =        0        0        0        0

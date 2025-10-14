@@ -1,0 +1,54 @@
+VOICE NAME     = SoftWurlie
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        4
+LFO WAVE       =     Sine
+LFO SPEED      =       35
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =        0
+PEG RATE 2     =       69
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       23 (Depth)
+FX1 PARAM 2    =       65 (Rate)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       33 (Depth)
+FX2 PARAM 2    =       19 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       86      125      127      127
+EG RATE 2      =       75        3      127      127
+EG RATE 3      =        5       61      127      127
+EG RATE 4      =       51      122      100      100
+EG LEVEL 1     =       99       58      127      127
+EG LEVEL 2     =       93       19      127      127
+EG LEVEL 3     =       86      103      127      127
+EG LEVEL 4     =       43       51        0        0
+RATE SCALING   =        0        2        0        0
+SCALING LD     =       19        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        3       72        0        0
+OUT LEVEL      =      107        0        5        0
+FEEDBACK       =       12      108        1        4
+FB TYPE        = Sawtooth   Square Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0     1.24     1.96      0.5
+   freq coarse =        1        1        1        0
+   freq fine   =        0       24       96        0
+FREQ DETUNE    =        0        0        0        7

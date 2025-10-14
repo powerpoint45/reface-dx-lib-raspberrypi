@@ -1,0 +1,54 @@
+VOICE NAME     = Outpost   
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =       22
+PB RANGE       =        0
+ALGORITHM      =       11
+LFO WAVE       = Triangle
+LFO SPEED      =       42
+LFO DELAY      =       63
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =       -2
+PEG LEVEL 2    =       -2
+PEG LEVEL 3    =       -2
+PEG LEVEL 4    =       -2
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       33 (Depth)
+FX1 PARAM 2    =       42 (Rate)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =      127      127       11       70
+EG RATE 3      =      127      126       49      101
+EG RATE 4      =      127       52      127       90
+EG LEVEL 1     =      127       82       18       49
+EG LEVEL 2     =      121       78       76       88
+EG LEVEL 3     =      127      100       98       80
+EG LEVEL 4     =      127      120        0       64
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =       25       20       30       32
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =       93       90       86       72
+FEEDBACK       =       77       66      110       78
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5      3.0     5.94      2.0
+   freq coarse =        0        3        5        2
+   freq fine   =        0        0       94        0
+FREQ DETUNE    =      -10      -20       10       20

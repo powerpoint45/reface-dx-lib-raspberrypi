@@ -1,0 +1,54 @@
+VOICE NAME     = *PJ AhrEmI
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        0
+ALGORITHM      =        3
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =       40
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =      127
+PEG RATE 2     =        6
+PEG RATE 3     =       64
+PEG RATE 4     =       21
+PEG LEVEL 1    =       36
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =       36
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       63 (Depth)
+FX1 PARAM 2    =       60 (Time)
+FX2 TYPE       =        5 (Phaser)
+FX2 PARAM 1    =       40 (Depth)
+FX2 PARAM 2    =       21 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      115      110      127
+EG RATE 2      =       84       96       96       84
+EG RATE 3      =       48       45       32       33
+EG RATE 4      =       82       63       63       63
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      115      127      127      100
+EG LEVEL 3     =        0        0        0       84
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       64       64       64       64
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0       11       11       11
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off       On       On
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =       32       42        0       42
+OUT LEVEL      =      110       85       94       85
+FEEDBACK       =        0       84       84       84
+FB TYPE        =   Square   Square   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      5.0      1.0      7.0
+   freq coarse =        1        5        1        7
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

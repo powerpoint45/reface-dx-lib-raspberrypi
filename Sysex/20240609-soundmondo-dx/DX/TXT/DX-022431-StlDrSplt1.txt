@@ -1,0 +1,54 @@
+VOICE NAME     = StlDrSplt1
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =      127
+LFO DELAY      =       80
+LFO PMD        =        0
+PEG RATE 1     =        0
+PEG RATE 2     =        0
+PEG RATE 3     =        0
+PEG RATE 4     =        0
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       30 (---)
+FX1 PARAM 2    =      100 (---)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       58 (Depth)
+FX2 PARAM 2    =       10 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       60       80       60        0
+EG RATE 3      =        0      127      127       90
+EG RATE 4      =       75        0       75        0
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =        0        0        0      127
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =      127      127       60        0
+SCALING LD     =      127      100      127      127
+SCALING RD     =      127       10       40       40
+SCALING LC     =     +EXP     +EXP     -LIN     -LIN
+SCALING RC     =     -LIN     +LIN     +LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =       80        0       80        0
+OUT LEVEL      =      127       45      100       80
+FEEDBACK       =       50       20       10       10
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5      1.0    0.505    0.995
+   freq coarse =        0        1        0        0
+   freq fine   =        0        0        1       99
+FREQ DETUNE    =        0        0       -9        9

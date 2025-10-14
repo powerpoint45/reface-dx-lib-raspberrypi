@@ -1,0 +1,54 @@
+VOICE NAME     = CoquiScybe
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       24
+ALGORITHM      =        1
+LFO WAVE       =     Sine
+LFO SPEED      =      100
+LFO DELAY      =       15
+LFO PMD        =       11
+PEG RATE 1     =       35
+PEG RATE 2     =       79
+PEG RATE 3     =       50
+PEG RATE 4     =       55
+PEG LEVEL 1    =       13
+PEG LEVEL 2    =       19
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        5 (Phaser)
+FX1 PARAM 1    =       64 (Depth)
+FX1 PARAM 2    =       64 (Rate)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       59 (Depth)
+FX2 PARAM 2    =       26 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       98      127      127      127
+EG RATE 2      =       44       81       44      105
+EG RATE 3      =       46       80       68       54
+EG RATE 4      =      100       64       72       64
+EG LEVEL 1     =      127      127        0      127
+EG LEVEL 2     =       81       96       81       53
+EG LEVEL 3     =        0       31        0        0
+EG LEVEL 4     =        0        0       70        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =       70       20        0        0
+SCALING RD     =       10       16       15        0
+SCALING LC     =     -EXP     +LIN     -LIN     -LIN
+SCALING RC     =     -EXP     +EXP     +LIN     +EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       40       40       57       65
+OUT LEVEL      =      109       70      105      100
+FEEDBACK       =        0       97      127        1
+FB TYPE        =   Square Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Fixed    Ratio
+RATIO | FREQ   =      1.0     14.0      1.0      1.0
+   freq coarse =        1       14        1        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

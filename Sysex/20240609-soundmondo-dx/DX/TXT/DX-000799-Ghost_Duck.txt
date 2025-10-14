@@ -1,0 +1,54 @@
+VOICE NAME     = Ghost Duck
+============================
+TRANSPOSE      =      -12
+MONO/POLY      = Mono-Legato
+PORTA TIME     =        3
+PB RANGE       =       12
+ALGORITHM      =        7
+LFO WAVE       =     Sine
+LFO SPEED      =       95
+LFO DELAY      =       61
+LFO PMD        =       12
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       40
+PEG LEVEL 1    =       31
+PEG LEVEL 2    =       33
+PEG LEVEL 3    =       44
+PEG LEVEL 4    =      -11
+FX1 TYPE       =        2 (Touch Wah)
+FX1 PARAM 1    =      127 (Sensibility)
+FX1 PARAM 2    =       86 (Rez)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =        8 (Depth)
+FX2 PARAM 2    =       14 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127       54      127      127
+EG RATE 2      =       50      127       73       82
+EG RATE 3      =       48       50       87       40
+EG RATE 4      =       58       32       55       41
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      109      127      100       32
+EG LEVEL 3     =      111      119      100       35
+EG LEVEL 4     =       18       56        0       55
+RATE SCALING   =       91       78       48       53
+SCALING LD     =       19        0        0       19
+SCALING RD     =        0       45       40       50
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     -LIN     -LIN     -LIN
+LFO AMD        =       16      125       42       96
+LFO PMD Off/On =      Off       On       On      Off
+PEG Off/On     =      Off       On      Off       On
+VELO SENS      =        0        6       20       30
+OUT LEVEL      =      127      117      110      113
+FEEDBACK       =       46       40       80       67
+FB TYPE        =   Square   Square Sawtooth Sawtooth
+FREQ MODE      =    Fixed    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0    11.96      1.0      5.0
+   freq coarse =        1       11        1        5
+   freq fine   =        0       96        0        0
+FREQ DETUNE    =       11        0       11        0

@@ -1,0 +1,54 @@
+VOICE NAME     = Indonician
+============================
+TRANSPOSE      =       -9
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       -2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       64
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        5 (Phaser)
+FX1 PARAM 1    =       29 (Depth)
+FX1 PARAM 2    =       60 (Rate)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =        8 (Depth)
+FX2 PARAM 2    =       67 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      119       78      122        0
+EG RATE 2      =       52      127       48        0
+EG RATE 3      =       48      127      127       18
+EG RATE 4      =       64       66       64       17
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =        0      127        0        0
+EG LEVEL 3     =        0      127        0        0
+EG LEVEL 4     =        0        0        1        4
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       25       64       49      102
+OUT LEVEL      =      100       71       87      116
+FEEDBACK       =        5       38       64       56
+FB TYPE        =   Square   Square Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     1.08     7.87     1.08    10.01
+   freq coarse =        1        7        1       10
+   freq fine   =        8       87        8        1
+FREQ DETUNE    =      -16        0        0        0

@@ -1,0 +1,54 @@
+VOICE NAME     = FM ORGAN  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       12
+LFO WAVE       =     Sine
+LFO SPEED      =       89
+LFO DELAY      =       54
+LFO PMD        =       10
+PEG RATE 1     =       54
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        1
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       46      123       78       82
+EG RATE 2      =       43       54        6       55
+EG RATE 3      =       34       56       74       72
+EG RATE 4      =       29       27       33       21
+EG LEVEL 1     =      127      127      120      127
+EG LEVEL 2     =       91      101      105      113
+EG LEVEL 3     =       95      114       79      103
+EG LEVEL 4     =       31       44        0        0
+RATE SCALING   =        0       57       49       69
+SCALING LD     =       21       32       48       53
+SCALING RD     =        0       51       38        4
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off       On      Off
+PEG Off/On     =      Off       On       On      Off
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      127      127      127      127
+FEEDBACK       =       76       30       11       17
+FB TYPE        = Sawtooth   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5    0.505    0.505     1.01
+   freq coarse =        0        0        0        1
+   freq fine   =        0        1        1        1
+FREQ DETUNE    =        0        0       13        0

@@ -1,0 +1,54 @@
+VOICE NAME     = HootGitar2
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        9
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =      127
+LFO DELAY      =       80
+LFO PMD        =        0
+PEG RATE 1     =        0
+PEG RATE 2     =        0
+PEG RATE 3     =        0
+PEG RATE 4     =        0
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       30 (---)
+FX1 PARAM 2    =      100 (---)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       58 (Depth)
+FX2 PARAM 2    =       10 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       50      100       80      100
+EG RATE 3      =       70      100       70       60
+EG RATE 4      =       70       60       70        0
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =        0        0        0      100
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       60        0       80      127
+SCALING LD     =       40      120       40       60
+SCALING RD     =       20        0       20        0
+SCALING LC     =     -EXP     +EXP     +EXP     -EXP
+SCALING RC     =     +EXP     +EXP     +EXP     +EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =       40        0       40        0
+OUT LEVEL      =      120      100      125       40
+FEEDBACK       =       40       40       60      100
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5      1.0      0.5      5.0
+   freq coarse =        0        1        0        5
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        3       -3        1

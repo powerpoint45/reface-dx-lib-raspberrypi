@@ -1,0 +1,54 @@
+VOICE NAME     = Column    
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        3
+LFO WAVE       =     Sine
+LFO SPEED      =       35
+LFO DELAY      =        0
+LFO PMD        =        8
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       64 (Depth)
+FX1 PARAM 2    =       64 (Time)
+FX2 TYPE       =        1 (Distortion)
+FX2 PARAM 1    =       31 (Drive)
+FX2 PARAM 2    =      127 (Tone)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      113      101      127      127
+EG RATE 2      =       66       76       55       77
+EG RATE 3      =      127       84       93       83
+EG RATE 4      =       67       16       43       50
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       68       89      101       90
+EG LEVEL 3     =       68       85       93       89
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     +LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       31       29       28       36
+OUT LEVEL      =      100       83       29       76
+FEEDBACK       =       19       24        5       53
+FB TYPE        = Sawtooth Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Fixed    Ratio
+RATIO | FREQ   =      1.0      1.0  467.723      2.0
+   freq coarse =        1        1       16        2
+   freq fine   =        0        0       67        0
+FREQ DETUNE    =        0       -4      -64        4

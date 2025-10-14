@@ -1,0 +1,54 @@
+VOICE NAME     = Aqua Metal
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        1
+LFO WAVE       =     Sine
+LFO SPEED      =       15
+LFO DELAY      =       33
+LFO PMD        =        0
+PEG RATE 1     =      114
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =       12
+PEG LEVEL 2    =      -36
+PEG LEVEL 3    =       24
+PEG LEVEL 4    =        0
+FX1 TYPE       =        4 (Flanger)
+FX1 PARAM 1    =       61 (Depth)
+FX1 PARAM 2    =        8 (Rate)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       68 (Depth)
+FX2 PARAM 2    =       36 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       96       36      127      127
+EG RATE 2      =      124       41       94       79
+EG RATE 3      =       36      100       61       47
+EG RATE 4      =       71      100      100       47
+EG LEVEL 1     =       89       71      127      127
+EG LEVEL 2     =      102      127       72       70
+EG LEVEL 3     =       34      127      101       28
+EG LEVEL 4     =        0        0       41        0
+RATE SCALING   =      127       10       41       49
+SCALING LD     =       99       31        1       62
+SCALING RD     =        6        0        0       58
+SCALING LC     =     +LIN     +EXP     -EXP     -LIN
+SCALING RC     =     -LIN     +LIN     +LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off       On      Off
+PEG Off/On     =      Off      Off      Off       On
+VELO SENS      =       17       37       29        8
+OUT LEVEL      =      101       56       71       90
+FEEDBACK       =        0       32       17       88
+FB TYPE        = Sawtooth   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0     1.95     3.07      4.0
+   freq coarse =        1        1        3        4
+   freq fine   =        0       95        7        0
+FREQ DETUNE    =        0        0        4       -6

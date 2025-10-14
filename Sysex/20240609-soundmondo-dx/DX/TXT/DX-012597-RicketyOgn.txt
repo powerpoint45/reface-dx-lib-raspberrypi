@@ -1,0 +1,54 @@
+VOICE NAME     = RicketyOgn
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       11
+LFO WAVE       =     Sine
+LFO SPEED      =       96
+LFO DELAY      =        0
+LFO PMD        =        5
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       22 (Drive)
+FX1 PARAM 2    =       65 (Tone)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       85 (Depth)
+FX2 PARAM 2    =       89 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =      100       85      127       96
+EG RATE 3      =       73       33      127       38
+EG RATE 4      =      100      100      100      100
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       87       33      127      110
+EG LEVEL 3     =       59       41      127      110
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =       43        0        0       13
+SCALING RD     =        0       44        0       25
+SCALING LC     =     +LIN     -LIN     -LIN     +EXP
+SCALING RC     =     +LIN     -LIN     +LIN     +EXP
+LFO AMD        =       39       30        3       30
+LFO PMD Off/On =       On      Off      Off       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      127      127      127       90
+FEEDBACK       =       89       47        0        0
+FB TYPE        =   Square Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      5.0      3.0      2.0      0.5
+   freq coarse =        5        3        2        0
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0       30      -10      -10

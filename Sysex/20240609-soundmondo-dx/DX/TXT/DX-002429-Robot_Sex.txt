@@ -1,0 +1,54 @@
+VOICE NAME     = Robot Sex 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =       50
+PB RANGE       =        2
+ALGORITHM      =        5
+LFO WAVE       = Sample & Hold
+LFO SPEED      =       95
+LFO DELAY      =        0
+LFO PMD        =       99
+PEG RATE 1     =        9
+PEG RATE 2     =       29
+PEG RATE 3     =       18
+PEG RATE 4     =       39
+PEG LEVEL 1    =       -5
+PEG LEVEL 2    =       -5
+PEG LEVEL 3    =       -5
+PEG LEVEL 4    =       -5
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       82      100      127      127
+EG RATE 2      =      127      127      127      127
+EG RATE 3      =       40      127      127      127
+EG RATE 4      =       60       80       80       60
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =        0      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On      Off      Off      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       40        0        0        0
+OUT LEVEL      =      127       40       40       70
+FEEDBACK       =       40       20        0       43
+FB TYPE        =   Square Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Fixed    Fixed    Fixed
+RATIO | FREQ   =      1.0 1318.251 2238.691 1949.823
+   freq coarse =        1       25       24       24
+   freq fine   =        0       12       35       29
+FREQ DETUNE    =        0        0        0        0

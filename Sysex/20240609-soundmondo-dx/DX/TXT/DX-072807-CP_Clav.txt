@@ -1,0 +1,54 @@
+VOICE NAME     = CP Clav   
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        3
+LFO WAVE       =     Sine
+LFO SPEED      =       85
+LFO DELAY      =       85
+LFO PMD        =        9
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       59 (Depth)
+FX1 PARAM 2    =       15 (Time)
+FX2 TYPE       =        1 (Distortion)
+FX2 PARAM 1    =       12 (Drive)
+FX2 PARAM 2    =       35 (Tone)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      125
+EG RATE 2      =       44       50      105       80
+EG RATE 3      =       48        0        0        0
+EG RATE 4      =      108       80       52      127
+EG LEVEL 1     =      127      127      127      118
+EG LEVEL 2     =      100       91       91       54
+EG LEVEL 3     =        0       48       78        0
+EG LEVEL 4     =        0        0        0      127
+RATE SCALING   =        0       73       74       93
+SCALING LD     =       34        0        0       13
+SCALING RD     =       66        0        0        6
+SCALING LC     =     +LIN     -LIN     -LIN     +LIN
+SCALING RC     =     +EXP     -EXP     -LIN     +LIN
+LFO AMD        =        8        0        0        0
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       69        6       14       34
+OUT LEVEL      =      127       82       76       86
+FEEDBACK       =        4        0        0        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      5.0      1.0     15.0      1.0
+   freq coarse =        5        1       15        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       -2        3        4        0

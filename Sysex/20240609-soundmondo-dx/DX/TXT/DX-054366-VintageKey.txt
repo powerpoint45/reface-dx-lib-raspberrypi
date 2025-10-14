@@ -1,0 +1,54 @@
+VOICE NAME     = VintageKey
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        5
+LFO WAVE       =   Square
+LFO SPEED      =       60
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        4 (Flanger)
+FX1 PARAM 1    =       30 (Depth)
+FX1 PARAM 2    =       50 (Rate)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       90 (Depth)
+FX2 PARAM 2    =       27 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       50       50       55       40
+EG RATE 3      =       50       70       55      127
+EG RATE 4      =       75       75       75       75
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       90       90       70       90
+EG LEVEL 3     =        0       90       70       90
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       80       85       90       45
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0       13       23       35
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       35       20       20       20
+OUT LEVEL      =      100       90       95       85
+FEEDBACK       =       20       10       40       40
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Fixed    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0     1.02    0.995    0.505
+   freq coarse =        1        1        0        0
+   freq fine   =        0        2       99        1
+FREQ DETUNE    =        0      -25       48       10

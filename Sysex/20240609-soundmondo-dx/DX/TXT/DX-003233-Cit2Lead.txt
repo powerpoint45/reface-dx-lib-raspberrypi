@@ -1,0 +1,54 @@
+VOICE NAME     = Cit2Lead  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        3
+LFO WAVE       =     Sine
+LFO SPEED      =       82
+LFO DELAY      =       21
+LFO PMD        =       12
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       52 (Depth)
+FX1 PARAM 2    =       74 (Time)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       92 (Depth)
+FX2 PARAM 2    =       64 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      108      119      127      127
+EG RATE 2      =        0       11       79       36
+EG RATE 3      =       29        0       31        0
+EG RATE 4      =       54        0      107        0
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127       98       75       80
+EG LEVEL 3     =      127       80       76       51
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       62        4        4        4
+SCALING LD     =       11       25        0       66
+SCALING RD     =        0        7        0       70
+SCALING LC     =     +EXP     +EXP     -LIN     -LIN
+SCALING RC     =     -EXP     +EXP     -LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0       47       50       34
+OUT LEVEL      =      107       54       39       73
+FEEDBACK       =       34       36       52       31
+FB TYPE        =   Square Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     1.01      1.0     1.01     1.02
+   freq coarse =        1        1        1        1
+   freq fine   =        1        0        1        2
+FREQ DETUNE    =       -3        5        0       -5

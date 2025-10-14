@@ -1,0 +1,54 @@
+VOICE NAME     = AlienEnc  
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       24
+ALGORITHM      =        1
+LFO WAVE       = Triangle
+LFO SPEED      =       90
+LFO DELAY      =       89
+LFO PMD        =        0
+PEG RATE 1     =       91
+PEG RATE 2     =       46
+PEG RATE 3     =       20
+PEG RATE 4     =       64
+PEG LEVEL 1    =        1
+PEG LEVEL 2    =        8
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        3
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       61 (Depth)
+FX1 PARAM 2    =       99 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       83 (Depth)
+FX2 PARAM 2    =      115 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       90       40       50       89
+EG RATE 2      =       65       77       70       23
+EG RATE 3      =      127        0      127       73
+EG RATE 4      =       25       23       60       60
+EG LEVEL 1     =      126      126      110      127
+EG LEVEL 2     =      115      127       90       86
+EG LEVEL 3     =      115      127       90      110
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        5        5        5        5
+SCALING LD     =        0        0        0        0
+SCALING RD     =       20       20       10        4
+SCALING LC     =     +LIN     -LIN     +LIN     +LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        8        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      104       80       90       80
+FEEDBACK       =        0        0        0        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Fixed    Ratio    Ratio    Ratio
+RATIO | FREQ   =    8.912      2.0      1.0      0.5
+   freq coarse =        6        2        1        0
+   freq fine   =       95        0        0        0
+FREQ DETUNE    =        0        0        0        0

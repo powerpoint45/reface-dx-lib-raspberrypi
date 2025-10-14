@@ -1,0 +1,54 @@
+VOICE NAME     = OutofTune 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        7
+LFO WAVE       = Triangle
+LFO SPEED      =       37
+LFO DELAY      =        0
+LFO PMD        =        6
+PEG RATE 1     =        0
+PEG RATE 2     =       16
+PEG RATE 3     =       12
+PEG RATE 4     =        0
+PEG LEVEL 1    =      -40
+PEG LEVEL 2    =      -33
+PEG LEVEL 3    =      -31
+PEG LEVEL 4    =      -48
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       56       56       49      127
+EG RATE 2      =        0       25       52       18
+EG RATE 3      =        5      102       63        0
+EG RATE 4      =       29       32       20       20
+EG LEVEL 1     =      117      127       31       46
+EG LEVEL 2     =       75       95       45       31
+EG LEVEL 3     =       96      105       75       31
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        2
+SCALING LD     =       24        0       45       12
+SCALING RD     =       42       39       11       71
+SCALING LC     =     +LIN     -LIN     -EXP     +EXP
+SCALING RC     =     +LIN     +EXP     +EXP     -LIN
+LFO AMD        =        0        0        9       12
+LFO PMD Off/On =      Off      Off       On      Off
+PEG Off/On     =      Off       On      Off       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      117      114       87       95
+FEEDBACK       =        0        0       57      121
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Fixed    Ratio    Fixed
+RATIO | FREQ   =      1.0      1.0      2.0    1.905
+   freq coarse =        1        1        2        2
+   freq fine   =        0        0        0       28
+FREQ DETUNE    =       -7        3        9       -9

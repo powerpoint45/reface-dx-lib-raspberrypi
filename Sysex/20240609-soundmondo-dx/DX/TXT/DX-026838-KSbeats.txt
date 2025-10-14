@@ -1,0 +1,54 @@
+VOICE NAME     = KSbeats   
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       12
+ALGORITHM      =        8
+LFO WAVE       =   Square
+LFO SPEED      =       94
+LFO DELAY      =       54
+LFO PMD        =        0
+PEG RATE 1     =       59
+PEG RATE 2     =        0
+PEG RATE 3     =        0
+PEG RATE 4     =        0
+PEG LEVEL 1    =      -28
+PEG LEVEL 2    =       23
+PEG LEVEL 3    =      -19
+PEG LEVEL 4    =      -48
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       99 (Drive)
+FX1 PARAM 2    =       64 (Tone)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       24 (Depth)
+FX2 PARAM 2    =       77 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =      Off       On       On       On
+EG RATE 1      =        0       30      127       80
+EG RATE 2      =       70       62       73       45
+EG RATE 3      =      126      127       70      127
+EG RATE 4      =        0       42       90       68
+EG LEVEL 1     =      109       40      127       61
+EG LEVEL 2     =       79      127       83      127
+EG LEVEL 3     =       51      127        0      127
+EG LEVEL 4     =       17        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0      127        0
+SCALING RD     =      127        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     +LIN     +LIN
+LFO AMD        =      101        0       97       40
+LFO PMD Off/On =       On      Off      Off      Off
+PEG Off/On     =       On      Off       On      Off
+VELO SENS      =        0       56        0        0
+OUT LEVEL      =      127       77       77      109
+FEEDBACK       =       57        0       57       74
+FB TYPE        = Sawtooth Sawtooth   Square   Square
+FREQ MODE      =    Fixed    Fixed    Fixed    Ratio
+RATIO | FREQ   =      1.0   18.621    3.715      1.0
+   freq coarse =        7        9        4        1
+   freq fine   =        0       27       57        0
+FREQ DETUNE    =        0       25       23        0

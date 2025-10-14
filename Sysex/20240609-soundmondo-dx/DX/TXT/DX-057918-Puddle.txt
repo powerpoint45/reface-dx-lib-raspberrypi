@@ -1,0 +1,54 @@
+VOICE NAME     = Puddle    
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       12
+ALGORITHM      =        8
+LFO WAVE       = Sample & Hold
+LFO SPEED      =       53
+LFO DELAY      =       15
+LFO PMD        =       46
+PEG RATE 1     =      127
+PEG RATE 2     =       50
+PEG RATE 3     =       85
+PEG RATE 4     =       21
+PEG LEVEL 1    =       -2
+PEG LEVEL 2    =       -3
+PEG LEVEL 3    =       -4
+PEG LEVEL 4    =      -11
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       57 (Depth)
+FX1 PARAM 2    =      114 (Time)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       33 (---)
+FX2 PARAM 2    =       93 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      122        0        4       48
+EG RATE 2      =       71        0        2       49
+EG RATE 3      =       25       32        0        0
+EG RATE 4      =       58        0       64        0
+EG LEVEL 1     =      117      127       62      127
+EG LEVEL 2     =       13       55       75      127
+EG LEVEL 3     =      101       60       16      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0       74      107
+SCALING LD     =        0        0      127       44
+SCALING RD     =       14        0       20       37
+SCALING LC     =     -LIN     +LIN     -LIN     -EXP
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0      123        0        0
+LFO PMD Off/On =      Off       On      Off      Off
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =       37        0       58       65
+OUT LEVEL      =      118      101       86        0
+FEEDBACK       =       29       97      116       34
+FB TYPE        = Sawtooth   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Fixed    Ratio    Fixed
+RATIO | FREQ   =      2.0      1.0      2.0   30.199
+   freq coarse =        2        5        2       12
+   freq fine   =        0        0        0       48
+FREQ DETUNE    =        0        0        2       16

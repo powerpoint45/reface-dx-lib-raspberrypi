@@ -1,0 +1,54 @@
+VOICE NAME     = Qy}|ooooo 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       24
+ALGORITHM      =        5
+LFO WAVE       = Sawtooth Down
+LFO SPEED      =        0
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =      127
+PEG RATE 2     =        3
+PEG RATE 3     =       19
+PEG RATE 4     =       44
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =        0 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =        0 (---)
+FX2 PARAM 2    =        0 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       54       27       22      127
+EG RATE 2      =       57       93        0      127
+EG RATE 3      =       31      112       63       75
+EG RATE 4      =       52       71       52       70
+EG LEVEL 1     =       79       28       78       30
+EG LEVEL 2     =       41       85       93       78
+EG LEVEL 3     =       37       82       72       38
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0       18
+SCALING LD     =       48        0       44        0
+SCALING RD     =       53        0       48      104
+SCALING LC     =     -EXP     +LIN     -LIN     -EXP
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On      Off      Off      Off
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =       30       35       45       32
+OUT LEVEL      =      114      104       96       90
+FEEDBACK       =       74       56       22       43
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Fixed    Fixed    Ratio
+RATIO | FREQ   =    0.565     1.38  120.226     2.89
+   freq coarse =        0        5       16        2
+   freq fine   =       13       14        8       89
+FREQ DETUNE    =       20       28       31      -15

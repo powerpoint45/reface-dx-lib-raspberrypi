@@ -1,0 +1,54 @@
+VOICE NAME     = GranulBras
+============================
+TRANSPOSE      =        6
+MONO/POLY      = Mono-Full
+PORTA TIME     =        0
+PB RANGE       =       24
+ALGORITHM      =        7
+LFO WAVE       = Sawtooth Up
+LFO SPEED      =       53
+LFO DELAY      =       40
+LFO PMD        =        9
+PEG RATE 1     =       23
+PEG RATE 2     =      123
+PEG RATE 3     =       21
+PEG RATE 4     =       64
+PEG LEVEL 1    =       14
+PEG LEVEL 2    =       48
+PEG LEVEL 3    =      -34
+PEG LEVEL 4    =      -36
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       40 (Depth)
+FX1 PARAM 2    =       40 (Time)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       40 (Depth)
+FX2 PARAM 2    =        9 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      119       78      127      122
+EG RATE 2      =       66      122       40      123
+EG RATE 3      =       34       29       51       23
+EG RATE 4      =       67       77       13       80
+EG LEVEL 1     =       82      123      127       70
+EG LEVEL 2     =      118       23       71       79
+EG LEVEL 3     =       18       30       72      121
+EG LEVEL 4     =       81       71       27       78
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     +EXP     +EXP
+SCALING RC     =     +EXP     +LIN     +LIN     +LIN
+LFO AMD        =       78       22      122       30
+LFO PMD Off/On =       On      Off       On      Off
+PEG Off/On     =       On      Off      Off       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =       78      127       30      122
+FEEDBACK       =       10       89      110       60
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     2.31      1.8     7.79     0.89
+   freq coarse =        2        1        7        0
+   freq fine   =       31       80       79       78
+FREQ DETUNE    =        6      -33       57       15

@@ -1,0 +1,54 @@
+VOICE NAME     = AquaticAmb
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       29
+LFO DELAY      =       43
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       61 (Depth)
+FX1 PARAM 2    =       39 (Time)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       77 (Depth)
+FX2 PARAM 2    =       68 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       79       54      106       54
+EG RATE 2      =       57        2       54        0
+EG RATE 3      =       64       46       12       89
+EG RATE 4      =       64      100       81       23
+EG LEVEL 1     =      127      127      127      109
+EG LEVEL 2     =       97       81      111       44
+EG LEVEL 3     =       96       68       94       42
+EG LEVEL 4     =        0        0        0       18
+RATE SCALING   =        0        0        0        0
+SCALING LD     =      127        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -EXP     -LIN
+SCALING RC     =     +LIN     +LIN     +EXP     +LIN
+LFO AMD        =       15       22        0       58
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      100       41      100       28
+FEEDBACK       =        6       24        3        0
+FB TYPE        =   Square   Square   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      2.0      1.0      1.0
+   freq coarse =        1        2        1        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

@@ -1,0 +1,54 @@
+VOICE NAME     = Junglist2 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        6
+LFO WAVE       = Sawtooth Down
+LFO SPEED      =       99
+LFO DELAY      =      126
+LFO PMD        =        0
+PEG RATE 1     =        0
+PEG RATE 2     =        0
+PEG RATE 3     =        1
+PEG RATE 4     =      104
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =      -48
+PEG LEVEL 3    =      -36
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       87 (Drive)
+FX1 PARAM 2    =       54 (Tone)
+FX2 TYPE       =        4 (Flanger)
+FX2 PARAM 1    =      110 (Depth)
+FX2 PARAM 2    =       28 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =      Off       On       On       On
+EG RATE 1      =       32       59       70       86
+EG RATE 2      =        0        0      127        1
+EG RATE 3      =       61        0      127        4
+EG RATE 4      =       78      122       64       31
+EG LEVEL 1     =      100      117      127      126
+EG LEVEL 2     =        0       99        0       86
+EG LEVEL 3     =       70       24      127        1
+EG LEVEL 4     =      110        0        1        1
+RATE SCALING   =        3        0       24        0
+SCALING LD     =       45        1        0       19
+SCALING RD     =        0        1       22       81
+SCALING LC     =     +EXP     +EXP     -LIN     -LIN
+SCALING RC     =     -LIN     +EXP     -EXP     -LIN
+LFO AMD        =      120      127      127      114
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       23       41       68       60
+OUT LEVEL      =       31      111      106       99
+FEEDBACK       =      106       23      126       53
+FB TYPE        =   Square   Square   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =    0.515     1.85     0.53     1.01
+   freq coarse =        0        1        0        1
+   freq fine   =        3       85        6        1
+FREQ DETUNE    =        0      -64      -54       62

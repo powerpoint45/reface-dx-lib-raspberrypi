@@ -1,0 +1,54 @@
+VOICE NAME     = TinySftBlu
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        3
+LFO WAVE       =     Sine
+LFO SPEED      =       85
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        5 (Phaser)
+FX1 PARAM 1    =       80 (Depth)
+FX1 PARAM 2    =      115 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       50 (Depth)
+FX2 PARAM 2    =       65 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      125      127      120       95
+EG RATE 2      =       45      127       40      127
+EG RATE 3      =       60      127       50       80
+EG RATE 4      =       70       60       60       60
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      110      127      100      127
+EG LEVEL 3     =        0      127        0      100
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        3
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0       20       20
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On      Off       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       20        0       35       30
+OUT LEVEL      =      100       75       65       75
+FEEDBACK       =        0        0       40       40
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Fixed    Ratio    Ratio
+RATIO | FREQ   =      2.0    1.778      0.5    0.995
+   freq coarse =        2        1        0        0
+   freq fine   =        0       25        0       99
+FREQ DETUNE    =        0        0        0        0

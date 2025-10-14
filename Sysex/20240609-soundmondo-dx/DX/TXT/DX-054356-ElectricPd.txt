@@ -1,0 +1,54 @@
+VOICE NAME     = ElectricPd
+============================
+TRANSPOSE      =       12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        2
+LFO WAVE       =     Sine
+LFO SPEED      =       88
+LFO DELAY      =       63
+LFO PMD        =       12
+PEG RATE 1     =      107
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =       -6
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =        0 (Drive)
+FX1 PARAM 2    =        0 (Tone)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       32 (---)
+FX2 PARAM 2    =       13 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =        0       37       72       72
+EG RATE 3      =       48       27        0        0
+EG RATE 4      =      119       85       32       82
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      103       95        0        0
+EG LEVEL 3     =       90       56        0        0
+EG LEVEL 4     =        1       43       39        0
+RATE SCALING   =       29       18       32       34
+SCALING LD     =        0        0        0        0
+SCALING RD     =       12       10       12        9
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =       17       37       52      127
+OUT LEVEL      =      119       84       65       73
+FEEDBACK       =        0       20        0       17
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      0.5     2.99    12.99
+   freq coarse =        1        0        2       12
+   freq fine   =        0        0       99       99
+FREQ DETUNE    =        0        2       11        4

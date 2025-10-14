@@ -1,0 +1,54 @@
+VOICE NAME     = AmbiWood  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        5
+LFO WAVE       =     Sine
+LFO SPEED      =       81
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       30 (Depth)
+FX1 PARAM 2    =       64 (Time)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       37 (Depth)
+FX2 PARAM 2    =       54 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      117      122
+EG RATE 2      =       60       50       64       98
+EG RATE 3      =       37       34       32      105
+EG RATE 4      =       88       46       68       53
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       95       78       70       79
+EG LEVEL 3     =        0       32        0        6
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       12       12        4        8
+SCALING LD     =        0        3        0        0
+SCALING RD     =        0       14       16       26
+SCALING LC     =     -LIN     +LIN     -LIN     -LIN
+SCALING RC     =     +LIN     -EXP     -EXP     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       46       52       48       74
+OUT LEVEL      =      120       81       96       58
+FEEDBACK       =        0       13       10        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      2.0      2.0      8.0
+   freq coarse =        1        2        2        8
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        3        0       -3        0

@@ -1,0 +1,54 @@
+VOICE NAME     = 80sLake   
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        3
+LFO WAVE       = Triangle
+LFO SPEED      =       84
+LFO DELAY      =       41
+LFO PMD        =       14
+PEG RATE 1     =       47
+PEG RATE 2     =       65
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       29 (Depth)
+FX1 PARAM 2    =       46 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       50 (Depth)
+FX2 PARAM 2    =       61 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       77      127       87       66
+EG RATE 2      =       87        0        0       13
+EG RATE 3      =        5        0       23       16
+EG RATE 4      =       48      107      127        0
+EG LEVEL 1     =       65       78      127      104
+EG LEVEL 2     =      127      127      127       85
+EG LEVEL 3     =      127       80      120      116
+EG LEVEL 4     =        0        0      127      127
+RATE SCALING   =        4        4        4        4
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0       22       67        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       20       47       50       34
+OUT LEVEL      =      127       42      127      112
+FEEDBACK       =       37      127      123       69
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      1.0      1.0
+   freq coarse =        1        1        1        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       -3        5        0       -5

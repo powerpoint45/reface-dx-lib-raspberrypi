@@ -1,0 +1,54 @@
+VOICE NAME     = Plorgan   
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        4
+LFO WAVE       = Sample & Hold
+LFO SPEED      =       64
+LFO DELAY      =       60
+LFO PMD        =        5
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      100       80      100      127
+EG RATE 2      =       65      127       76       65
+EG RATE 3      =       65      127       79       34
+EG RATE 4      =       63       63       62       40
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      100      127        0       69
+EG LEVEL 3     =       90      127        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0       56        0       31
+SCALING RD     =        0       30       53       50
+SCALING LC     =     -LIN     +LIN     -LIN     -EXP
+SCALING RC     =     -LIN     +EXP     -LIN     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off      Off       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0       20
+OUT LEVEL      =      127       50       75      100
+FEEDBACK       =       45        0        0       60
+FB TYPE        =   Square Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      0.5      6.0      4.0
+   freq coarse =        1        0        6        4
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

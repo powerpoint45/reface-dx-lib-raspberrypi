@@ -1,0 +1,54 @@
+VOICE NAME     = GrindPhaz 
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       12
+ALGORITHM      =        5
+LFO WAVE       = Triangle
+LFO SPEED      =       61
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       50
+PEG RATE 2     =       64
+PEG RATE 3     =       45
+PEG RATE 4     =        6
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =      127 (Drive)
+FX1 PARAM 2    =        0 (Tone)
+FX2 TYPE       =        5 (Phaser)
+FX2 PARAM 1    =      113 (Depth)
+FX2 PARAM 2    =        4 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127       33      127      127
+EG RATE 2      =       80      127      127      127
+EG RATE 3      =       40      127      127      127
+EG RATE 4      =       91      118       77        9
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =        0        0        0        0
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =       14        0       20      127
+SCALING LC     =     -LIN     +LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0      127      127      127
+LFO PMD Off/On =      Off       On       On       On
+PEG Off/On     =       On      Off      Off      Off
+VELO SENS      =       91      115      106      101
+OUT LEVEL      =       67       72       11       74
+FEEDBACK       =      127       39       28       49
+FB TYPE        = Sawtooth Sawtooth   Square   Square
+FREQ MODE      =    Ratio    Fixed    Fixed    Ratio
+RATIO | FREQ   =      1.0   38.018     10.0      3.0
+   freq coarse =        1       13        8        3
+   freq fine   =        0       58        0        0
+FREQ DETUNE    =        0        0        0       -3

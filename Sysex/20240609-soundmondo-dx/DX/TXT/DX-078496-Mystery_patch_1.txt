@@ -1,0 +1,54 @@
+VOICE NAME     = MystPatch1
+============================
+TRANSPOSE      =      -24
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       24
+ALGORITHM      =        5
+LFO WAVE       =     Sine
+LFO SPEED      =        0
+LFO DELAY      =        0
+LFO PMD        =        6
+PEG RATE 1     =       36
+PEG RATE 2     =       39
+PEG RATE 3     =       33
+PEG RATE 4     =       18
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =       -1
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =        0 (Drive)
+FX1 PARAM 2    =      114 (Tone)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       31 (Depth)
+FX2 PARAM 2    =       62 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       56       79       60       54
+EG RATE 3      =       72       87       26      100
+EG RATE 4      =       46        0        0        0
+EG LEVEL 1     =        0        0        0        0
+EG LEVEL 2     =       47       61       44       63
+EG LEVEL 3     =       87       95       28      106
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       11        0       12        0
+SCALING LD     =        0       35       54       63
+SCALING RD     =       51      127       22       48
+SCALING LC     =     +LIN     +LIN     +LIN     -LIN
+SCALING RC     =     +EXP     +EXP     -EXP     +LIN
+LFO AMD        =        0        0       14       19
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      100       53       90       56
+FEEDBACK       =       13        4       12       34
+FB TYPE        =   Square   Square   Square   Square
+FREQ MODE      =    Ratio    Fixed    Fixed    Ratio
+RATIO | FREQ   =      1.0  812.802 1412.529      0.5
+   freq coarse =        1       20       28        0
+   freq fine   =        0       91       15        0
+FREQ DETUNE    =        0        0        0      -17

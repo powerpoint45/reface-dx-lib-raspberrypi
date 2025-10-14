@@ -1,0 +1,54 @@
+VOICE NAME     = GADULKA   
+============================
+TRANSPOSE      =      -12
+MONO/POLY      = Mono-Legato
+PORTA TIME     =        5
+PB RANGE       =        3
+ALGORITHM      =        6
+LFO WAVE       =     Sine
+LFO SPEED      =       78
+LFO DELAY      =       55
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =       -2
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       21 (Depth)
+FX1 PARAM 2    =       69 (Time)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       50 (Depth)
+FX2 PARAM 2    =      125 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       92      118       91       88
+EG RATE 2      =       48      118       80       82
+EG RATE 3      =       44      127      127       38
+EG RATE 4      =       94      103       90       95
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      115      127      108       60
+EG LEVEL 3     =      100      127      108       90
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =       55       26        0        0
+SCALING RD     =        0        0        0       16
+SCALING LC     =     -LIN     -LIN     -LIN     +LIN
+SCALING RC     =     +LIN     +LIN     +LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off       On       On
+PEG Off/On     =       On       On       On      Off
+VELO SENS      =       12       38        6        7
+OUT LEVEL      =      127       90       90       80
+FEEDBACK       =       93        1        1      127
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      1.0      4.0
+   freq coarse =        1        1        1        4
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

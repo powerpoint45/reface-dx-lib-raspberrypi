@@ -1,0 +1,54 @@
+VOICE NAME     = SleighBell
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        7
+LFO WAVE       = Sawtooth Down
+LFO SPEED      =       70
+LFO DELAY      =        0
+LFO PMD        =        7
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       34 (Depth)
+FX1 PARAM 2    =       21 (Time)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      109      110      127      127
+EG RATE 2      =       76       76      127      127
+EG RATE 3      =       70       70      127       70
+EG RATE 4      =       70       70       38       50
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      114      114      127      127
+EG LEVEL 3     =        0        0      127      112
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       35       35        0       35
+OUT LEVEL      =      105      105      102      105
+FEEDBACK       =       37       17       64       31
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Fixed    Fixed    Fixed    Fixed
+RATIO | FREQ   = 9549.566 9332.195 6309.379   12.303
+   freq coarse =       25       25       27        9
+   freq fine   =       98       97       80        9
+FREQ DETUNE    =        0        0        0        0

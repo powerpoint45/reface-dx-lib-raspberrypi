@@ -1,0 +1,54 @@
+VOICE NAME     = Night Pad 
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        9
+LFO WAVE       =     Sine
+LFO SPEED      =        0
+LFO DELAY      =        0
+LFO PMD        =        8
+PEG RATE 1     =      127
+PEG RATE 2     =      127
+PEG RATE 3     =      127
+PEG RATE 4     =      127
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       40 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =      120 (---)
+FX2 PARAM 2    =       60 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On      Off       On
+EG RATE 1      =      127       60      127      127
+EG RATE 2      =       80       60       50       70
+EG RATE 3      =       80       40       60       60
+EG RATE 4      =       80       60       75       75
+EG LEVEL 1     =      123      127       42        0
+EG LEVEL 2     =       87       90       98      109
+EG LEVEL 3     =       66       84       61       50
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       66       40      100        0
+SCALING LD     =       93      127       48       98
+SCALING RD     =       19      120       43      114
+SCALING LC     =     -LIN     +EXP     +LIN     -LIN
+SCALING RC     =     +LIN     -EXP     -EXP     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       92       80       60       60
+OUT LEVEL      =       62       47      100       66
+FEEDBACK       =       19       19        2       18
+FB TYPE        = Sawtooth Sawtooth   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     2.01      3.0      3.0     1.08
+   freq coarse =        2        3        3        1
+   freq fine   =        1        0        0        8
+FREQ DETUNE    =        0      -30        0       -1

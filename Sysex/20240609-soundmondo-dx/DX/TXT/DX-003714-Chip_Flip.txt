@@ -1,0 +1,54 @@
+VOICE NAME     = Chip Flip 
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       12
+ALGORITHM      =        8
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =       51
+LFO DELAY      =        9
+LFO PMD        =        1
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        2 (Touch Wah)
+FX1 PARAM 1    =      124 (Sensibility)
+FX1 PARAM 2    =       77 (Rez)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =      100 (Depth)
+FX2 PARAM 2    =        9 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       84      104      109       50
+EG RATE 3      =       94      126       51       40
+EG RATE 4      =       99       50       74       50
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      110      100      110      100
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0       53
+SCALING LD     =       19        0        0       19
+SCALING RD     =        0       58       40       50
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     -LIN     -LIN     -LIN
+LFO AMD        =       54       90      126       30
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0       20        0
+OUT LEVEL      =      127       24      127      111
+FEEDBACK       =      107        0      127       95
+FB TYPE        = Sawtooth Sawtooth   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.9      6.0      3.0
+   freq coarse =        1        1        6        3
+   freq fine   =        0       90        0        0
+FREQ DETUNE    =        0        7        0        0

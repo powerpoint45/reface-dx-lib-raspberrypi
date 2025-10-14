@@ -1,0 +1,54 @@
+VOICE NAME     = *PJEventH4
+============================
+TRANSPOSE      =      -24
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       10
+LFO WAVE       = Triangle
+LFO SPEED      =      100
+LFO DELAY      =        0
+LFO PMD        =       21
+PEG RATE 1     =        5
+PEG RATE 2     =        1
+PEG RATE 3     =        1
+PEG RATE 4     =       10
+PEG LEVEL 1    =       36
+PEG LEVEL 2    =      -24
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =       48
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       63 (Depth)
+FX1 PARAM 2    =       61 (Time)
+FX2 TYPE       =        4 (Flanger)
+FX2 PARAM 1    =       42 (Depth)
+FX2 PARAM 2    =       18 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       73       73       73       21
+EG RATE 2      =      127      127      127        8
+EG RATE 3      =      127      127      127      127
+EG RATE 4      =       84       63       55       42
+EG LEVEL 1     =      127      127      127       84
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      127      127       94
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0       84
+SCALING RD     =        0        0        0       21
+SCALING LC     =     -LIN     -LIN     -LIN     +LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =       32       32      121        0
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =      Off       On      Off      Off
+VELO SENS      =       21        0       21       84
+OUT LEVEL      =      100       68      127      110
+FEEDBACK       =       21       21       21       75
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.6      2.0     1.15    0.725
+   freq coarse =        1        2        1        0
+   freq fine   =       60        0       15       45
+FREQ DETUNE    =        0        0        0        0

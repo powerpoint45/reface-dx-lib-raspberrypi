@@ -1,0 +1,54 @@
+VOICE NAME     = TimeVortex
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        4
+LFO WAVE       = Sawtooth Down
+LFO SPEED      =       45
+LFO DELAY      =        0
+LFO PMD        =      118
+PEG RATE 1     =      127
+PEG RATE 2     =        4
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =      113 (Depth)
+FX1 PARAM 2    =       48 (Rate)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       83 (Depth)
+FX2 PARAM 2    =       42 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      118      106       92       92
+EG RATE 2      =       32       42       43       45
+EG RATE 3      =       12       18       14       18
+EG RATE 4      =       59       40       36       36
+EG LEVEL 1     =      127      110      116      110
+EG LEVEL 2     =      116      127      127      127
+EG LEVEL 3     =      108      110      107      113
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       20       20        0        0
+SCALING LD     =      127        0        0        0
+SCALING RD     =       14        0      127      127
+SCALING LC     =     +LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -EXP     +LIN     -LIN     -LIN
+LFO AMD        =        0        0       67      109
+LFO PMD Off/On =      Off      Off       On      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       30        0        0        0
+OUT LEVEL      =      113       83       62       93
+FEEDBACK       =       11       43      127       82
+FB TYPE        = Sawtooth   Square   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      4.0      0.5
+   freq coarse =        1        1        4        0
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

@@ -1,0 +1,54 @@
+VOICE NAME     = Tilt-a-Whi
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =       86
+PB RANGE       =        2
+ALGORITHM      =        2
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =       91
+LFO DELAY      =       96
+LFO PMD        =       38
+PEG RATE 1     =       89
+PEG RATE 2     =       26
+PEG RATE 3     =       28
+PEG RATE 4     =       64
+PEG LEVEL 1    =      -22
+PEG LEVEL 2    =       45
+PEG LEVEL 3    =       44
+PEG LEVEL 4    =       43
+FX1 TYPE       =        4 (Flanger)
+FX1 PARAM 1    =       49 (Depth)
+FX1 PARAM 2    =       37 (Rate)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       55 (Depth)
+FX2 PARAM 2    =       85 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       76      127      127      127
+EG RATE 2      =       51       81       81       74
+EG RATE 3      =       87       65       22       27
+EG RATE 4      =      110       87       37       34
+EG LEVEL 1     =      127      127       39      127
+EG LEVEL 2     =       96       60       84      102
+EG LEVEL 3     =        0        0      118        0
+EG LEVEL 4     =        0        0      127        0
+RATE SCALING   =        2        4       94       99
+SCALING LD     =        0       15       86       38
+SCALING RD     =        0        6       91        7
+SCALING LC     =     -EXP     -EXP     +EXP     -LIN
+SCALING RC     =     -LIN     -LIN     -EXP     -EXP
+LFO AMD        =       79        0      100      103
+LFO PMD Off/On =      Off       On       On      Off
+PEG Off/On     =      Off       On       On      Off
+VELO SENS      =       15       63       78      120
+OUT LEVEL      =      127       89       97       96
+FEEDBACK       =        0       89       37       50
+FB TYPE        = Sawtooth Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =    19.14      1.0    17.77     15.0
+   freq coarse =       19        1       17       15
+   freq fine   =       14        0       77        0
+FREQ DETUNE    =       -6        0        0        0

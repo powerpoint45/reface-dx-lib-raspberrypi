@@ -1,0 +1,54 @@
+VOICE NAME     = CAVEPIANO 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =        5
+LFO DELAY      =        0
+LFO PMD        =       21
+PEG RATE 1     =      116
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        5
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =       -9
+PEG LEVEL 4    =      -16
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =      115 (---)
+FX1 PARAM 2    =      117 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =        9       55      114       53
+EG RATE 2      =       23      100        0       48
+EG RATE 3      =       47       44        0       66
+EG RATE 4      =       30       29       35       37
+EG LEVEL 1     =       90      127      111      120
+EG LEVEL 2     =      116      121        7       57
+EG LEVEL 3     =       85       57       57       42
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        4        0
+SCALING LD     =       18       81      127       93
+SCALING RD     =        6       13       54        6
+SCALING LC     =     -LIN     -LIN     -EXP     -LIN
+SCALING RC     =     +LIN     +LIN     +EXP     +EXP
+LFO AMD        =        0        0        0      122
+LFO PMD Off/On =      Off      Off      Off       On
+PEG Off/On     =      Off      Off      Off       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      127       80      111      108
+FEEDBACK       =       45        4        1       24
+FB TYPE        = Sawtooth   Square Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Fixed
+RATIO | FREQ   =      1.0      1.0      1.0    1.202
+   freq coarse =        1        1        1        4
+   freq fine   =        0        0        0        8
+FREQ DETUNE    =        0        7       16       -7

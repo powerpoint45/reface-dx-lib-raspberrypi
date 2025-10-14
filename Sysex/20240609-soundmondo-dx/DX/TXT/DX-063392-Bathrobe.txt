@@ -1,0 +1,54 @@
+VOICE NAME     = Bathrobe  
+============================
+TRANSPOSE      =      -24
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       -9
+ALGORITHM      =        8
+LFO WAVE       = Sawtooth Down
+LFO SPEED      =      108
+LFO DELAY      =      113
+LFO PMD        =        0
+PEG RATE 1     =      127
+PEG RATE 2     =       11
+PEG RATE 3     =       72
+PEG RATE 4     =       18
+PEG LEVEL 1    =       48
+PEG LEVEL 2    =        4
+PEG LEVEL 3    =      -13
+PEG LEVEL 4    =       -5
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =        8 (Drive)
+FX1 PARAM 2    =      120 (Tone)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       57 (Depth)
+FX2 PARAM 2    =      105 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On      Off      Off      Off
+EG RATE 1      =        0        0        0        0
+EG RATE 2      =       77      127      127      127
+EG RATE 3      =       12      127      127       12
+EG RATE 4      =       55       76       76        0
+EG LEVEL 1     =        0      102      102        0
+EG LEVEL 2     =      127       74       74      127
+EG LEVEL 3     =        2       38       38        2
+EG LEVEL 4     =       49       49        0        0
+RATE SCALING   =       85      104      104      118
+SCALING LD     =       78       90       90       69
+SCALING RD     =       16       78       78       64
+SCALING LC     =     +EXP     +LIN     +LIN     -EXP
+SCALING RC     =     -EXP     -LIN     -LIN     +LIN
+LFO AMD        =       96       47       47       15
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =        0       17       17        0
+OUT LEVEL      =      109       75       75      100
+FEEDBACK       =       42       59       59       22
+FB TYPE        =   Square Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     10.0    17.45    17.45     10.0
+   freq coarse =       10       17       17       10
+   freq fine   =        0       45       45        0
+FREQ DETUNE    =        0       -4       -4        0

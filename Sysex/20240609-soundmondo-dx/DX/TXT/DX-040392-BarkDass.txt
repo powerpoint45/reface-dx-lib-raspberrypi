@@ -1,0 +1,54 @@
+VOICE NAME     = BarkDass  
+============================
+TRANSPOSE      =      -20
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        0
+ALGORITHM      =        3
+LFO WAVE       =     Sine
+LFO SPEED      =        0
+LFO DELAY      =       90
+LFO PMD        =        0
+PEG RATE 1     =        0
+PEG RATE 2     =        0
+PEG RATE 3     =        0
+PEG RATE 4     =        0
+PEG LEVEL 1    =      -48
+PEG LEVEL 2    =       14
+PEG LEVEL 3    =        7
+PEG LEVEL 4    =       20
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On      Off
+EG RATE 1      =      127       97      127        0
+EG RATE 2      =       33        0      103        0
+EG RATE 3      =       25        0       60       31
+EG RATE 4      =        0        0       90        0
+EG LEVEL 1     =      127      127      127      117
+EG LEVEL 2     =       86       60       96        0
+EG LEVEL 3     =        0        0        0      120
+EG LEVEL 4     =        0        0        0       27
+RATE SCALING   =        2        4        0        0
+SCALING LD     =       54       31       53       62
+SCALING RD     =       39       87       50        9
+SCALING LC     =     +EXP     +EXP     +EXP     -EXP
+SCALING RC     =     +EXP     +EXP     +EXP     -EXP
+LFO AMD        =       90      111       83       24
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       12       35      127      127
+OUT LEVEL      =      127      127      126      127
+FEEDBACK       =        0       11        0        0
+FB TYPE        = Sawtooth   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Fixed
+RATIO | FREQ   =      4.0      2.0     25.1   21.877
+   freq coarse =        4        2       25       12
+   freq fine   =        0        0       10       34
+FREQ DETUNE    =        0        0        0        0

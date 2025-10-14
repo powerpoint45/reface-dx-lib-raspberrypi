@@ -1,0 +1,54 @@
+VOICE NAME     = overblown 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =       12
+PB RANGE       =        1
+ALGORITHM      =        1
+LFO WAVE       =     Sine
+LFO SPEED      =       91
+LFO DELAY      =       22
+LFO PMD        =       60
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =       -4
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       10 (Drive)
+FX1 PARAM 2    =       11 (Tone)
+FX2 TYPE       =        1 (Distortion)
+FX2 PARAM 1    =       60 (Drive)
+FX2 PARAM 2    =       80 (Tone)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On      Off      Off       On
+EG RATE 1      =       70       75      107      100
+EG RATE 2      =       49      127       80       82
+EG RATE 3      =       44      127      127       38
+EG RATE 4      =       84       80       57       42
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      120      127      108       60
+EG LEVEL 3     =      115      127      108       90
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =       55       26        0        0
+SCALING RD     =        0        0        0       16
+SCALING LC     =     -LIN     -LIN     -LIN     +LIN
+SCALING RC     =     +LIN     +LIN     +LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off       On       On       On
+PEG Off/On     =       On      Off      Off      Off
+VELO SENS      =       12       42       21       21
+OUT LEVEL      =      110      110       73       95
+FEEDBACK       =       72       72       21       43
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      1.0      4.0
+   freq coarse =        1        1        1        4
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       12      -12      -12      -12

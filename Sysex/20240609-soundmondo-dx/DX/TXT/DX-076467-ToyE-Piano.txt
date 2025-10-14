@@ -1,0 +1,54 @@
+VOICE NAME     = ToyE-Piano
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       50
+LFO DELAY      =       20
+LFO PMD        =        0
+PEG RATE 1     =       72
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        1
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       50 (Depth)
+FX1 PARAM 2    =       55 (Time)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       25 (Depth)
+FX2 PARAM 2    =       27 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       80       82       85       90
+EG RATE 3      =        0        0       43       66
+EG RATE 4      =       75      127       80      127
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =        0      100      110       92
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0      127        0      110
+RATE SCALING   =        0        0      127      127
+SCALING LD     =        0        0       10        0
+SCALING RD     =        0        0       15       51
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off       On       On
+PEG Off/On     =      Off      Off       On      Off
+VELO SENS      =       41       35       35       37
+OUT LEVEL      =      115      110      127       97
+FEEDBACK       =       50       55        0        0
+FB TYPE        =   Square   Square Sawtooth Sawtooth
+FREQ MODE      =    Fixed    Fixed    Ratio    Ratio
+RATIO | FREQ   = 6606.726  446.672      1.0     10.0
+   freq coarse =       26       20        1       10
+   freq fine   =       82       65        0        0
+FREQ DETUNE    =        0        0        0        5

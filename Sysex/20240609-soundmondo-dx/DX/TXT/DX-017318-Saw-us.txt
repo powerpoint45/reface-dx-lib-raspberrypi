@@ -1,0 +1,54 @@
+VOICE NAME     = Saw-us    
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       12
+ALGORITHM      =        9
+LFO WAVE       =     Sine
+LFO SPEED      =       66
+LFO DELAY      =       22
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       65 (Depth)
+FX1 PARAM 2    =       98 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       56 (Depth)
+FX2 PARAM 2    =       85 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      117
+EG RATE 2      =      116      127      105      127
+EG RATE 3      =       57      127      127      112
+EG RATE 4      =      100      100      100       16
+EG LEVEL 1     =      127       62      127      127
+EG LEVEL 2     =      127       95      127      127
+EG LEVEL 3     =      127       72      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0       85      104
+SCALING LD     =        0        0       29        0
+SCALING RD     =        0        0       40        7
+SCALING LC     =     -LIN     -LIN     -EXP     -EXP
+SCALING RC     =     +LIN     +LIN     +LIN     +EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        6       16       51
+OUT LEVEL      =      100      106       49       70
+FEEDBACK       =      101       97       24       44
+FB TYPE        =   Square Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =    0.985     3.51      0.5     1.48
+   freq coarse =        0        3        0        1
+   freq fine   =       97       51        0       48
+FREQ DETUNE    =       -6       -9        2        9

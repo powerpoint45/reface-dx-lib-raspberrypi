@@ -1,0 +1,54 @@
+VOICE NAME     = Drive Gtr 
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        5
+LFO WAVE       =     Sine
+LFO SPEED      =      100
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =      127 (Drive)
+FX1 PARAM 2    =       64 (Tone)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       79 (Depth)
+FX2 PARAM 2    =       48 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =      127       75      127       91
+EG RATE 3      =      127      127       42       83
+EG RATE 4      =       89       98      101      100
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      120
+EG LEVEL 3     =      127      127      127       60
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        2        4        4        8
+SCALING LD     =        0       15        0        0
+SCALING RD     =        0        6       11        7
+SCALING LC     =     -LIN     +LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off      Off       On      Off
+VELO SENS      =       64       48       42       47
+OUT LEVEL      =      127      110       96       56
+FEEDBACK       =        0        0        0       50
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0     0.99      0.5
+   freq coarse =        1        1        0        0
+   freq fine   =        0        0       98        0
+FREQ DETUNE    =        0        0        0        0

@@ -1,0 +1,54 @@
+VOICE NAME     = Bass Att. 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        2
+LFO WAVE       = Triangle
+LFO SPEED      =       46
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =      114
+PEG RATE 2     =       82
+PEG RATE 3     =      116
+PEG RATE 4     =       78
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       16 (Depth)
+FX1 PARAM 2    =       10 (Rate)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      116      127      110      118
+EG RATE 2      =       84        0      118       80
+EG RATE 3      =       40        0       54       44
+EG RATE 4      =       82        0       50       68
+EG LEVEL 1     =      127      127       98      112
+EG LEVEL 2     =      118        0       80       58
+EG LEVEL 3     =       54        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       64       82       70        0
+SCALING LD     =       70       82        0        0
+SCALING RD     =       22        0        0        0
+SCALING LC     =     +LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     -LIN     -LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0       36       28        0
+OUT LEVEL      =      100       80      100       90
+FEEDBACK       =        0        0       36       16
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5      0.5      0.5      6.0
+   freq coarse =        0        0        0        6
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

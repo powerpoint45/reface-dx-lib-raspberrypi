@@ -1,0 +1,54 @@
+VOICE NAME     = Dc Twinkle
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =       18
+PB RANGE       =       12
+ALGORITHM      =        6
+LFO WAVE       =     Sine
+LFO SPEED      =       76
+LFO DELAY      =       65
+LFO PMD        =       10
+PEG RATE 1     =      127
+PEG RATE 2     =      110
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =       25
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       29 (Depth)
+FX1 PARAM 2    =       38 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =        5 (Depth)
+FX2 PARAM 2    =       57 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      109      113      112
+EG RATE 2      =       50       48       75       94
+EG RATE 3      =       29       30       70       70
+EG RATE 4      =       40       60       60       60
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       86       86      127       90
+EG LEVEL 3     =       78       71       70       73
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       45        4        4        4
+SCALING LD     =       31        0        0        0
+SCALING RD     =       10        0       30        0
+SCALING LC     =     +LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -EXP     -LIN     -EXP     -LIN
+LFO AMD        =        4       95       48       30
+LFO PMD Off/On =       On      Off       On      Off
+PEG Off/On     =      Off       On      Off       On
+VELO SENS      =       32       68       23       45
+OUT LEVEL      =      127      101      124      108
+FEEDBACK       =      100      127      127       69
+FB TYPE        = Sawtooth Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      7.0     12.0
+   freq coarse =        1        1        7       12
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        8       -8        7

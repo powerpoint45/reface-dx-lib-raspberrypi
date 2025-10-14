@@ -1,0 +1,54 @@
+VOICE NAME     = OvrModKyz 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        6
+PB RANGE       =        2
+ALGORITHM      =        7
+LFO WAVE       =   Square
+LFO SPEED      =       96
+LFO DELAY      =       56
+LFO PMD        =        5
+PEG RATE 1     =      105
+PEG RATE 2     =      102
+PEG RATE 3     =       57
+PEG RATE 4     =       40
+PEG LEVEL 1    =        3
+PEG LEVEL 2    =       -2
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        4 (Flanger)
+FX1 PARAM 1    =        0 (Depth)
+FX1 PARAM 2    =       97 (Rate)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       20 (Depth)
+FX2 PARAM 2    =       92 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       97      127      120      100
+EG RATE 2      =       50       50       65       70
+EG RATE 3      =       24       18       20       65
+EG RATE 4      =       70       66       71       65
+EG LEVEL 1     =      127      127       93       79
+EG LEVEL 2     =      110       94       78       50
+EG LEVEL 3     =       57      110        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        5        5        0       28
+SCALING LD     =        7        0        0        0
+SCALING RD     =        5        9       13       31
+SCALING LC     =     +LIN     -LIN     +LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -EXP     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On      Off       On       On
+PEG Off/On     =       On      Off      Off      Off
+VELO SENS      =       42       43       60       95
+OUT LEVEL      =      122      114      114       97
+FEEDBACK       =       60       90       80      127
+FB TYPE        = Sawtooth   Square Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      5.0      3.0     1.33
+   freq coarse =        1        5        3        1
+   freq fine   =        0        0        0       33
+FREQ DETUNE    =        4       -2        2        2

@@ -1,0 +1,54 @@
+VOICE NAME     = saleas 2  
+============================
+TRANSPOSE      =      -12
+MONO/POLY      = Mono-Legato
+PORTA TIME     =        6
+PB RANGE       =        2
+ALGORITHM      =       11
+LFO WAVE       =     Sine
+LFO SPEED      =       80
+LFO DELAY      =       60
+LFO PMD        =        0
+PEG RATE 1     =      102
+PEG RATE 2     =       65
+PEG RATE 3     =       19
+PEG RATE 4     =       60
+PEG LEVEL 1    =        5
+PEG LEVEL 2    =       -1
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       20 (Depth)
+FX1 PARAM 2    =       80 (Time)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       60 (Depth)
+FX2 PARAM 2    =      100 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      111      127
+EG RATE 2      =       82      127        3       46
+EG RATE 3      =       38      100      127      127
+EG RATE 4      =       93      100       87       85
+EG LEVEL 1     =        0        0        0      100
+EG LEVEL 2     =      127        0      127       65
+EG LEVEL 3     =      103      127       98       90
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       46       20        0       32
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =       20        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off      Off       On      Off
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      127      127       70      127
+FEEDBACK       =       90      110      127      127
+FB TYPE        = Sawtooth   Square   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      2.0      4.5      2.5
+   freq coarse =        1        2        4        2
+   freq fine   =        0        0       50       50
+FREQ DETUNE    =        0        0        0        0

@@ -1,0 +1,54 @@
+VOICE NAME     = DXRhodesRF
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        7
+ALGORITHM      =       10
+LFO WAVE       = Triangle
+LFO SPEED      =       80
+LFO DELAY      =       40
+LFO PMD        =       79
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =        8 (---)
+FX1 PARAM 2    =       46 (---)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       35 (Depth)
+FX2 PARAM 2    =       48 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127       84      127      118
+EG RATE 2      =        0       94       54       65
+EG RATE 3      =      127      122      127       62
+EG RATE 4      =       81      101       98      106
+EG LEVEL 1     =      105      124      121       96
+EG LEVEL 2     =      127      126      127      127
+EG LEVEL 3     =      127      127      127      109
+EG LEVEL 4     =        7        3        0        0
+RATE SCALING   =        0       58       73       42
+SCALING LD     =        0       15        0        0
+SCALING RD     =        0       24        0        0
+SCALING LC     =     -LIN     +EXP     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        3        0        0        8
+LFO PMD Off/On =      Off      Off       On      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0       45        0       18
+OUT LEVEL      =      127       93       34       32
+FEEDBACK       =       22       12       13        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     2.03      0.5      0.5     6.07
+   freq coarse =        2        0        0        6
+   freq fine   =        3        0        0        7
+FREQ DETUNE    =        0        0        0        0

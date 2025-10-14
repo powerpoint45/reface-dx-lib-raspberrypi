@@ -1,0 +1,54 @@
+VOICE NAME     = SUITCASE$ 
+============================
+TRANSPOSE      =       10
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        0
+ALGORITHM      =        3
+LFO WAVE       = Sample & Hold
+LFO SPEED      =      109
+LFO DELAY      =       54
+LFO PMD        =        0
+PEG RATE 1     =       51
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       64 (Depth)
+FX1 PARAM 2    =       64 (Time)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       11 (---)
+FX2 PARAM 2    =       38 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       43       93      103       11
+EG RATE 3      =       22        0       16       62
+EG RATE 4      =       58       90       44       12
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       58      105       97       64
+EG LEVEL 3     =       73       50       79       47
+EG LEVEL 4     =        0       29       20       26
+RATE SCALING   =        2        4        4        8
+SCALING LD     =        0       15        0        0
+SCALING RD     =        0        6       11        7
+SCALING LC     =     -LIN     +LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       64       63       92      120
+OUT LEVEL      =      127       89       50       92
+FEEDBACK       =        4        0        0        5
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5      0.5      3.0      1.0
+   freq coarse =        0        0        3        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

@@ -1,0 +1,54 @@
+VOICE NAME     = AnalogBass
+============================
+TRANSPOSE      =      -12
+MONO/POLY      = Mono-Legato
+PORTA TIME     =        9
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       64
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       40
+PEG RATE 2     =       50
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       96 (Drive)
+FX1 PARAM 2    =       64 (Tone)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       56 (---)
+FX2 PARAM 2    =       59 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      125      127      127      127
+EG RATE 2      =       53       65       53       65
+EG RATE 3      =      127       30      127       30
+EG RATE 4      =       80       81       80       81
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =        0        0        0      101
+EG LEVEL 3     =        0        0        0       99
+EG LEVEL 4     =        0        0        0       97
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      100       80      100       80
+FEEDBACK       =       21       74       21       74
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      0.5      1.0
+   freq coarse =        1        1        0        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        6        6       -6       -6

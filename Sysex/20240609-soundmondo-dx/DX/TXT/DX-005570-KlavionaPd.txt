@@ -1,0 +1,54 @@
+VOICE NAME     = KlavionaPd
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       10
+LFO WAVE       = Triangle
+LFO SPEED      =       84
+LFO DELAY      =       14
+LFO PMD        =       10
+PEG RATE 1     =       97
+PEG RATE 2     =       82
+PEG RATE 3     =       14
+PEG RATE 4     =       46
+PEG LEVEL 1    =       -3
+PEG LEVEL 2    =       -1
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        4 (Flanger)
+FX1 PARAM 1    =        5 (Depth)
+FX1 PARAM 2    =      104 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       79 (Depth)
+FX2 PARAM 2    =       57 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      112      107      117      104
+EG RATE 2      =      106       81      112       42
+EG RATE 3      =       13       62       15       14
+EG RATE 4      =       83       87       83       80
+EG LEVEL 1     =       78      122      107      127
+EG LEVEL 2     =      127      102      127       95
+EG LEVEL 3     =       87       82       95       87
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       22       26       14       30
+SCALING LD     =       10        2       34        7
+SCALING RD     =        4        5        6        3
+SCALING LC     =     -EXP     -LIN     +LIN     +LIN
+SCALING RC     =     -LIN     -EXP     -LIN     -LIN
+LFO AMD        =        4        4        4        1
+LFO PMD Off/On =      Off       On       On       On
+PEG Off/On     =       On      Off      Off      Off
+VELO SENS      =       53       78       42       35
+OUT LEVEL      =      120      110      117       91
+FEEDBACK       =       45       84        3       32
+FB TYPE        =   Square   Square Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      9.0      1.0      1.0
+   freq coarse =        1        9        1        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       -5        4        4        4

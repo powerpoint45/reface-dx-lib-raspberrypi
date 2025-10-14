@@ -1,0 +1,54 @@
+VOICE NAME     = D8X       
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       12
+ALGORITHM      =        1
+LFO WAVE       =   Square
+LFO SPEED      =       43
+LFO DELAY      =       18
+LFO PMD        =        0
+PEG RATE 1     =      127
+PEG RATE 2     =      127
+PEG RATE 3     =      127
+PEG RATE 4     =      127
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       56 (Depth)
+FX1 PARAM 2    =       29 (Time)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       34 (Depth)
+FX2 PARAM 2    =       10 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      104      127        9       93
+EG RATE 2      =      127      127      127      127
+EG RATE 3      =      127      127       79       87
+EG RATE 4      =       38       22       12       28
+EG LEVEL 1     =      127      127      127       78
+EG LEVEL 2     =      127      127      127       97
+EG LEVEL 3     =      124      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0       28        0
+SCALING RD     =        0        0       64        0
+SCALING LC     =     +LIN     -LIN     +EXP     -LIN
+SCALING RC     =     -LIN     +LIN     +LIN     +LIN
+LFO AMD        =        8        4       64       49
+LFO PMD Off/On =       On      Off       On      Off
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =       35       30       30       30
+OUT LEVEL      =      100       18      108       86
+FEEDBACK       =       80       83       46       31
+FB TYPE        = Sawtooth Sawtooth   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0     6.16    12.04     8.08
+   freq coarse =        1        6       12        8
+   freq fine   =        0       16        4        8
+FREQ DETUNE    =        0        0        0        0

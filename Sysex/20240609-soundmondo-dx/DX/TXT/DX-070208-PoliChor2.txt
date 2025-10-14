@@ -1,0 +1,54 @@
+VOICE NAME     = PoliChor2 
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        6
+LFO WAVE       = Sawtooth Down
+LFO SPEED      =      127
+LFO DELAY      =        9
+LFO PMD        =        0
+PEG RATE 1     =       90
+PEG RATE 2     =       81
+PEG RATE 3     =      103
+PEG RATE 4     =      118
+PEG LEVEL 1    =        1
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       81 (Depth)
+FX1 PARAM 2    =       98 (Time)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       76 (Depth)
+FX2 PARAM 2    =       24 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       75      115      100      127
+EG RATE 2      =       54      105       82      105
+EG RATE 3      =       59      111       35       77
+EG RATE 4      =       98       86       81       64
+EG LEVEL 1     =      127      127      127      114
+EG LEVEL 2     =       95       95       59       65
+EG LEVEL 3     =       39       58       57       28
+EG LEVEL 4     =        9       29       27       25
+RATE SCALING   =       81       81       79        0
+SCALING LD     =       71       88       23       10
+SCALING RD     =       71        0       65       15
+SCALING LC     =     +LIN     +EXP     +EXP     -EXP
+SCALING RC     =     +EXP     -EXP     +EXP     +LIN
+LFO AMD        =        0        0       67      121
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       27       44       57       18
+OUT LEVEL      =      127       70      127      100
+FEEDBACK       =       14      101       88       58
+FB TYPE        =   Square Sawtooth   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     3.01      8.0      2.0      2.0
+   freq coarse =        3        8        2        2
+   freq fine   =        1        0        0        0
+FREQ DETUNE    =        0        0        0        0

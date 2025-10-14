@@ -1,0 +1,54 @@
+VOICE NAME     = Vintstrng1
+============================
+TRANSPOSE      =       -2
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        0
+ALGORITHM      =       12
+LFO WAVE       =     Sine
+LFO SPEED      =       66
+LFO DELAY      =        0
+LFO PMD        =        7
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =      100 (Depth)
+FX1 PARAM 2    =       61 (Time)
+FX2 TYPE       =        5 (Phaser)
+FX2 PARAM 1    =       31 (Depth)
+FX2 PARAM 2    =        5 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On      Off       On
+EG RATE 1      =       48       78       68      108
+EG RATE 2      =        7       86      104       29
+EG RATE 3      =      100       80       92      123
+EG RATE 4      =       39       68       27       34
+EG LEVEL 1     =      112        0       62       55
+EG LEVEL 2     =       85       70      110      127
+EG LEVEL 3     =       80       77      103      120
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      120      120      120      120
+FEEDBACK       =       61       14       85      127
+FB TYPE        =   Square   Square   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     1.11      1.1     1.83     2.25
+   freq coarse =        1        1        1        2
+   freq fine   =       11       10       83       25
+FREQ DETUNE    =       21        0      -64        0

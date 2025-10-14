@@ -1,0 +1,54 @@
+VOICE NAME     = SandTube  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        3
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =       91
+LFO DELAY      =        0
+LFO PMD        =       20
+PEG RATE 1     =      127
+PEG RATE 2     =      127
+PEG RATE 3     =      127
+PEG RATE 4     =      127
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =      127 (Depth)
+FX2 PARAM 2    =       68 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127       30      127      127
+EG RATE 2      =       68       44      127      127
+EG RATE 3      =       30       44       11       73
+EG RATE 4      =       60       40       40       50
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       95       95      127       57
+EG LEVEL 3     =        0        0      127        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =       11        0        0        0
+SCALING RD     =       42        0        0        0
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     -EXP     -EXP     -EXP     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       37        0        0       37
+OUT LEVEL      =      101       65      111       97
+FEEDBACK       =       16       80       72       16
+FB TYPE        =   Square   Square   Square   Square
+FREQ MODE      =    Ratio    Ratio    Fixed    Ratio
+RATIO | FREQ   =      1.0    25.95  177.826      8.0
+   freq coarse =        1       25       16        8
+   freq fine   =        0       95       25        0
+FREQ DETUNE    =        0        0        0        0

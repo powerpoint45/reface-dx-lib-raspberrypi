@@ -1,0 +1,54 @@
+VOICE NAME     = RiaPulsey!
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       = Sawtooth Down
+LFO SPEED      =       37
+LFO DELAY      =      106
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =      104 (Depth)
+FX1 PARAM 2    =       51 (Rate)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       64 (Depth)
+FX2 PARAM 2    =       64 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       72      127      126       74
+EG RATE 2      =       21      122      127        0
+EG RATE 3      =       78       86      126        0
+EG RATE 4      =       28      118      127        0
+EG LEVEL 1     =      126       73        0       83
+EG LEVEL 2     =        0        0        0        0
+EG LEVEL 3     =       81        0        0        0
+EG LEVEL 4     =       45        0        0       17
+RATE SCALING   =       90      110       59       94
+SCALING LD     =      101       84       71      127
+SCALING RD     =      106      127      127      127
+SCALING LC     =     -EXP     -EXP     -LIN     +EXP
+SCALING RC     =     -EXP     -EXP     -LIN     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0      105       67       87
+OUT LEVEL      =      106       78       83       94
+FEEDBACK       =      127       56       84       73
+FB TYPE        = Sawtooth   Square   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      2.0      1.0      4.0
+   freq coarse =        1        2        1        4
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       -8        0        0        0

@@ -1,0 +1,54 @@
+VOICE NAME     = OverKill  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       24
+ALGORITHM      =        6
+LFO WAVE       =     Sine
+LFO SPEED      =       32
+LFO DELAY      =       47
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        4 (Flanger)
+FX1 PARAM 1    =       18 (Depth)
+FX1 PARAM 2    =       52 (Rate)
+FX2 TYPE       =        1 (Distortion)
+FX2 PARAM 1    =       87 (Drive)
+FX2 PARAM 2    =        0 (Tone)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       39       70       87        1
+EG RATE 2      =       40      127       46      127
+EG RATE 3      =       32      127       37      127
+EG RATE 4      =       45       40       40       72
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      101      127      121      127
+EG LEVEL 3     =       85      127      102      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0       36        0       50
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     -LIN     +LIN     +LIN
+LFO AMD        =        0       11        3       80
+LFO PMD Off/On =      Off       On      Off       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      100      127       51       43
+FEEDBACK       =        0       11       29       80
+FB TYPE        = Sawtooth   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0     0.83    0.665     2.16
+   freq coarse =        1        0        0        2
+   freq fine   =        0       66       33       16
+FREQ DETUNE    =        0        0        0        0

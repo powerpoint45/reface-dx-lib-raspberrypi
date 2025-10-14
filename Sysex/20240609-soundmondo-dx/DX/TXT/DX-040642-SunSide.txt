@@ -1,0 +1,54 @@
+VOICE NAME     = SunSide   
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        7
+LFO WAVE       = Sawtooth Up
+LFO SPEED      =       82
+LFO DELAY      =       73
+LFO PMD        =       66
+PEG RATE 1     =      115
+PEG RATE 2     =       17
+PEG RATE 3     =      116
+PEG RATE 4     =      117
+PEG LEVEL 1    =      -48
+PEG LEVEL 2    =       19
+PEG LEVEL 3    =      -31
+PEG LEVEL 4    =        1
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       73 (Drive)
+FX1 PARAM 2    =       51 (Tone)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       89 (Depth)
+FX2 PARAM 2    =       66 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       87       82       41       33
+EG RATE 2      =       26       18       19       15
+EG RATE 3      =       38       20       11      116
+EG RATE 4      =       63       37      118       28
+EG LEVEL 1     =      114       81      119       35
+EG LEVEL 2     =       64       19       79       17
+EG LEVEL 3     =       24       32       72       34
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =       68       18       82       33
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =      Off      Off       On      Off
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =       82      107       18      118
+FEEDBACK       =        7       93      107       45
+FB TYPE        = Sawtooth   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      8.0      0.5      9.0      2.0
+   freq coarse =        8        0        9        2
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =      -40       60       12        9

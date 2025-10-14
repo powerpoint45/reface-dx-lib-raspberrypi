@@ -1,0 +1,54 @@
+VOICE NAME     = RefaceJUJY
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       10
+LFO WAVE       = Sample & Hold
+LFO SPEED      =       86
+LFO DELAY      =       48
+LFO PMD        =       16
+PEG RATE 1     =       86
+PEG RATE 2     =       53
+PEG RATE 3     =       51
+PEG RATE 4     =       23
+PEG LEVEL 1    =        5
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       64 (Depth)
+FX1 PARAM 2    =       28 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       46 (Depth)
+FX2 PARAM 2    =       55 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       86       87       88      108
+EG RATE 2      =      127      127      127      127
+EG RATE 3      =      127      127      127      127
+EG RATE 4      =       70       70       70       70
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off      Off       On
+PEG Off/On     =       On       On      Off      Off
+VELO SENS      =       11       11       11       11
+OUT LEVEL      =      127      127      127       42
+FEEDBACK       =      127       86      108       86
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      0.5      1.0      2.0
+   freq coarse =        1        0        1        2
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       10      -10       -5        5

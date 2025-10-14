@@ -1,0 +1,54 @@
+VOICE NAME     = Glass=`~~ 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        3
+LFO WAVE       =     Sine
+LFO SPEED      =       20
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       78 (Depth)
+FX1 PARAM 2    =       20 (Rate)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       80 (Depth)
+FX2 PARAM 2    =       33 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      123      127       39      127
+EG RATE 2      =       63       56       70       65
+EG RATE 3      =       26       30        0       53
+EG RATE 4      =       37       27       53       30
+EG LEVEL 1     =      127       94      127      121
+EG LEVEL 2     =      102       75      100       94
+EG LEVEL 3     =       70       10        0       46
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        4        4        4        4
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       36       34       30       29
+OUT LEVEL      =      115       65       95        6
+FEEDBACK       =        0       42        0       17
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      2.0      6.0     15.0      8.0
+   freq coarse =        2        6       15        8
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

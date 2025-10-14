@@ -1,0 +1,54 @@
+VOICE NAME     = SwampDevil
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =       60
+PB RANGE       =        2
+ALGORITHM      =        9
+LFO WAVE       =     Sine
+LFO SPEED      =       12
+LFO DELAY      =        0
+LFO PMD        =       85
+PEG RATE 1     =       26
+PEG RATE 2     =       20
+PEG RATE 3     =        0
+PEG RATE 4     =        0
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =      127 (Depth)
+FX1 PARAM 2    =       45 (Time)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       99 (Depth)
+FX2 PARAM 2    =        9 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       42       60       49        3
+EG RATE 2      =       16        0       21        2
+EG RATE 3      =        7       11        0       24
+EG RATE 4      =       40       12       46       26
+EG LEVEL 1     =      127      127      127        1
+EG LEVEL 2     =      110       89      107       33
+EG LEVEL 3     =        0       65        0       66
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        3       16        8       18
+SCALING LD     =        0        0        0        0
+SCALING RD     =        5       10        0       30
+SCALING LC     =     -LIN     +LIN     -LIN     +LIN
+SCALING RC     =     -LIN     -LIN     +LIN     -EXP
+LFO AMD        =        0        0        0       77
+LFO PMD Off/On =      Off      Off      Off       On
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =        2        4        6      100
+OUT LEVEL      =      125       80      100      102
+FEEDBACK       =        0        0        0       55
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =    0.755     0.59    0.835      7.0
+   freq coarse =        0        0        0        7
+   freq fine   =       51       18       67        0
+FREQ DETUNE    =        0        8        0        0

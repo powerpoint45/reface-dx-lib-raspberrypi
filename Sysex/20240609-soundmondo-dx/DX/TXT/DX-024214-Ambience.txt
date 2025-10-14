@@ -1,0 +1,54 @@
+VOICE NAME     = Ambience  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       10
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =       29
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       85 (Depth)
+FX1 PARAM 2    =      127 (Time)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =      118 (Depth)
+FX2 PARAM 2    =       15 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       36        0        0       11
+EG RATE 2      =       20       86       38       77
+EG RATE 3      =      127      127        0      127
+EG RATE 4      =       17       60       19        0
+EG LEVEL 1     =       78       89       45       74
+EG LEVEL 2     =      127      127       63      123
+EG LEVEL 3     =      127      127      120      121
+EG LEVEL 4     =        0        0        0        3
+RATE SCALING   =      127       74      127       57
+SCALING LD     =       97       49       62       50
+SCALING RD     =        5       11       26       14
+SCALING LC     =     +LIN     +LIN     +LIN     +EXP
+SCALING RC     =     +LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       17        0        0        0
+OUT LEVEL      =      105       70       87       94
+FEEDBACK       =       58       14       42       35
+FB TYPE        = Sawtooth   Square   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Fixed
+RATIO | FREQ   =      1.0      4.0      1.0    1.288
+   freq coarse =        1        4        1        0
+   freq fine   =        0        0        0       11
+FREQ DETUNE    =        0        0        0        0

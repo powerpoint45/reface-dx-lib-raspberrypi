@@ -1,0 +1,54 @@
+VOICE NAME     = DX Teeth 2
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        1
+PB RANGE       =        2
+ALGORITHM      =        2
+LFO WAVE       = Sawtooth Down
+LFO SPEED      =        4
+LFO DELAY      =       36
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       65
+PEG LEVEL 1    =       21
+PEG LEVEL 2    =       -2
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       77 (Drive)
+FX1 PARAM 2    =       23 (Tone)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =      108 (Depth)
+FX2 PARAM 2    =       13 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      103      127
+EG RATE 2      =       30      127      105      127
+EG RATE 3      =       39       52       45      127
+EG RATE 4      =       51       48       23        0
+EG LEVEL 1     =      122      119      124       11
+EG LEVEL 2     =       79       98      127      127
+EG LEVEL 3     =       50       81      127      102
+EG LEVEL 4     =       87        0        0       36
+RATE SCALING   =       15       94       86       76
+SCALING LD     =       14        4        2        1
+SCALING RD     =       10        8       13        9
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     -LIN     -EXP     -LIN     -LIN
+LFO AMD        =        0        0       19       60
+LFO PMD Off/On =       On       On      Off       On
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =       17       13       80       41
+OUT LEVEL      =      127       20       82       89
+FEEDBACK       =       78      127       25      100
+FB TYPE        = Sawtooth   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     0.54      2.8     0.54      2.8
+   freq coarse =        0        2        0        2
+   freq fine   =        8       80        8       80
+FREQ DETUNE    =        2       -2        0        3

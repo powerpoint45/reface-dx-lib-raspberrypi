@@ -1,0 +1,54 @@
+VOICE NAME     = FMViolStr 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        3
+LFO WAVE       =     Sine
+LFO SPEED      =       86
+LFO DELAY      =       86
+LFO PMD        =       13
+PEG RATE 1     =      127
+PEG RATE 2     =      101
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =        0 (Depth)
+FX1 PARAM 2    =       31 (Time)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       44 (Depth)
+FX2 PARAM 2    =       60 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       93       83       96      110
+EG RATE 2      =       41       36       65       31
+EG RATE 3      =       19       18       57       11
+EG RATE 4      =       87       46       91       64
+EG LEVEL 1     =      127      120      127      127
+EG LEVEL 2     =      114      101       86       89
+EG LEVEL 3     =       84       83       38       68
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        8        8        8        8
+SCALING LD     =        0        0        0        0
+SCALING RD     =        9       13        4        6
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       38       49        0       17
+OUT LEVEL      =      127       68      102       67
+FEEDBACK       =        0        0        0        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      4.0      5.0      3.0
+   freq coarse =        1        4        5        3
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0       -6       -4        1

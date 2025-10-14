@@ -1,0 +1,54 @@
+VOICE NAME     = MaysLead "
+============================
+TRANSPOSE      =       12
+MONO/POLY      = Mono-Full
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       12
+LFO WAVE       =     Sine
+LFO SPEED      =       88
+LFO DELAY      =       51
+LFO PMD        =       10
+PEG RATE 1     =       69
+PEG RATE 2     =       37
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        2
+PEG LEVEL 2    =       -1
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       46 (Depth)
+FX1 PARAM 2    =       59 (Time)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       57 (Depth)
+FX2 PARAM 2    =       27 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      104      109      105       90
+EG RATE 2      =       62       84       73       76
+EG RATE 3      =       29        0       31       22
+EG RATE 4      =      114       95      115      117
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      126      127      125
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        4        4        4        4
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On      Off      Off      Off
+PEG Off/On     =       On      Off      Off       On
+VELO SENS      =       27       30       15       30
+OUT LEVEL      =      127      109      127      127
+FEEDBACK       =       38       31       33       31
+FB TYPE        =   Square   Square   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      1.0      1.0
+   freq coarse =        1        1        1        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       -8        8        7        0

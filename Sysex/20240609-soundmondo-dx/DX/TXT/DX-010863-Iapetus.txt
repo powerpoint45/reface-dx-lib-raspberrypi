@@ -1,0 +1,54 @@
+VOICE NAME     = Iapetus   
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        6
+PB RANGE       =        7
+ALGORITHM      =        4
+LFO WAVE       = Triangle
+LFO SPEED      =       49
+LFO DELAY      =        0
+LFO PMD        =        8
+PEG RATE 1     =      127
+PEG RATE 2     =       32
+PEG RATE 3     =       28
+PEG RATE 4     =       45
+PEG LEVEL 1    =       24
+PEG LEVEL 2    =       -1
+PEG LEVEL 3    =      -24
+PEG LEVEL 4    =      -24
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =      127 (Depth)
+FX1 PARAM 2    =        0 (Rate)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       77 (Depth)
+FX2 PARAM 2    =       38 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       66      110       44      127
+EG RATE 2      =       40       49       24       17
+EG RATE 3      =      127       15       13       17
+EG RATE 4      =       59       39       34       28
+EG LEVEL 1     =       92       30       30        0
+EG LEVEL 2     =      127       14      100       80
+EG LEVEL 3     =      127      110      127       80
+EG LEVEL 4     =        0      127      127      127
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        4        7
+SCALING RD     =        2        9        4       64
+SCALING LC     =     -LIN     -LIN     +LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -EXP     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off       On       On       On
+PEG Off/On     =       On      Off      Off       On
+VELO SENS      =       10       21       30       30
+OUT LEVEL      =      117       65       75       61
+FEEDBACK       =        0       56       55       76
+FB TYPE        = Sawtooth   Square   Square Sawtooth
+FREQ MODE      =    Fixed    Ratio    Ratio    Fixed
+RATIO | FREQ   =    3.715      5.0      2.0 6606.726
+   freq coarse =        4        5        2       31
+   freq fine   =       57        0        0       82
+FREQ DETUNE    =        0        0        0       -7

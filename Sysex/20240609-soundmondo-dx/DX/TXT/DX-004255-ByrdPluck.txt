@@ -1,0 +1,54 @@
+VOICE NAME     = ByrdPluck 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       12
+ALGORITHM      =       12
+LFO WAVE       = Sample & Hold
+LFO SPEED      =       50
+LFO DELAY      =       50
+LFO PMD        =        6
+PEG RATE 1     =      127
+PEG RATE 2     =       53
+PEG RATE 3     =       57
+PEG RATE 4     =       75
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =       -7
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =      -10
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       30 (Depth)
+FX1 PARAM 2    =       30 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       80 (Depth)
+FX2 PARAM 2    =       80 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127       30       72       80
+EG RATE 2      =      127       62      127       45
+EG RATE 3      =       60      127      127      127
+EG RATE 4      =       70       60      127       60
+EG LEVEL 1     =      127       40      127       61
+EG LEVEL 2     =      120      127        0      127
+EG LEVEL 3     =        0      127        0      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       59        0      127        0
+SCALING LD     =      100        0      127        0
+SCALING RD     =      100        0      110        0
+SCALING LC     =     +EXP     -LIN     -EXP     -LIN
+SCALING RC     =     -EXP     -LIN     +EXP     +LIN
+LFO AMD        =        0       20        0       40
+LFO PMD Off/On =      Off      Off      Off       On
+PEG Off/On     =       On      Off       On      Off
+VELO SENS      =      110       56      120        0
+OUT LEVEL      =       26      115       35       70
+FEEDBACK       =       73        0        0       20
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Fixed    Ratio    Fixed    Ratio
+RATIO | FREQ   =  524.793      1.0 2570.355      1.5
+   freq coarse =       23        1       28        1
+   freq fine   =       72        0       41       50
+FREQ DETUNE    =        0        0        0        0

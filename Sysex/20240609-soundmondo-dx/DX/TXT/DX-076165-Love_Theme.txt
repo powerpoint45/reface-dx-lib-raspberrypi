@@ -1,0 +1,54 @@
+VOICE NAME     = Love Theme
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        7
+LFO WAVE       =     Sine
+LFO SPEED      =        6
+LFO DELAY      =       53
+LFO PMD        =        0
+PEG RATE 1     =        1
+PEG RATE 2     =        0
+PEG RATE 3     =        0
+PEG RATE 4     =      106
+PEG LEVEL 1    =       18
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =      -15
+PEG LEVEL 4    =       -1
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =      117 (Depth)
+FX1 PARAM 2    =       79 (Time)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       73      127      127       66
+EG RATE 2      =       29      101       98      120
+EG RATE 3      =        0       92      127       73
+EG RATE 4      =       30       30       15        8
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       70      124       65      109
+EG LEVEL 3     =       85      108       59       57
+EG LEVEL 4     =        0        4       16       15
+RATE SCALING   =        0        0       80       39
+SCALING LD     =       28       40        0      103
+SCALING RD     =       10        0        3       97
+SCALING LC     =     -EXP     -LIN     -LIN     -LIN
+SCALING RC     =     +EXP     +EXP     +EXP     +LIN
+LFO AMD        =        0      127       78      111
+LFO PMD Off/On =      Off       On       On      Off
+PEG Off/On     =      Off      Off       On       On
+VELO SENS      =        0        0        0       30
+OUT LEVEL      =      127      108       58      127
+FEEDBACK       =       29       71        0      127
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Fixed    Ratio
+RATIO | FREQ   =      1.0      1.0 8511.076      1.0
+   freq coarse =        1        1       25        1
+   freq fine   =        0        0       93        0
+FREQ DETUNE    =        0        0        0        5

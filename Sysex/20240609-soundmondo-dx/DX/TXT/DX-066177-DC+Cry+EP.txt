@@ -1,0 +1,54 @@
+VOICE NAME     = DC+Cry+EP 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        0
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       94
+LFO DELAY      =       37
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        1
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       16 (Depth)
+FX1 PARAM 2    =       60 (Rate)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       54 (Depth)
+FX2 PARAM 2    =       52 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      108      127      127      127
+EG RATE 2      =      114      127      127      127
+EG RATE 3      =       36       42       42       42
+EG RATE 4      =       59       66       69       66
+EG LEVEL 1     =       84      127       77      127
+EG LEVEL 2     =      125      101      127      127
+EG LEVEL 3     =      125      125      105       37
+EG LEVEL 4     =        1        1        0        0
+RATE SCALING   =        5        5        4        0
+SCALING LD     =       10        5        0      127
+SCALING RD     =       20       10        5      127
+SCALING LC     =     +EXP     +LIN     -LIN     -EXP
+SCALING RC     =     +EXP     -EXP     -EXP     +EXP
+LFO AMD        =       20       60       50       50
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On      Off      Off       On
+VELO SENS      =       35       25       18       28
+OUT LEVEL      =      125       87       77       48
+FEEDBACK       =       67       44       39      126
+FB TYPE        = Sawtooth Sawtooth   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Fixed
+RATIO | FREQ   =     1.01     4.05     6.04   9772.0
+   freq coarse =        1        4        6       24
+   freq fine   =        1        5        4       99
+FREQ DETUNE    =        2        1       -1        4

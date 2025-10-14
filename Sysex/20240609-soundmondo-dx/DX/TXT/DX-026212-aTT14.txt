@@ -1,0 +1,54 @@
+VOICE NAME     = aTT14     
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        5
+LFO WAVE       = Sample & Hold
+LFO SPEED      =      121
+LFO DELAY      =      126
+LFO PMD        =        0
+PEG RATE 1     =       96
+PEG RATE 2     =        0
+PEG RATE 3     =        0
+PEG RATE 4     =        0
+PEG LEVEL 1    =      -48
+PEG LEVEL 2    =       48
+PEG LEVEL 3    =       48
+PEG LEVEL 4    =      -14
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       43 (Depth)
+FX1 PARAM 2    =       64 (Time)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =      121 (Depth)
+FX2 PARAM 2    =      121 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      120      127      127      119
+EG RATE 2      =      127      127      127       73
+EG RATE 3      =       69      127       65        0
+EG RATE 4      =       80      100       88      122
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =        0      127        0        0
+EG LEVEL 4     =       79      127        0        0
+RATE SCALING   =       63        0        0        0
+SCALING LD     =      114       47       10       10
+SCALING RD     =       19       52       20        0
+SCALING LC     =     -EXP     -LIN     +LIN     +LIN
+SCALING RC     =     -EXP     -LIN     -EXP     -LIN
+LFO AMD        =      115       73      127       66
+LFO PMD Off/On =      Off       On       On      Off
+PEG Off/On     =       On       On      Off      Off
+VELO SENS      =        0       41       25       35
+OUT LEVEL      =      126        2       50       79
+FEEDBACK       =       31       58       48        1
+FB TYPE        =   Square Sawtooth   Square   Square
+FREQ MODE      =    Fixed    Fixed    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0    31.99     3.92
+   freq coarse =        1        0       31        3
+   freq fine   =        0        0       99       92
+FREQ DETUNE    =        0       12        0      -32

@@ -1,0 +1,54 @@
+VOICE NAME     = Wurlitzer5
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        5
+LFO WAVE       =     Sine
+LFO SPEED      =       86
+LFO DELAY      =        0
+LFO PMD        =        7
+PEG RATE 1     =      127
+PEG RATE 2     =       67
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       27 (Depth)
+FX1 PARAM 2    =       93 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       84 (Depth)
+FX2 PARAM 2    =       39 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      114      114      113      114
+EG RATE 2      =       79      120       94       82
+EG RATE 3      =       44       49       12        0
+EG RATE 4      =       60       50       56       65
+EG LEVEL 1     =       94      115      105      115
+EG LEVEL 2     =       95      105      102        0
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       84       63       63       21
+SCALING LD     =        0        0       42        0
+SCALING RD     =        0       46        0       63
+SCALING LC     =     -LIN     -LIN     +LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =       29        5        5        0
+LFO PMD Off/On =       On      Off      Off      Off
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =       42       42       42      127
+OUT LEVEL      =      127       69       70       25
+FEEDBACK       =        0        0       15        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      2.0      1.0      6.0
+   freq coarse =        1        2        1        6
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

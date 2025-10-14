@@ -1,0 +1,54 @@
+VOICE NAME     = Scpture 2 
+============================
+TRANSPOSE      =      -24
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       12
+LFO WAVE       =     Sine
+LFO SPEED      =       85
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        4 (Flanger)
+FX1 PARAM 1    =        2 (Depth)
+FX1 PARAM 2    =       37 (Rate)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       71 (Depth)
+FX2 PARAM 2    =       42 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =        0        0        0        9
+EG RATE 3      =        0        0        0        0
+EG RATE 4      =       87       73      107       48
+EG LEVEL 1     =      127      127      113      116
+EG LEVEL 2     =       79       79       81       93
+EG LEVEL 3     =       64       69       61       81
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =       34       15       18       16
+SCALING RD     =       52       10        1        4
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     +LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       40       40       57       65
+OUT LEVEL      =       57      105      100      127
+FEEDBACK       =       93       31       27       87
+FB TYPE        =   Square   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5      2.0      7.0     14.0
+   freq coarse =        0        2        7       14
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

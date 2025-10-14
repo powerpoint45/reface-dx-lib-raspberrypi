@@ -1,0 +1,54 @@
+VOICE NAME     = The 1 B D 
+============================
+TRANSPOSE      =      -12
+MONO/POLY      = Mono-Full
+PORTA TIME     =        0
+PB RANGE       =       12
+ALGORITHM      =        1
+LFO WAVE       =     Sine
+LFO SPEED      =       94
+LFO DELAY      =       54
+LFO PMD        =        0
+PEG RATE 1     =      127
+PEG RATE 2     =      100
+PEG RATE 3     =       60
+PEG RATE 4     =       64
+PEG LEVEL 1    =       31
+PEG LEVEL 2    =       14
+PEG LEVEL 3    =      -10
+PEG LEVEL 4    =      -10
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =      127 (---)
+FX1 PARAM 2    =       42 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       49 (---)
+FX2 PARAM 2    =       67 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On      Off      Off
+EG RATE 1      =      127      109      127      127
+EG RATE 2      =        3      127      127       11
+EG RATE 3      =       18       99        1      127
+EG RATE 4      =      127       43       90       68
+EG LEVEL 1     =      127        0        0      127
+EG LEVEL 2     =       43        0      127      101
+EG LEVEL 3     =       23        0       37       52
+EG LEVEL 4     =        0      127        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =       30        0       55        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -EXP     -LIN     +LIN
+LFO AMD        =        0        0      127      127
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On      Off      Off      Off
+VELO SENS      =        0        0       70        0
+OUT LEVEL      =      127      110       90      103
+FEEDBACK       =        0       15        1        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Fixed    Ratio
+RATIO | FREQ   =      0.5      2.0 4466.724     6.84
+   freq coarse =        0        2       30        6
+   freq fine   =        0        0       65       84
+FREQ DETUNE    =        0        0        0        0

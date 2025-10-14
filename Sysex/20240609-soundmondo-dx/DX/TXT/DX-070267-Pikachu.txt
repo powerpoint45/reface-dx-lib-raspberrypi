@@ -1,0 +1,54 @@
+VOICE NAME     = Ronin-Wan 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       10
+LFO WAVE       =     Sine
+LFO SPEED      =        0
+LFO DELAY      =        0
+LFO PMD        =        1
+PEG RATE 1     =      122
+PEG RATE 2     =      111
+PEG RATE 3     =       73
+PEG RATE 4     =       65
+PEG LEVEL 1    =       41
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =       12
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       87       72      127      127
+EG RATE 2      =       14       77       32      127
+EG RATE 3      =       72       60       64      127
+EG RATE 4      =      110       70       84       70
+EG LEVEL 1     =      127      126       84      127
+EG LEVEL 2     =       76       91      127      127
+EG LEVEL 3     =       63       67       75      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0       90        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0      127        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     -LIN     +LIN
+LFO AMD        =       75       34       25       48
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off      Off      Off       On
+VELO SENS      =       25       88       25       46
+OUT LEVEL      =      104       89       92      100
+FEEDBACK       =       52       82       23       62
+FB TYPE        =   Square Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      2.0      5.0     10.0
+   freq coarse =        1        2        5       10
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

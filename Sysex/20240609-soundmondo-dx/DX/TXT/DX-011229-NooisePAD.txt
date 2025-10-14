@@ -1,0 +1,54 @@
+VOICE NAME     = NooisePAD 
+============================
+TRANSPOSE      =      -24
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       = Sawtooth Down
+LFO SPEED      =        0
+LFO DELAY      =       75
+LFO PMD        =        0
+PEG RATE 1     =       51
+PEG RATE 2     =       35
+PEG RATE 3     =       48
+PEG RATE 4     =       26
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        1
+PEG LEVEL 3    =        3
+PEG LEVEL 4    =        3
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       49 (---)
+FX1 PARAM 2    =       43 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       75 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      108       79       72       73
+EG RATE 2      =       56       52       52       52
+EG RATE 3      =       24       50       50       22
+EG RATE 4      =       72       60       60       60
+EG LEVEL 1     =      127       70       80       81
+EG LEVEL 2     =      127      127      127      121
+EG LEVEL 3     =      127       50       50       50
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        4        4        4        4
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0       58        3        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       54        0        0        0
+OUT LEVEL      =       81       94      101      105
+FEEDBACK       =       85       78       90       78
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5      2.0      1.0      1.0
+   freq coarse =        0        2        1        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

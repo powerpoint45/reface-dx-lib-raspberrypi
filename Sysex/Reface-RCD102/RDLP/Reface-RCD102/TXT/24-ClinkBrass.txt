@@ -1,0 +1,54 @@
+VOICE NAME     = ClinkBrass
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       = Triangle
+LFO SPEED      =       27
+LFO DELAY      =        0
+LFO PMD        =       10
+PEG RATE 1     =      127
+PEG RATE 2     =      127
+PEG RATE 3     =      127
+PEG RATE 4     =      127
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       81 (Depth)
+FX2 PARAM 2    =       92 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      106      127      127
+EG RATE 2      =       65      121       88      107
+EG RATE 3      =       41       32       55       55
+EG RATE 4      =       85       46       94       66
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       82       57       28        8
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       43       43       43       43
+SCALING LD     =       18       18        3        0
+SCALING RD     =       68       68       12        0
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     -EXP     -EXP     -EXP     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0       53       45       37
+OUT LEVEL      =      114      114      107      127
+FEEDBACK       =       64       16       32      112
+FB TYPE        = Sawtooth   Square Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Fixed
+RATIO | FREQ   =      1.0      1.0      8.0 6606.726
+   freq coarse =        1        1        8       24
+   freq fine   =        0        0        0       82
+FREQ DETUNE    =       -1        1        4        0

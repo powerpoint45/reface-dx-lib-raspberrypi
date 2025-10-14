@@ -1,0 +1,54 @@
+VOICE NAME     = ReversePad
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       67
+LFO DELAY      =       35
+LFO PMD        =        7
+PEG RATE 1     =       18
+PEG RATE 2     =       60
+PEG RATE 3     =       94
+PEG RATE 4     =       60
+PEG LEVEL 1    =       -2
+PEG LEVEL 2    =        1
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       39       35       29       37
+EG RATE 2      =       21       29       56       50
+EG RATE 3      =       45        0       25       46
+EG RATE 4      =       23        0       21       38
+EG LEVEL 1     =      114       78      114       71
+EG LEVEL 2     =      127      103      127      100
+EG LEVEL 3     =      113       81      112       84
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =       10       10       15       15
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0       10       30       10
+OUT LEVEL      =       99       92       99       84
+FEEDBACK       =        0        0        0        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0     1.02     2.02     2.04
+   freq coarse =        1        1        2        2
+   freq fine   =        0        2        2        4
+FREQ DETUNE    =        0        0        1       -1

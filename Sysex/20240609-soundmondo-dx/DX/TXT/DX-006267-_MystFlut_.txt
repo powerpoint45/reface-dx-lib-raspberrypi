@@ -1,0 +1,54 @@
+VOICE NAME     = \MystFlut\
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       66
+LFO DELAY      =       57
+LFO PMD        =       12
+PEG RATE 1     =      127
+PEG RATE 2     =      127
+PEG RATE 3     =      127
+PEG RATE 4     =      127
+PEG LEVEL 1    =       48
+PEG LEVEL 2    =      -48
+PEG LEVEL 3    =      -48
+PEG LEVEL 4    =      -48
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       38 (Drive)
+FX1 PARAM 2    =      109 (Tone)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       59 (Depth)
+FX2 PARAM 2    =       88 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      102       81       67      127
+EG RATE 2      =       66       97       92       51
+EG RATE 3      =        0      127       57      127
+EG RATE 4      =       66       83       48      127
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127        0
+EG LEVEL 3     =       68      127      127        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =       34        0        0        0
+SCALING RD     =       39        0        0        0
+SCALING LC     =     +LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off      Off      Off       On
+VELO SENS      =       43       90       56       65
+OUT LEVEL      =      127       61       53       35
+FEEDBACK       =       15       78       29      127
+FB TYPE        = Sawtooth Sawtooth   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      2.0      2.0     10.0
+   freq coarse =        1        2        2       10
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        6        0        0       -6

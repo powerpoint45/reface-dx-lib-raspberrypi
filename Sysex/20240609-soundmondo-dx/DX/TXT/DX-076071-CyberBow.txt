@@ -1,0 +1,54 @@
+VOICE NAME     = CyberBow  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        4
+LFO WAVE       =     Sine
+LFO SPEED      =       82
+LFO DELAY      =      109
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       10 (Depth)
+FX1 PARAM 2    =       85 (Rate)
+FX2 TYPE       =        4 (Flanger)
+FX2 PARAM 1    =        6 (Depth)
+FX2 PARAM 2    =       47 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       54       48      127       64
+EG RATE 2      =       63      127      118       67
+EG RATE 3      =      127      127        1       21
+EG RATE 4      =       65       50       65        1
+EG LEVEL 1     =      115      127      121       33
+EG LEVEL 2     =      127      127       36      127
+EG LEVEL 3     =      127      127        8       50
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0       59        0
+SCALING LD     =        0        0      127        0
+SCALING RD     =        0        0      126        0
+SCALING LC     =     -LIN     -LIN     +LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off       On      Off      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0       78        0        0
+OUT LEVEL      =      100       96       86       88
+FEEDBACK       =       20        0       72        1
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      4.0      0.5
+   freq coarse =        1        1        4        0
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        1        0        0        0

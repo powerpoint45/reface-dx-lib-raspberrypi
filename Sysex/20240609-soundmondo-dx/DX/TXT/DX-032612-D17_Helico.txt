@@ -1,0 +1,54 @@
+VOICE NAME     = D17 Helico
+============================
+TRANSPOSE      =        0
+MONO/POLY      = Mono-Legato
+PORTA TIME     =        2
+PB RANGE       =        2
+ALGORITHM      =        6
+LFO WAVE       =     Sine
+LFO SPEED      =       94
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        4 (Flanger)
+FX1 PARAM 1    =       12 (Depth)
+FX1 PARAM 2    =        6 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       36 (Depth)
+FX2 PARAM 2    =       42 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       40       40       40       40
+EG RATE 2      =      127      127      127      127
+EG RATE 3      =      127      127      127      127
+EG RATE 4      =       95       50       50       50
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =      127        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =      122       80      120      127
+LFO PMD Off/On =      Off       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =       63       86      102      124
+FEEDBACK       =        2       50      127      127
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Fixed    Ratio    Fixed    Ratio
+RATIO | FREQ   = 4677.231      1.0  446.672     4.99
+   freq coarse =       26        1       21        4
+   freq fine   =       67        0       65       99
+FREQ DETUNE    =        0        0        0        0

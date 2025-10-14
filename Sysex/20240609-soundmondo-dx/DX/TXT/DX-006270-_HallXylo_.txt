@@ -1,0 +1,54 @@
+VOICE NAME     = \HallXylo\
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =       30
+PB RANGE       =        2
+ALGORITHM      =        9
+LFO WAVE       = Sample & Hold
+LFO SPEED      =      127
+LFO DELAY      =        0
+LFO PMD        =        6
+PEG RATE 1     =      127
+PEG RATE 2     =      127
+PEG RATE 3     =      127
+PEG RATE 4     =      127
+PEG LEVEL 1    =        4
+PEG LEVEL 2    =       -4
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       54 (Depth)
+FX1 PARAM 2    =        2 (Time)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       79 (Depth)
+FX2 PARAM 2    =       90 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       75      116      125       86
+EG RATE 3      =       79      126       94       85
+EG RATE 4      =       91      101      101       87
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127       69       88       73
+EG LEVEL 3     =       30       30       30       29
+EG LEVEL 4     =       30       30       30       33
+RATE SCALING   =        0        0        0        0
+SCALING LD     =      126       85       52       27
+SCALING RD     =        0        0        0        0
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0       12
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off       On       On       On
+VELO SENS      =        8       48       51       71
+OUT LEVEL      =      127       85       91       60
+FEEDBACK       =        0        0        0       32
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      3.0      4.0     2.09     9.04
+   freq coarse =        3        4        2        9
+   freq fine   =        0        0        9        4
+FREQ DETUNE    =        5       -5        0        0

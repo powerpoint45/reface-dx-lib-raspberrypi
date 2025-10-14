@@ -1,0 +1,54 @@
+VOICE NAME     = Larymba   
+============================
+TRANSPOSE      =       12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        5
+ALGORITHM      =       12
+LFO WAVE       =     Sine
+LFO SPEED      =        3
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =      120
+PEG RATE 2     =      127
+PEG RATE 3     =      127
+PEG RATE 4     =      126
+PEG LEVEL 1    =        9
+PEG LEVEL 2    =       -9
+PEG LEVEL 3    =       -7
+PEG LEVEL 4    =       -9
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       63 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       63 (---)
+FX2 PARAM 2    =       60 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      120      107        4       44
+EG RATE 2      =      120       36       36      120
+EG RATE 3      =      100        0       63      127
+EG RATE 4      =       63       63       63       63
+EG LEVEL 1     =      127      127      120      120
+EG LEVEL 2     =      127       63        0        0
+EG LEVEL 3     =      127      120      120      120
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       44        2       36       60
+SCALING LD     =      100      100       63      120
+SCALING RD     =      100       63        0       36
+SCALING LC     =     +LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0       27       84       84
+OUT LEVEL      =      120       83       54       44
+FEEDBACK       =        0        0        4       37
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =    0.805     1.33      2.0      4.0
+   freq coarse =        0        1        2        4
+   freq fine   =       61       33        0        0
+FREQ DETUNE    =        1       -1        1       -2

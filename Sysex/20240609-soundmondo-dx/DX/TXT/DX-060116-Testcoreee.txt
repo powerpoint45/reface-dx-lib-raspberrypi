@@ -1,0 +1,54 @@
+VOICE NAME     = Testcoreee
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       -5
+ALGORITHM      =        1
+LFO WAVE       = Triangle
+LFO SPEED      =       84
+LFO DELAY      =       94
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       70 (Depth)
+FX1 PARAM 2    =      117 (Rate)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       88 (Depth)
+FX2 PARAM 2    =       83 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On      Off      Off
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       50      112       89       61
+EG RATE 3      =       19       40       31       98
+EG RATE 4      =       62       64       77       26
+EG LEVEL 1     =      108      126      108      105
+EG LEVEL 2     =       72      113       87      100
+EG LEVEL 3     =       31       41       52       59
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        5       13        0        0
+SCALING RD     =       24        0        0        0
+SCALING LC     =     +LIN     +LIN     -LIN     -LIN
+SCALING RC     =     +LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       41       40       57       65
+OUT LEVEL      =      117       90       85      100
+FEEDBACK       =       11        0        4       10
+FB TYPE        = Sawtooth Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      2.0      1.0      2.0
+   freq coarse =        1        2        1        2
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       63        0        0        0

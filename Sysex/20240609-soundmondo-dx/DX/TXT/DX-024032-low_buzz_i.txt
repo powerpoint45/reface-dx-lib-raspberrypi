@@ -1,0 +1,54 @@
+VOICE NAME     = low buzz i
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =      100
+PB RANGE       =        1
+ALGORITHM      =        6
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =        8
+LFO DELAY      =      109
+LFO PMD        =        0
+PEG RATE 1     =       18
+PEG RATE 2     =       12
+PEG RATE 3     =      101
+PEG RATE 4     =       64
+PEG LEVEL 1    =       28
+PEG LEVEL 2    =       25
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       72 (Depth)
+FX1 PARAM 2    =      100 (Time)
+FX2 TYPE       =        1 (Distortion)
+FX2 PARAM 1    =       53 (Drive)
+FX2 PARAM 2    =       20 (Tone)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       87      108       91      107
+EG RATE 2      =       44       85       41       82
+EG RATE 3      =       44       40      116       98
+EG RATE 4      =       29       17       86        4
+EG LEVEL 1     =       56      111       54      127
+EG LEVEL 2     =       41      127       51       60
+EG LEVEL 3     =      100       18       42        2
+EG LEVEL 4     =       32      108       95       95
+RATE SCALING   =       72        0       50       74
+SCALING LD     =       21      106       42       47
+SCALING RD     =       17      105      105       79
+SCALING LC     =     -LIN     +LIN     +EXP     -EXP
+SCALING RC     =     +LIN     +LIN     +EXP     -LIN
+LFO AMD        =        0        0       17      100
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off       On       On       On
+VELO SENS      =       47       98       14       11
+OUT LEVEL      =      127      127       96       93
+FEEDBACK       =       98       42       21       43
+FB TYPE        = Sawtooth   Square Sawtooth   Square
+FREQ MODE      =    Fixed    Fixed    Fixed    Ratio
+RATIO | FREQ   =    97.72    2.344      1.0      0.5
+   freq coarse =       14        6        1        0
+   freq fine   =       99       37        0        0
+FREQ DETUNE    =       53        0        0        0

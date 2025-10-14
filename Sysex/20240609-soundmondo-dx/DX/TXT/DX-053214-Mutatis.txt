@@ -1,0 +1,54 @@
+VOICE NAME     = Mutatis   
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        4
+LFO WAVE       = Sawtooth Up
+LFO SPEED      =       65
+LFO DELAY      =      127
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       95 (Depth)
+FX1 PARAM 2    =       35 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       85 (Depth)
+FX2 PARAM 2    =       80 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       35       35       30       20
+EG RATE 2      =       48       48       47      127
+EG RATE 3      =       35       35       17      127
+EG RATE 4      =       50       50       60       50
+EG LEVEL 1     =      127      110      120      127
+EG LEVEL 2     =       80       80       50      127
+EG LEVEL 3     =      127      120       90      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0       15       35       35
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     -LIN     -LIN     -LIN
+LFO AMD        =       20       40       10       30
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =       80       65       80       60
+FEEDBACK       =       40        0        0       40
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      2.0      2.0
+   freq coarse =        1        1        2        2
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       -1        1        1       -1

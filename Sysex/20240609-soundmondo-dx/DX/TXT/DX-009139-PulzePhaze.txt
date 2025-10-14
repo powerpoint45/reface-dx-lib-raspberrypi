@@ -1,0 +1,54 @@
+VOICE NAME     = PulzePhaze
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        3
+PB RANGE       =        2
+ALGORITHM      =        3
+LFO WAVE       = Triangle
+LFO SPEED      =       83
+LFO DELAY      =       52
+LFO PMD        =        0
+PEG RATE 1     =       86
+PEG RATE 2     =       85
+PEG RATE 3     =       36
+PEG RATE 4     =       36
+PEG LEVEL 1    =        1
+PEG LEVEL 2    =       -1
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        5 (Phaser)
+FX1 PARAM 1    =      116 (Depth)
+FX1 PARAM 2    =       32 (Rate)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       20 (Depth)
+FX2 PARAM 2    =       59 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      106      106      101      100
+EG RATE 2      =       50       40       96       97
+EG RATE 3      =       30       30       68       68
+EG RATE 4      =       81       81       82       82
+EG LEVEL 1     =      127      127      120      120
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      127      100      100
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       12       12        6        6
+SCALING LD     =       14        7        4        4
+SCALING RD     =        2        2        5        5
+SCALING LC     =     +LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -EXP     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off       On       On
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =        3       10       21       35
+OUT LEVEL      =      120       65       87       88
+FEEDBACK       =        0        0       91       81
+FB TYPE        = Sawtooth   Square   Square Sawtooth
+FREQ MODE      =    Fixed    Fixed    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      2.0      1.0
+   freq coarse =        0        1        2        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0      -64        2       -2

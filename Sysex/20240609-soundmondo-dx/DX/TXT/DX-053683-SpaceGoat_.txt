@@ -1,0 +1,54 @@
+VOICE NAME     = SpaceGoat!
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        7
+PB RANGE       =        2
+ALGORITHM      =        1
+LFO WAVE       =     Sine
+LFO SPEED      =       19
+LFO DELAY      =       70
+LFO PMD        =       18
+PEG RATE 1     =      115
+PEG RATE 2     =       17
+PEG RATE 3     =       65
+PEG RATE 4     =      117
+PEG LEVEL 1    =      -48
+PEG LEVEL 2    =        2
+PEG LEVEL 3    =       48
+PEG LEVEL 4    =      -46
+FX1 TYPE       =        2 (Touch Wah)
+FX1 PARAM 1    =      102 (Sensibility)
+FX1 PARAM 2    =      120 (Rez)
+FX2 TYPE       =        5 (Phaser)
+FX2 PARAM 1    =      102 (Depth)
+FX2 PARAM 2    =       18 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       13      124      127       85
+EG RATE 2      =       38       82      127      115
+EG RATE 3      =       63       18      125       84
+EG RATE 4      =      111       33      117       16
+EG LEVEL 1     =       88       81       81       35
+EG LEVEL 2     =      112      117       70       17
+EG LEVEL 3     =       12       34       23       34
+EG LEVEL 4     =       39       67       24       14
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =       34      118       67      117
+LFO PMD Off/On =       On      Off       On      Off
+PEG Off/On     =       On       On      Off       On
+VELO SENS      =       36       36       36       36
+OUT LEVEL      =      117      126       34       17
+FEEDBACK       =      106       56       55        6
+FB TYPE        = Sawtooth   Square   Square   Square
+FREQ MODE      =    Ratio    Ratio    Fixed    Ratio
+RATIO | FREQ   =     7.37    0.675    1.413     2.16
+   freq coarse =        7        0        2        2
+   freq fine   =       37       35       15       16
+FREQ DETUNE    =       55       60       12      -36

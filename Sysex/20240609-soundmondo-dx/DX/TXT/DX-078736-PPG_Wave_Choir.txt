@@ -1,0 +1,54 @@
+VOICE NAME     = PPG Choir 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       24
+ALGORITHM      =        9
+LFO WAVE       = Triangle
+LFO SPEED      =       38
+LFO DELAY      =        0
+LFO PMD        =        9
+PEG RATE 1     =       36
+PEG RATE 2     =       39
+PEG RATE 3     =      113
+PEG RATE 4     =        0
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =      -40
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =        0 (Drive)
+FX1 PARAM 2    =      127 (Tone)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       65 (Depth)
+FX2 PARAM 2    =       93 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      104
+EG RATE 2      =       80       80       80      108
+EG RATE 3      =       72       72       72       85
+EG RATE 4      =       55       55       55       48
+EG LEVEL 1     =        0        0        0       56
+EG LEVEL 2     =       25       25       25       81
+EG LEVEL 3     =       56       56       56       64
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =      127      127        0        0
+SCALING RD     =       13      127      117      127
+SCALING LC     =     -LIN     +LIN     -LIN     +EXP
+SCALING RC     =     -LIN     +LIN     -LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      110       83      100       81
+FEEDBACK       =       36       58       80        3
+FB TYPE        =   Square   Square   Square   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     4.02     4.99      2.0      1.0
+   freq coarse =        4        4        2        1
+   freq fine   =        2       99        0        0
+FREQ DETUNE    =        0       -5        0        0

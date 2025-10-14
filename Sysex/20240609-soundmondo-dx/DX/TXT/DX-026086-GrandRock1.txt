@@ -1,0 +1,54 @@
+VOICE NAME     = GrandRock1
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       12
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =      127
+LFO DELAY      =       80
+LFO PMD        =        0
+PEG RATE 1     =        0
+PEG RATE 2     =        0
+PEG RATE 3     =        0
+PEG RATE 4     =        0
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       30 (---)
+FX1 PARAM 2    =      100 (---)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       58 (Depth)
+FX2 PARAM 2    =       10 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       80       60       40       40
+EG RATE 3      =       80       60       40       40
+EG RATE 4      =       60       60       60       60
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127        0        0
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       60       60       80       80
+SCALING LD     =      120      120      120      120
+SCALING RD     =       20       20       20       20
+SCALING LC     =     +EXP     +EXP     +EXP     +EXP
+SCALING RC     =     -EXP     -EXP     +EXP     +EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =       40       40       40       40
+OUT LEVEL      =      120      120      110      110
+FEEDBACK       =       70       70       60       60
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      0.5      0.5
+   freq coarse =        1        1        0        0
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        3       -3        3       -3

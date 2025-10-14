@@ -1,0 +1,54 @@
+VOICE NAME     = Lil' Build
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        6
+LFO WAVE       =     Sine
+LFO SPEED      =       45
+LFO DELAY      =       27
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        1
+PEG LEVEL 2    =        1
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =      107 (---)
+FX1 PARAM 2    =       71 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       54      127        0      127
+EG RATE 2      =       71      127       25      127
+EG RATE 3      =       61      127        0      127
+EG RATE 4      =       86      100      127      100
+EG LEVEL 1     =       78      127      127      127
+EG LEVEL 2     =      119      127      127      127
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0       37
+SCALING LD     =        0        0        0       49
+SCALING RD     =        0        0        0      127
+SCALING LC     =     -LIN     -LIN     -LIN     -EXP
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =       46       83       89      127
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0       35        0
+OUT LEVEL      =      118       82       86      119
+FEEDBACK       =       30       30       22       92
+FB TYPE        =   Square   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      0.5     3.08     2.01
+   freq coarse =        1        0        3        2
+   freq fine   =        0        0        8        1
+FREQ DETUNE    =        0        0        0        0

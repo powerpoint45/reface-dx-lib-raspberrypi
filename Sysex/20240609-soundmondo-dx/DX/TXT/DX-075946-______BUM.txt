@@ -1,0 +1,54 @@
+VOICE NAME     = "   " BUM 
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       15
+LFO DELAY      =       28
+LFO PMD        =        0
+PEG RATE 1     =       72
+PEG RATE 2     =       69
+PEG RATE 3     =      120
+PEG RATE 4     =        9
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =      -12
+PEG LEVEL 4    =       12
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       48 (Depth)
+FX1 PARAM 2    =       88 (Time)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =      113 (Depth)
+FX2 PARAM 2    =      117 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       49       97       69      109
+EG RATE 2      =       58       34       26       41
+EG RATE 3      =       53       20       36       40
+EG RATE 4      =       52       47       74       16
+EG LEVEL 1     =      127       41       57       20
+EG LEVEL 2     =      110      114       74      127
+EG LEVEL 3     =       85       71       97       91
+EG LEVEL 4     =        0        0       57       16
+RATE SCALING   =       29       19        0        0
+SCALING LD     =        0        0       24        0
+SCALING RD     =        0       50       58       50
+SCALING LC     =     -LIN     +LIN     +EXP     -LIN
+SCALING RC     =     -LIN     -LIN     +EXP     -LIN
+LFO AMD        =       43       23      103       44
+LFO PMD Off/On =       On      Off      Off      Off
+PEG Off/On     =      Off       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      127      100       18       73
+FEEDBACK       =       91      124       49       58
+FB TYPE        = Sawtooth   Square Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      3.0     6.06      5.0      5.1
+   freq coarse =        3        6        5        5
+   freq fine   =        0        6        0       10
+FREQ DETUNE    =       15      -15        6        3

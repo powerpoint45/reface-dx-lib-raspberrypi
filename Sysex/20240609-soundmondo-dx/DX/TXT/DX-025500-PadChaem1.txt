@@ -1,0 +1,54 @@
+VOICE NAME     = PadChaem1 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        7
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =       40
+LFO DELAY      =       24
+LFO PMD        =        6
+PEG RATE 1     =      127
+PEG RATE 2     =        0
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       16 (Depth)
+FX1 PARAM 2    =       22 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       78 (Depth)
+FX2 PARAM 2    =       54 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       66       66       52       67
+EG RATE 2      =       72       14       63       47
+EG RATE 3      =      127      127       64      112
+EG RATE 4      =       70       70       75       29
+EG LEVEL 1     =      127      127       72      127
+EG LEVEL 2     =      127       97      111        0
+EG LEVEL 3     =      127       97      102        3
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        4        0
+LFO PMD Off/On =      Off      Off       On      Off
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      127       87       51       53
+FEEDBACK       =        5       29       41        0
+FB TYPE        =   Square Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      2.0      1.5    0.995
+   freq coarse =        1        2        1        0
+   freq fine   =        0        0       50       99
+FREQ DETUNE    =        0        0        0        0

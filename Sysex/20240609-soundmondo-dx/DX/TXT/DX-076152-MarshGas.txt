@@ -1,0 +1,54 @@
+VOICE NAME     = MarshGas  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        3
+LFO WAVE       = Triangle
+LFO SPEED      =       37
+LFO DELAY      =       56
+LFO PMD        =        1
+PEG RATE 1     =       64
+PEG RATE 2     =        0
+PEG RATE 3     =       64
+PEG RATE 4     =        0
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =       -4
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =      -33
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       88       71       74      104
+EG RATE 2      =        2        0       42       12
+EG RATE 3      =       26      127      127       91
+EG RATE 4      =       29       27       34       31
+EG LEVEL 1     =      120      117      117      127
+EG LEVEL 2     =      127      108      127       90
+EG LEVEL 3     =      115       72      127      116
+EG LEVEL 4     =        0        0        0        9
+RATE SCALING   =        6        1        0        0
+SCALING LD     =        8       14        0        0
+SCALING RD     =        4        5       16        0
+SCALING LC     =     -EXP     -LIN     -LIN     -LIN
+SCALING RC     =     +EXP     +LIN     +EXP     +LIN
+LFO AMD        =        0       25       15        9
+LFO PMD Off/On =      Off       On       On       On
+PEG Off/On     =      Off      Off      Off       On
+VELO SENS      =        0        7        0        0
+OUT LEVEL      =      127       66       66       70
+FEEDBACK       =       51        3       22        0
+FB TYPE        =   Square Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Fixed
+RATIO | FREQ   =      1.0     0.99    0.995    1.318
+   freq coarse =        1        0        0        1
+   freq fine   =        0       98       99       12
+FREQ DETUNE    =        0        5        5       -3

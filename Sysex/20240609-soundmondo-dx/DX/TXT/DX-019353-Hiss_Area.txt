@@ -1,0 +1,54 @@
+VOICE NAME     = Hiss Area 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        1
+LFO WAVE       = Triangle
+LFO SPEED      =       90
+LFO DELAY      =       91
+LFO PMD        =      106
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =       48
+PEG LEVEL 2    =       48
+PEG LEVEL 3    =       40
+PEG LEVEL 4    =       44
+FX1 TYPE       =        2 (Touch Wah)
+FX1 PARAM 1    =       30 (Sensibility)
+FX1 PARAM 2    =       74 (Rez)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       70 (Depth)
+FX2 PARAM 2    =       56 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127       60      127      127
+EG RATE 2      =      127       31      127      127
+EG RATE 3      =      127       33      127      127
+EG RATE 4      =      127       56      126      127
+EG LEVEL 1     =      126      119       84      127
+EG LEVEL 2     =       88      127      127       90
+EG LEVEL 3     =      110      101       78       80
+EG LEVEL 4     =       25        0        0        0
+RATE SCALING   =        4        4        4        4
+SCALING LD     =        0        0        0       11
+SCALING RD     =        0       18        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     +LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off       On       On       On
+VELO SENS      =       45       55       35       58
+OUT LEVEL      =      127      111      127       95
+FEEDBACK       =       75      114       80       26
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     1.24    17.16     1.92     11.0
+   freq coarse =        1       17        1       11
+   freq fine   =       24       16       92        0
+FREQ DETUNE    =        9        0       -9        0

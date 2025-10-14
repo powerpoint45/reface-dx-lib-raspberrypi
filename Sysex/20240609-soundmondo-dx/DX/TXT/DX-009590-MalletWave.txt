@@ -1,0 +1,54 @@
+VOICE NAME     = MalletWave
+============================
+TRANSPOSE      =       12
+MONO/POLY      =     Poly
+PORTA TIME     =        2
+PB RANGE       =        2
+ALGORITHM      =        9
+LFO WAVE       = Triangle
+LFO SPEED      =       76
+LFO DELAY      =       30
+LFO PMD        =        5
+PEG RATE 1     =      127
+PEG RATE 2     =      127
+PEG RATE 3     =       77
+PEG RATE 4     =       70
+PEG LEVEL 1    =       19
+PEG LEVEL 2    =       -2
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       29 (Depth)
+FX1 PARAM 2    =       58 (Time)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       70 (Depth)
+FX2 PARAM 2    =       62 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      112      127      120      100
+EG RATE 2      =       54       52       53       63
+EG RATE 3      =       34       26       28       32
+EG RATE 4      =       73       66       66       60
+EG LEVEL 1     =      127      127      127       89
+EG LEVEL 2     =      106      100      100       61
+EG LEVEL 3     =       45       45       45        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       18       18       18       39
+SCALING LD     =        3        1        1        6
+SCALING RD     =        3       15       16        0
+SCALING LC     =     +LIN     +LIN     +LIN     -LIN
+SCALING RC     =     -LIN     -EXP     -EXP     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off       On       On       On
+VELO SENS      =       43       80       74      106
+OUT LEVEL      =      124      119      116       98
+FEEDBACK       =       40       40       40      127
+FB TYPE        =   Square Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      2.0      3.0      0.5
+   freq coarse =        1        2        3        0
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        4       -3        0        0

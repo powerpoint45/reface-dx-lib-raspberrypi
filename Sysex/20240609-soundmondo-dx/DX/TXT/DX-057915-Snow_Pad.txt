@@ -1,0 +1,54 @@
+VOICE NAME     = Snow Pad  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       12
+ALGORITHM      =        6
+LFO WAVE       = Sample & Hold
+LFO SPEED      =       29
+LFO DELAY      =       76
+LFO PMD        =       70
+PEG RATE 1     =      111
+PEG RATE 2     =      117
+PEG RATE 3     =      127
+PEG RATE 4     =       75
+PEG LEVEL 1    =       -6
+PEG LEVEL 2    =        7
+PEG LEVEL 3    =       13
+PEG LEVEL 4    =       13
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       99 (Depth)
+FX1 PARAM 2    =       64 (Rate)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       24 (---)
+FX2 PARAM 2    =       66 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      122      114       86       80
+EG RATE 2      =       35        0      110       45
+EG RATE 3      =      127       81      109      127
+EG RATE 4      =       47       25       95        0
+EG LEVEL 1     =      120        9       90       61
+EG LEVEL 2     =       60       71       71      127
+EG LEVEL 3     =       16       28        3      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0       78        0        0
+SCALING LD     =      127       68      127        0
+SCALING RD     =       48       45        0        0
+SCALING LC     =     +EXP     +EXP     -LIN     -LIN
+SCALING RC     =     -EXP     -EXP     +LIN     +LIN
+LFO AMD        =        0        0      127      127
+LFO PMD Off/On =      Off      Off       On       On
+PEG Off/On     =      Off      Off       On       On
+VELO SENS      =       11       39        0        0
+OUT LEVEL      =      119      122       78      127
+FEEDBACK       =       51       32       35       64
+FB TYPE        = Sawtooth Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      2.0     5.01     6.08     2.09
+   freq coarse =        2        5        6        2
+   freq fine   =        0        1        8        9
+FREQ DETUNE    =        0       -1       29        0

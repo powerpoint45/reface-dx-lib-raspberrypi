@@ -1,0 +1,54 @@
+VOICE NAME     = Dooffer   
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        6
+PB RANGE       =        2
+ALGORITHM      =        5
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =       64
+LFO DELAY      =       68
+LFO PMD        =        4
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        4 (Flanger)
+FX1 PARAM 1    =       38 (Depth)
+FX1 PARAM 2    =       63 (Rate)
+FX2 TYPE       =        4 (Flanger)
+FX2 PARAM 1    =       12 (Depth)
+FX2 PARAM 2    =       31 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       82      127        3       92
+EG RATE 2      =       24      127       30       46
+EG RATE 3      =       49      127      127       63
+EG RATE 4      =       60        8        0       48
+EG LEVEL 1     =       99      127      126       78
+EG LEVEL 2     =      119      127       46      127
+EG LEVEL 3     =       87      127      122      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0       37        2        1
+SCALING RD     =        0        0        0        1
+SCALING LC     =     -LIN     -EXP     -EXP     +EXP
+SCALING RC     =     +LIN     +EXP     -LIN     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       18        0        0        0
+OUT LEVEL      =      101       69       84       71
+FEEDBACK       =      107        0        0        0
+FB TYPE        =   Square Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      1.0      1.0
+   freq coarse =        1        1        1        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

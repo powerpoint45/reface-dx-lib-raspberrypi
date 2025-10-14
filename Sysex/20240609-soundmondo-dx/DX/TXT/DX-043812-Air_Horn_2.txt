@@ -1,0 +1,54 @@
+VOICE NAME     = Air Horn  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       = Sawtooth Up
+LFO SPEED      =        7
+LFO DELAY      =        7
+LFO PMD        =       14
+PEG RATE 1     =       61
+PEG RATE 2     =       56
+PEG RATE 3     =       45
+PEG RATE 4     =       18
+PEG LEVEL 1    =        6
+PEG LEVEL 2    =        1
+PEG LEVEL 3    =       -2
+PEG LEVEL 4    =       -2
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       41 (Drive)
+FX1 PARAM 2    =       48 (Tone)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       64 (Depth)
+FX2 PARAM 2    =       64 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       61       61       61       61
+EG RATE 3      =       36       61       36       61
+EG RATE 4      =       55       66       55       61
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       99       97       97       97
+EG LEVEL 3     =        6        0        0        0
+EG LEVEL 4     =        6        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      127       70      127       70
+FEEDBACK       =      110       91      110       90
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Fixed    Fixed    Fixed    Fixed
+RATIO | FREQ   =  331.124      1.0  331.124      1.0
+   freq coarse =       16        2       16        2
+   freq fine   =       52        0       52        0
+FREQ DETUNE    =        0        0        6        0

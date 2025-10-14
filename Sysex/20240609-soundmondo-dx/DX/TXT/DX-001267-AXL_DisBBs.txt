@@ -1,0 +1,54 @@
+VOICE NAME     = AXL DisBBs
+============================
+TRANSPOSE      =        0
+MONO/POLY      = Mono-Legato
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =      104
+LFO DELAY      =        0
+LFO PMD        =       10
+PEG RATE 1     =      127
+PEG RATE 2     =       92
+PEG RATE 3     =      109
+PEG RATE 4     =      127
+PEG LEVEL 1    =       18
+PEG LEVEL 2    =        5
+PEG LEVEL 3    =      -12
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       22 (---)
+FX1 PARAM 2    =       20 (---)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       31 (Depth)
+FX2 PARAM 2    =       38 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       74       74       74       74
+EG RATE 3      =       78       78       78       78
+EG RATE 4      =       69       69       69       69
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       83       83       83       83
+EG LEVEL 3     =       51       51       51       51
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0       42       73       64
+SCALING LC     =     -LIN     -LIN     -LIN     +LIN
+SCALING RC     =     +LIN     -LIN     -LIN     +EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On      Off
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      127      112      116       79
+FEEDBACK       =       68      101       60       95
+FB TYPE        =   Square   Square   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5      0.5      1.0      1.0
+   freq coarse =        0        0        1        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       17        0        0       14

@@ -1,0 +1,54 @@
+VOICE NAME     = Motorway  
+============================
+TRANSPOSE      =      -24
+MONO/POLY      =     Poly
+PORTA TIME     =        1
+PB RANGE       =        2
+ALGORITHM      =        1
+LFO WAVE       = Triangle
+LFO SPEED      =       85
+LFO DELAY      =       29
+LFO PMD        =        0
+PEG RATE 1     =      117
+PEG RATE 2     =      110
+PEG RATE 3     =      110
+PEG RATE 4     =       65
+PEG LEVEL 1    =        4
+PEG LEVEL 2    =       -2
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       23 (Depth)
+FX1 PARAM 2    =       23 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       57 (Depth)
+FX2 PARAM 2    =       24 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      110      115      111      120
+EG RATE 2      =      114       71       79       90
+EG RATE 3      =       60       55       74       80
+EG RATE 4      =       75        0       75       90
+EG LEVEL 1     =      115      127      127      104
+EG LEVEL 2     =      127       98       68       85
+EG LEVEL 3     =       80       81       40       75
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       15       26       49       58
+SCALING LD     =       14        4        2        1
+SCALING RD     =       10        8       13        9
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     -LIN     -EXP     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off      Off       On       On
+VELO SENS      =       17       13       20       25
+OUT LEVEL      =      120       80       80       75
+FEEDBACK       =        7        7        7        7
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      2.0      1.0      7.0      8.0
+   freq coarse =        2        1        7        8
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

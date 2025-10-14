@@ -1,0 +1,54 @@
+VOICE NAME     = Carnival! 
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        7
+ALGORITHM      =        3
+LFO WAVE       = Triangle
+LFO SPEED      =      127
+LFO DELAY      =      122
+LFO PMD        =       18
+PEG RATE 1     =      127
+PEG RATE 2     =      127
+PEG RATE 3     =      127
+PEG RATE 4     =      127
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =      127       82       26      127
+EG RATE 3      =       55      127       82       17
+EG RATE 4      =       94      127      127      127
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127        3       69      127
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       43        0        0       43
+SCALING LD     =        0        8       10        7
+SCALING RD     =        0       31       37       29
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     -EXP     -EXP     -EXP     -EXP
+LFO AMD        =        0       40        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =       97       67       25       34
+FEEDBACK       =        0        0       16       17
+FB TYPE        = Sawtooth Sawtooth   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     1.93     1.41     0.93      1.0
+   freq coarse =        1        1        0        1
+   freq fine   =       93       41       86        0
+FREQ DETUNE    =        4        4       -4       -4

@@ -1,0 +1,54 @@
+VOICE NAME     = Digitar   
+============================
+TRANSPOSE      =      -12
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =     Sine
+LFO SPEED      =       70
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       88 (Depth)
+FX1 PARAM 2    =       36 (Rate)
+FX2 TYPE       =        1 (Distortion)
+FX2 PARAM 1    =       41 (Drive)
+FX2 PARAM 2    =        0 (Tone)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127       82       98       98
+EG RATE 2      =       84       90      100       69
+EG RATE 3      =       48       66       61       42
+EG RATE 4      =       50       52       50       40
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       53       41       59       44
+EG LEVEL 3     =        1        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0       53
+SCALING LD     =       26       24       36       16
+SCALING RD     =        5       12       15       12
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       20        0       20        0
+OUT LEVEL      =      125       91      107       74
+FEEDBACK       =      127       38       35       32
+FB TYPE        =   Square Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      5.0      6.0      3.0
+   freq coarse =        1        5        6        3
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0        0

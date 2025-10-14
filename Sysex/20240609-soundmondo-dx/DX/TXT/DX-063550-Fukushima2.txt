@@ -1,0 +1,54 @@
+VOICE NAME     = Fukushima2
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        7
+LFO WAVE       =     Sine
+LFO SPEED      =       64
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       27
+PEG RATE 2     =        5
+PEG RATE 3     =        0
+PEG RATE 4     =        0
+PEG LEVEL 1    =      -44
+PEG LEVEL 2    =       21
+PEG LEVEL 3    =        7
+PEG LEVEL 4    =       -8
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       14      127       63        3
+EG RATE 2      =       37       85       60       60
+EG RATE 3      =        0       91       60        9
+EG RATE 4      =       50        0        0        0
+EG LEVEL 1     =       88       34      127      107
+EG LEVEL 2     =       85       64       68       43
+EG LEVEL 3     =       47       79       83       61
+EG LEVEL 4     =       29        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off      Off      Off       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      100       68      100      127
+FEEDBACK       =       13      127      118       72
+FB TYPE        =   Square Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Fixed    Fixed
+RATIO | FREQ   =      1.0    26.39  151.355    2.138
+   freq coarse =        1       26       22        3
+   freq fine   =        0       39       18       33
+FREQ DETUNE    =        0        9        0        0

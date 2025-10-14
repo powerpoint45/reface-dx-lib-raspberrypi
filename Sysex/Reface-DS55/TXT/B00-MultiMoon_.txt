@@ -1,0 +1,54 @@
+VOICE NAME     = MultiMoon 
+============================
+TRANSPOSE      =      -24
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       = Triangle
+LFO SPEED      =        3
+LFO DELAY      =       74
+LFO PMD        =        8
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =      127
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =        0 (Depth)
+FX2 PARAM 2    =        0 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       84       73       79       68
+EG RATE 2      =      127      127      127      127
+EG RATE 3      =       17       11       17       11
+EG RATE 4      =       66       40       66       40
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       43        0       43        0
+SCALING LD     =        7       13        6        8
+SCALING RD     =       26       51       24       30
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     -EXP     -EXP     -EXP     -EXP
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       37       37       37       37
+OUT LEVEL      =      122       99      123       99
+FEEDBACK       =       16       16       32       57
+FB TYPE        =   Square   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      2.0      2.0      2.0      2.0
+   freq coarse =        2        2        2        2
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        4        1       -4       -4

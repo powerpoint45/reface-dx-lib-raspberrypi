@@ -1,0 +1,54 @@
+VOICE NAME     = Enceladus 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        6
+PB RANGE       =       12
+ALGORITHM      =        4
+LFO WAVE       = Triangle
+LFO SPEED      =       78
+LFO DELAY      =       30
+LFO PMD        =        6
+PEG RATE 1     =      127
+PEG RATE 2     =       32
+PEG RATE 3     =       28
+PEG RATE 4     =       49
+PEG LEVEL 1    =       17
+PEG LEVEL 2    =       -1
+PEG LEVEL 3    =      -24
+PEG LEVEL 4    =      -24
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =      127 (Depth)
+FX1 PARAM 2    =        0 (Rate)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       82 (Depth)
+FX2 PARAM 2    =       62 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       66      120       44      127
+EG RATE 2      =       40       58       27       52
+EG RATE 3      =      127       18       17       17
+EG RATE 4      =       59       39       51       39
+EG LEVEL 1     =       92      100       30      127
+EG LEVEL 2     =      127       98      100       80
+EG LEVEL 3     =      127      110      100       80
+EG LEVEL 4     =        0      127      127        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        5       32
+SCALING RD     =        4        3        6       32
+SCALING LC     =     -LIN     -LIN     +LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -EXP     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off       On       On       On
+PEG Off/On     =       On      Off      Off       On
+VELO SENS      =       10       21       30       30
+OUT LEVEL      =      117       53       82       87
+FEEDBACK       =        0       11       52       40
+FB TYPE        =   Square   Square   Square Sawtooth
+FREQ MODE      =    Fixed    Ratio    Ratio    Fixed
+RATIO | FREQ   =    2.188      2.5      1.0   27.542
+   freq coarse =        4        2        1       15
+   freq fine   =       34       50        0       44
+FREQ DETUNE    =        0        0        0       -7

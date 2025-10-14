@@ -1,0 +1,54 @@
+VOICE NAME     = Odd Pad   
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        4
+LFO WAVE       = Triangle
+LFO SPEED      =       13
+LFO DELAY      =       68
+LFO PMD        =        9
+PEG RATE 1     =       26
+PEG RATE 2     =       64
+PEG RATE 3     =        8
+PEG RATE 4     =        0
+PEG LEVEL 1    =       48
+PEG LEVEL 2    =       -8
+PEG LEVEL 3    =       -6
+PEG LEVEL 4    =      -48
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       50       46       15       95
+EG RATE 2      =       20       55        0       40
+EG RATE 3      =       71       55        4       32
+EG RATE 4      =       15       27       23       21
+EG LEVEL 1     =      123      103      107      105
+EG LEVEL 2     =       75       59      127       90
+EG LEVEL 3     =       81       94       36      113
+EG LEVEL 4     =       59       54       67       57
+RATE SCALING   =        4        0        0        0
+SCALING LD     =       54        0        7        0
+SCALING RD     =       37        0       29        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -EXP     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On      Off      Off      Off
+PEG Off/On     =      Off       On       On      Off
+VELO SENS      =        1        0        0        0
+OUT LEVEL      =      127       60       45       72
+FEEDBACK       =       70       79       30       56
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Fixed    Fixed    Fixed
+RATIO | FREQ   =     0.62      1.0  478.618 1479.099
+   freq coarse =        0        0       17       25
+   freq fine   =       24        0       68       17
+FREQ DETUNE    =       31        7        4        6

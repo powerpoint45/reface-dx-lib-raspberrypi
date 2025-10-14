@@ -1,0 +1,54 @@
+VOICE NAME     = BassByte 1
+============================
+TRANSPOSE      =      -12
+MONO/POLY      = Mono-Legato
+PORTA TIME     =        6
+PB RANGE       =        2
+ALGORITHM      =        3
+LFO WAVE       =     Sine
+LFO SPEED      =       83
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =      125
+PEG RATE 2     =      126
+PEG RATE 3     =      126
+PEG RATE 4     =      126
+PEG LEVEL 1    =        4
+PEG LEVEL 2    =        8
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       10 (---)
+FX1 PARAM 2    =       12 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       19 (---)
+FX2 PARAM 2    =       21 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      118      123      125      125
+EG RATE 2      =      122      126      127      112
+EG RATE 3      =       19       87       75       70
+EG RATE 4      =       79       75       84       75
+EG LEVEL 1     =       19       20      121      109
+EG LEVEL 2     =      127      126      119      114
+EG LEVEL 3     =      101       62       33       37
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       28       20        0       27
+SCALING LD     =       26       24        0        2
+SCALING RD     =       25        9        0        5
+SCALING LC     =     +LIN     +LIN     -LIN     +LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        4       13      117       37
+OUT LEVEL      =      113       82       78       52
+FEEDBACK       =        6       62       54       63
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      0.5      0.5      0.5     0.75
+   freq coarse =        0        0        0        0
+   freq fine   =        0        0        0       50
+FREQ DETUNE    =        0        0        0        0

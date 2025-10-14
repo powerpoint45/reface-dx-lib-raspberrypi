@@ -1,0 +1,54 @@
+VOICE NAME     = Ochuujingo
+============================
+TRANSPOSE      =       -1
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       24
+ALGORITHM      =        1
+LFO WAVE       = Sample & Hold
+LFO SPEED      =       90
+LFO DELAY      =        0
+LFO PMD        =       59
+PEG RATE 1     =       88
+PEG RATE 2     =      126
+PEG RATE 3     =      127
+PEG RATE 4     =       88
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =      -48
+PEG LEVEL 3    =       33
+PEG LEVEL 4    =        8
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       64 (Drive)
+FX1 PARAM 2    =       55 (Tone)
+FX2 TYPE       =        3 (Chorus)
+FX2 PARAM 1    =       77 (Depth)
+FX2 PARAM 2    =       48 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127       80
+EG RATE 2      =       65       62        0       45
+EG RATE 3      =       10      127        0      127
+EG RATE 4      =      127        0       68       68
+EG LEVEL 1     =       98       90      127       61
+EG LEVEL 2     =       95      127       83      127
+EG LEVEL 3     =       95      127        0      103
+EG LEVEL 4     =        0      127        0        0
+RATE SCALING   =        0        0        0      111
+SCALING LD     =        0        0      127       50
+SCALING RD     =       79        0        0       69
+SCALING LC     =     -LIN     -LIN     -EXP     +LIN
+SCALING RC     =     +EXP     -LIN     +EXP     +LIN
+LFO AMD        =       65        6        0        0
+LFO PMD Off/On =      Off      Off      Off      Off
+PEG Off/On     =       On       On      Off      Off
+VELO SENS      =       31       56       35       76
+OUT LEVEL      =      127       86       80      127
+FEEDBACK       =        0       22       87        3
+FB TYPE        = Sawtooth   Square Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     3.08      5.0      2.0     14.0
+   freq coarse =        3        5        2       14
+   freq fine   =        8        0        0        0
+FREQ DETUNE    =      -14        0        7       20

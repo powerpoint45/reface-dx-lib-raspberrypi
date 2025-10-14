@@ -1,0 +1,54 @@
+VOICE NAME     = Vlad 0    
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        9
+LFO WAVE       =     Sine
+LFO SPEED      =       78
+LFO DELAY      =       78
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       39 (---)
+FX1 PARAM 2    =       38 (---)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       11 (Depth)
+FX2 PARAM 2    =       29 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      125       39       64       76
+EG RATE 2      =        2        0        0      111
+EG RATE 3      =       39       39       13       92
+EG RATE 4      =       72       90      127      127
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127       37      100      127
+EG LEVEL 3     =      102        6        0       86
+EG LEVEL 4     =        9       13        0        0
+RATE SCALING   =       88       73       84       73
+SCALING LD     =       70       96       54       66
+SCALING RD     =      114        0       80       34
+SCALING LC     =     +EXP     +LIN     +EXP     +EXP
+SCALING RC     =     +LIN     +LIN     +LIN     +EXP
+LFO AMD        =        0       86        0       99
+LFO PMD Off/On =      Off      Off      Off       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       79       55       43       55
+OUT LEVEL      =       94      105       59      105
+FEEDBACK       =       80       80       56       95
+FB TYPE        = Sawtooth   Square Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Fixed    Ratio
+RATIO | FREQ   =      0.5     11.0    7.586      0.5
+   freq coarse =        0       11        2        0
+   freq fine   =        0        0       88        0
+FREQ DETUNE    =        6        0       -6        1

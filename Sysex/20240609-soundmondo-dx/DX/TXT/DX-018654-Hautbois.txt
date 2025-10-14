@@ -1,0 +1,54 @@
+VOICE NAME     = Hautbois  
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        4
+ALGORITHM      =        6
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =       66
+LFO DELAY      =        0
+LFO PMD        =        2
+PEG RATE 1     =      127
+PEG RATE 2     =       90
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =       -1
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       64 (Depth)
+FX1 PARAM 2    =        3 (Time)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       75 (Depth)
+FX2 PARAM 2    =       25 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      102      115      127
+EG RATE 2      =      127      127       95       76
+EG RATE 3      =      127      127       57       59
+EG RATE 4      =       80       90        0       68
+EG LEVEL 1     =      127      127      127       92
+EG LEVEL 2     =        0      127      127      127
+EG LEVEL 3     =        0      127      127       97
+EG LEVEL 4     =        0        0        0      127
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0       50        0
+SCALING RD     =        0       32        0        0
+SCALING LC     =     -LIN     -LIN     +LIN     -LIN
+SCALING RC     =     -LIN     -LIN     +LIN     +LIN
+LFO AMD        =        0        0        1        0
+LFO PMD Off/On =      Off      Off       On      Off
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =       36       36        0        0
+OUT LEVEL      =       80      127       70       40
+FEEDBACK       =        0        0        0        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Fixed    Ratio    Ratio    Ratio
+RATIO | FREQ   =  954.957      1.0      2.0      4.0
+   freq coarse =       20        1        2        4
+   freq fine   =       98        0        0        0
+FREQ DETUNE    =        0        0        0        0

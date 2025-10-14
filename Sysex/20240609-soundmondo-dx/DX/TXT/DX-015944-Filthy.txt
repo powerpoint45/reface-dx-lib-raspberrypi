@@ -1,0 +1,54 @@
+VOICE NAME     = Filthy    
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        3
+PB RANGE       =        2
+ALGORITHM      =        5
+LFO WAVE       =     Sine
+LFO SPEED      =       64
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        5 (Phaser)
+FX1 PARAM 1    =       64 (Depth)
+FX1 PARAM 2    =       25 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       47 (Depth)
+FX2 PARAM 2    =       94 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      100      100       92
+EG RATE 2      =      127      127      127       81
+EG RATE 3      =      127      127      127      127
+EG RATE 4      =      127       37       36       91
+EG LEVEL 1     =      127      127      127        0
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0       17       11        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     -LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0       21       20        0
+OUT LEVEL      =       96       95       75       56
+FEEDBACK       =        0       98       61       25
+FB TYPE        = Sawtooth Sawtooth Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Fixed
+RATIO | FREQ   =      1.0      0.5      1.0    3.802
+   freq coarse =        1        0        1        5
+   freq fine   =        0        0        0       58
+FREQ DETUNE    =        0        0        0        0

@@ -1,0 +1,54 @@
+VOICE NAME     = ShadowCast
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =       10
+LFO WAVE       = Sawtooth Down
+LFO SPEED      =       29
+LFO DELAY      =      107
+LFO PMD        =        0
+PEG RATE 1     =       87
+PEG RATE 2     =      126
+PEG RATE 3     =      127
+PEG RATE 4     =      127
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =      -48
+PEG LEVEL 3    =      -36
+PEG LEVEL 4    =        0
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =      104 (Depth)
+FX1 PARAM 2    =       30 (Rate)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =      108 (Depth)
+FX2 PARAM 2    =       26 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =      Off       On       On       On
+EG RATE 1      =       66       59       70       65
+EG RATE 2      =      127        0      127      127
+EG RATE 3      =      127      127      127      127
+EG RATE 4      =       78      114       64       73
+EG LEVEL 1     =      127      117      127      127
+EG LEVEL 2     =      127       99      127      127
+EG LEVEL 3     =      127       24      127      127
+EG LEVEL 4     =        0        0        1        0
+RATE SCALING   =       31        0        0        0
+SCALING LD     =       45        1        0       19
+SCALING RD     =        0        1       22       81
+SCALING LC     =     +EXP     +EXP     -LIN     -LIN
+SCALING RC     =     -LIN     +EXP     -EXP     -LIN
+LFO AMD        =      121       98      127       53
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =      101       40       42       60
+OUT LEVEL      =       68      113      106       99
+FEEDBACK       =      125       52       63       21
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Fixed
+RATIO | FREQ   =     3.98     4.97    0.535    3.631
+   freq coarse =        3        4        0        1
+   freq fine   =       98       97        7       56
+FREQ DETUNE    =        0      -64        8       10

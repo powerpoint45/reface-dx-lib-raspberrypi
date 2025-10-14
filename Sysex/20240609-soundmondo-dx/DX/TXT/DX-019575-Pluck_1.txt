@@ -1,0 +1,54 @@
+VOICE NAME     = Pluck    1
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        3
+LFO WAVE       = Triangle
+LFO SPEED      =       52
+LFO DELAY      =       20
+LFO PMD        =        0
+PEG RATE 1     =      126
+PEG RATE 2     =      126
+PEG RATE 3     =       88
+PEG RATE 4     =       74
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       54 (Depth)
+FX1 PARAM 2    =       62 (Time)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      104      126      120      120
+EG RATE 2      =       56       48       86       74
+EG RATE 3      =       56       20       30       48
+EG RATE 4      =       68       44       28       64
+EG LEVEL 1     =      126      126      112      120
+EG LEVEL 2     =      126      116       76      118
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =       32       38       38       36
+SCALING LD     =        0       26       10        0
+SCALING RD     =        0       26       10        0
+SCALING LC     =     -LIN     +LIN     +LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       22        0        4        0
+OUT LEVEL      =      100       80       90       60
+FEEDBACK       =        0        0        0        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      1.0      6.0      1.0
+   freq coarse =        1        1        6        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =       -4        4        2       -2

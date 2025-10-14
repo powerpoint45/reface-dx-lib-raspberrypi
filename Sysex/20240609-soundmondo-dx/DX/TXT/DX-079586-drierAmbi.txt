@@ -1,0 +1,54 @@
+VOICE NAME     = drierAmbi 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       24
+ALGORITHM      =       11
+LFO WAVE       = Sample & Hold
+LFO SPEED      =       43
+LFO DELAY      =      127
+LFO PMD        =        0
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =      -32
+PEG LEVEL 2    =        2
+PEG LEVEL 3    =       22
+PEG LEVEL 4    =      -28
+FX1 TYPE       =        3 (Chorus)
+FX1 PARAM 1    =       74 (Depth)
+FX1 PARAM 2    =       81 (Rate)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       75 (Depth)
+FX2 PARAM 2    =       64 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127       95       27       50
+EG RATE 2      =       93       58       79      127
+EG RATE 3      =       18      127      127      127
+EG RATE 4      =       62       37       61       25
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =      127      127      127      127
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0       43        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =      Off      Off      Off      Off
+VELO SENS      =        1        0       18        0
+OUT LEVEL      =      102       32       72       63
+FEEDBACK       =        4       16       44       48
+FB TYPE        = Sawtooth   Square Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      0.5      1.0      1.0
+   freq coarse =        1        0        1        1
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0      -18        0

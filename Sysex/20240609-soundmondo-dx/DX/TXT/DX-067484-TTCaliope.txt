@@ -1,0 +1,54 @@
+VOICE NAME     = TTCaliope 
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        3
+LFO WAVE       = Triangle
+LFO SPEED      =       82
+LFO DELAY      =       34
+LFO PMD        =        8
+PEG RATE 1     =      127
+PEG RATE 2     =       64
+PEG RATE 3     =      127
+PEG RATE 4     =      127
+PEG LEVEL 1    =        1
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       64 (Drive)
+FX1 PARAM 2    =       64 (Tone)
+FX2 TYPE       =        6 (Delay)
+FX2 PARAM 1    =       61 (Depth)
+FX2 PARAM 2    =       35 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       47      122       10       85
+EG RATE 2      =       60      106       69       36
+EG RATE 3      =       32      103       45       93
+EG RATE 4      =       68      121       78      126
+EG LEVEL 1     =       50       39       51       43
+EG LEVEL 2     =       87       19       61       48
+EG LEVEL 3     =      126       68       59      117
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =       93       10       92       49
+FEEDBACK       =       37        8       98        0
+FB TYPE        = Sawtooth   Square Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      2.0    25.95      3.0
+   freq coarse =        1        2       25        3
+   freq fine   =        0        0       95        0
+FREQ DETUNE    =        0        0       -4        0

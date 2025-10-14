@@ -1,0 +1,54 @@
+VOICE NAME     = Izmir     
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        9
+LFO WAVE       = Sample & Hold
+LFO SPEED      =      117
+LFO DELAY      =       73
+LFO PMD        =        4
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       64
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       95 (Depth)
+FX1 PARAM 2    =       41 (Time)
+FX2 TYPE       =        5 (Phaser)
+FX2 PARAM 1    =       66 (Depth)
+FX2 PARAM 2    =       16 (Rate)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =      Off       On       On       On
+EG RATE 1      =        0       18        0        0
+EG RATE 2      =        0        0        0        0
+EG RATE 3      =      103       39       21       38
+EG RATE 4      =       81       46       98       25
+EG LEVEL 1     =        0        0        0        0
+EG LEVEL 2     =        0       60       48        0
+EG LEVEL 3     =        0      127      127      127
+EG LEVEL 4     =      127        0        0        0
+RATE SCALING   =        0        0        8      127
+SCALING LD     =        0       13        0       14
+SCALING RD     =        0        0        0        9
+SCALING LC     =     -LIN     +LIN     -LIN     +LIN
+SCALING RC     =     +LIN     +LIN     +LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =      Off       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       59       65       60       62
+OUT LEVEL      =      113      108      127      118
+FEEDBACK       =        0        0        0        0
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0      2.0      1.0     6.01
+   freq coarse =        1        2        1        6
+   freq fine   =        0        0        0        1
+FREQ DETUNE    =        0        2        0        5

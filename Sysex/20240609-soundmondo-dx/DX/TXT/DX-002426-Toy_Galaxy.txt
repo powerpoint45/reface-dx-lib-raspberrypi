@@ -1,0 +1,54 @@
+VOICE NAME     = Toy Galaxy
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       =   Square
+LFO SPEED      =       65
+LFO DELAY      =        0
+LFO PMD        =       64
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =       48
+PEG RATE 4     =        0
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =      -13
+PEG LEVEL 4    =      -13
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        0 (Thru)
+FX2 PARAM 1    =       64 (---)
+FX2 PARAM 2    =       64 (---)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =       90      127      105       90
+EG RATE 2      =      127      127      127      127
+EG RATE 3      =       55       22       55       16
+EG RATE 4      =       70       80       70       60
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =      127      127      127      127
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =       37       24        0        0
+SCALING RD     =        0       22        0       20
+SCALING LC     =     +LIN     +EXP     -LIN     -LIN
+SCALING RC     =     +LIN     -LIN     +LIN     -LIN
+LFO AMD        =      127        0        0        0
+LFO PMD Off/On =      Off      Off       On      Off
+PEG Off/On     =      Off      Off       On      Off
+VELO SENS      =        0        0       75        0
+OUT LEVEL      =      127       80      127       55
+FEEDBACK       =        0       50        0       74
+FB TYPE        = Sawtooth   Square Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =      1.0     1.75      6.0      6.0
+   freq coarse =        1        1        6        6
+   freq fine   =        0       75        0        0
+FREQ DETUNE    =        0        0        0        0

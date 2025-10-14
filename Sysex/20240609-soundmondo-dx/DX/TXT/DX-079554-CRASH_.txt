@@ -1,0 +1,54 @@
+VOICE NAME     = CRASH!    
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       24
+ALGORITHM      =        1
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =       87
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =      122
+PEG RATE 2     =      105
+PEG RATE 3     =       70
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        1 (Distortion)
+FX1 PARAM 1    =       67 (Drive)
+FX1 PARAM 2    =        0 (Tone)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       36 (Depth)
+FX2 PARAM 2    =       68 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      123      127      127      127
+EG RATE 2      =       67        0       52       56
+EG RATE 3      =       41        0       28        0
+EG RATE 4      =      127      100       84      100
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =       16       25       35       19
+EG LEVEL 3     =        0        0        0        0
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     +LIN     +LIN     +LIN     +LIN
+LFO AMD        =        0       31       33       54
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      100      127      127      127
+FEEDBACK       =      127      127      127      127
+FB TYPE        = Sawtooth   Square   Square Sawtooth
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =     30.0     14.0     1.92      5.0
+   freq coarse =       30       14        1        5
+   freq fine   =        0        0       92        0
+FREQ DETUNE    =        0        0        0        0

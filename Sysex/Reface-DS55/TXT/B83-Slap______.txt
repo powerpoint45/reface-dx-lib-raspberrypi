@@ -1,0 +1,54 @@
+VOICE NAME     = Slap      
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        2
+ALGORITHM      =        8
+LFO WAVE       = Sample & Hold 8
+LFO SPEED      =       91
+LFO DELAY      =        0
+LFO PMD        =       52
+PEG RATE 1     =       64
+PEG RATE 2     =       64
+PEG RATE 3     =      127
+PEG RATE 4     =       64
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        0 (Thru)
+FX1 PARAM 1    =       64 (---)
+FX1 PARAM 2    =       64 (---)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =        0 (Depth)
+FX2 PARAM 2    =        0 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =       87       35       91      127
+EG RATE 3      =      127      110      127       11
+EG RATE 4      =       88       21       88       21
+EG LEVEL 1     =      127      127      127      127
+EG LEVEL 2     =        0       28        0       82
+EG LEVEL 3     =        0        0        0       82
+EG LEVEL 4     =        0        0        0        0
+RATE SCALING   =        0        0        0        0
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     +LIN     +LIN     +LIN     +LIN
+SCALING RC     =     -EXP     -EXP     -EXP     -EXP
+LFO AMD        =       33       33       33       33
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =       37       45       37       53
+OUT LEVEL      =      127      127      127      127
+FEEDBACK       =       80       80        0       64
+FB TYPE        =   Square   Square Sawtooth Sawtooth
+FREQ MODE      =    Fixed    Fixed    Fixed    Fixed
+RATIO | FREQ   = 3630.702 1995.239   9772.0   9772.0
+   freq coarse =       24       24       24       24
+   freq fine   =       56       30       99       99
+FREQ DETUNE    =        4       -4       -4        4

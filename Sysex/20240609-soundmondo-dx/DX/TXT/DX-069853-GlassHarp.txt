@@ -1,0 +1,54 @@
+VOICE NAME     = Chopper   
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =        0
+ALGORITHM      =        4
+LFO WAVE       =     Sine
+LFO SPEED      =        0
+LFO DELAY      =        0
+LFO PMD        =        0
+PEG RATE 1     =       51
+PEG RATE 2     =       35
+PEG RATE 3     =       48
+PEG RATE 4     =       26
+PEG LEVEL 1    =        0
+PEG LEVEL 2    =        0
+PEG LEVEL 3    =        0
+PEG LEVEL 4    =        0
+FX1 TYPE       =        7 (Reverb)
+FX1 PARAM 1    =       49 (Depth)
+FX1 PARAM 2    =       43 (Time)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       75 (Depth)
+FX2 PARAM 2    =       64 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127      127      127      127
+EG RATE 2      =      127      127       52      127
+EG RATE 3      =      127      127       56      127
+EG RATE 4      =      127      127      127      127
+EG LEVEL 1     =      115      127      127      127
+EG LEVEL 2     =      115      127      127      127
+EG LEVEL 3     =      115      127      127      127
+EG LEVEL 4     =      115      127        0      127
+RATE SCALING   =        4        4        4        4
+SCALING LD     =        0        0        0        0
+SCALING RD     =        0        0        0        0
+SCALING LC     =     -LIN     -LIN     -LIN     -LIN
+SCALING RC     =     -LIN     -LIN     -LIN     -LIN
+LFO AMD        =        0        0        0        0
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On       On
+VELO SENS      =        0        0        0        0
+OUT LEVEL      =      127       70       44       85
+FEEDBACK       =       79       66       46       20
+FB TYPE        = Sawtooth Sawtooth Sawtooth Sawtooth
+FREQ MODE      =    Fixed    Fixed    Fixed    Ratio
+RATIO | FREQ   =      1.0      1.0      1.0      0.5
+   freq coarse =        0        0        0        0
+   freq fine   =        0        0        0        0
+FREQ DETUNE    =        0        0        0       -5

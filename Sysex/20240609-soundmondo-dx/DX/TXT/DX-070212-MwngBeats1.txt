@@ -1,0 +1,54 @@
+VOICE NAME     = MwngBeats1
+============================
+TRANSPOSE      =        0
+MONO/POLY      =     Poly
+PORTA TIME     =        0
+PB RANGE       =       12
+ALGORITHM      =       10
+LFO WAVE       =     Sine
+LFO SPEED      =       87
+LFO DELAY      =       41
+LFO PMD        =        0
+PEG RATE 1     =      127
+PEG RATE 2     =      102
+PEG RATE 3     =       57
+PEG RATE 4     =       64
+PEG LEVEL 1    =       48
+PEG LEVEL 2    =      -14
+PEG LEVEL 3    =      -12
+PEG LEVEL 4    =      -38
+FX1 TYPE       =        6 (Delay)
+FX1 PARAM 1    =       87 (Depth)
+FX1 PARAM 2    =       90 (Time)
+FX2 TYPE       =        7 (Reverb)
+FX2 PARAM 1    =       24 (Depth)
+FX2 PARAM 2    =       77 (Time)
+
+                      OP1      OP2      OP3      OP4     
+----------------------------------------------------
+OP Off/On      =       On       On       On       On
+EG RATE 1      =      127       30      127       80
+EG RATE 2      =      127       62       73       45
+EG RATE 3      =       66      127       70      127
+EG RATE 4      =      100       42       90       68
+EG LEVEL 1     =       74       87      117       54
+EG LEVEL 2     =      102       75       80      127
+EG LEVEL 3     =       54       60       52      127
+EG LEVEL 4     =       26       28       20      107
+RATE SCALING   =       98       79       11        0
+SCALING LD     =       59       34      127       14
+SCALING RD     =      127      127      127       99
+SCALING LC     =     +LIN     +EXP     -LIN     -EXP
+SCALING RC     =     -LIN     +EXP     -EXP     -EXP
+LFO AMD        =      116        9      127      127
+LFO PMD Off/On =       On       On       On       On
+PEG Off/On     =       On       On       On      Off
+VELO SENS      =       38       40       61        0
+OUT LEVEL      =      108      127       29      127
+FEEDBACK       =       39        1       17       49
+FB TYPE        =   Square   Square Sawtooth   Square
+FREQ MODE      =    Ratio    Ratio    Ratio    Ratio
+RATIO | FREQ   =    10.24      6.0     20.0     9.24
+   freq coarse =       10        6       20        9
+   freq fine   =       24        0        0       24
+FREQ DETUNE    =        0        0        3        0
